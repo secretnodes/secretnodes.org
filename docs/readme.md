@@ -11,7 +11,7 @@ We're a community-led group of individuals who care about privacy, data ownershi
 
 ## Community
 
-For real time community support for your secretnode vist us at [Gitter chat room](https://gitter.im/secretnodes-org/support).
+For real time community support for your secretnode vist us at [Enigma Node-Help](https://discord.gg/rNRjKFy).
 
 ## Donate
 
