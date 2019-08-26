@@ -7,7 +7,6 @@ The minimum ENG stake required for a mainnet secret node is *25,000 ENG*. This n
 
 In return for operating a secret node and staking on Enigma, node operators receive a share of fees paid on the network as well as block rewards. Block rewards for the Enigma network will begin at 750,000 ENG for the first year the mainnet is in operation and decrease 10% year-over-year thereafter. The total block rewards pool is thus 7.5M ENG and will not be exhausted for the first century the network is in operation. This pool is 1/5th of the total token pool reserved for network, community, and ecosystem incentives (37.5M ENG). Block rewards on the Enigma network, by year and cumulative. Please keep in mind that the total supply of ENG is fixed at 150M ENG, with 75M ENG already in circulation since 2017 and the vast majority of the remainder not expected to enter circulation within the next few years. We visualize this below:
 
-
 <p style="text-align:center;"><img src="_media/blockreward.png" alt="visualized" width="500"/></p>
 
 ## What (and why) is a genesis node?

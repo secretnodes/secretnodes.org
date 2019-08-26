@@ -4,7 +4,7 @@ We're a community-led group of individuals who care about privacy, data ownershi
 
 ## Announcements
 
-- The snapshot has begun! (1) [Genesis Games Overview](genesisgames-overview.md) (*) [Source @enigma.co](https://blog.enigma.co/eng-mainnet-token-snapshot-dates-and-next-steps-d3b9626b30d5) ~ Aug 26th 2019
+- The snapshot has begun! (1) [Genesis Games Overview](/genesisgames-overview?id=when-is-the-eng-snapshot-window) (*) [Source @enigma.co](https://blog.enigma.co/eng-mainnet-token-snapshot-dates-and-next-steps-d3b9626b30d5) ~ Aug 26th 2019
 
 
 ## Donate
