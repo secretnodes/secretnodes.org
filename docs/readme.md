@@ -11,7 +11,7 @@ We're a community-led group of individuals who care about privacy, data ownershi
 
 ## Community
 
-For real time community support for your secretnode vist us at [Enigma Node-Help](https://discord.gg/rNRjKFy).
+For real time community support for your secretnode vist our channel in Discord at [Node-Help](https://discord.gg/rNRjKFy).
 
 ## Donate
 
