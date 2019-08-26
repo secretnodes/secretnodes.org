@@ -9,7 +9,9 @@
 
 - Tutorials
 
-  <!-- - [How to deploy a Secret Node (Non-Networked)](deploy-snnn.md "How to deploy a Secret Node (Non-Networked)") -->
+    - [Contributing (Advanced)](tutorials/CONTRIBUTING-advanced.md "Contributing (Advanced)")
+  <!--  - [Contributing (Simple)](tutorials/CONTRIBUTING-simple.md "Contributing (Simple)") -->
+  <!-- - [How to deploy a Secret Node (Non-Networked)](tutorials/deploy-snnn.md "How to deploy a Secret Node (Non-Networked)") -->
 
 - Community Rules
 

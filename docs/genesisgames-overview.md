@@ -25,9 +25,9 @@ To run a node on testnet, you will need to stake testnet ENG tokens. Again, in t
 # What’s next on the Genesis Game timeline?
 
 Recapping from and adding to our previous post:
-1. The first snapshot will occur on August 26th, 2019. The last snapshot will occur on September 24th, 2019. (Again, snapshots are conducted daily at a random hour.)
+1. The first snapshot will occur on August 26th, 2019. The last snapshot will occur on September 24th, 2019. (Snapshots are conducted daily at a random hour.)
 2. After the window closes, average holdings will be calculated as mentioned.
 3. testENG tokens will be distributed based on average holdings.
 4. The Discovery release of our protocol will be deployed on Ethereum testnet. This is the beginning of the “testnet period”. The Genesis Game will not begin on the day of deployment, in order to give node operators time to set up and test their nodes. We’ll have more guidance on this as we approach testnet release.
 5. The Genesis Game begins and runs for a period of 4–8 weeks.
-6. Genesis Nodes are selected based on their Genesis Score during the game period. (Again, please see our previous posts for more information on how nodes will be selected.)
+6. Genesis Nodes are selected based on their Genesis Score during the game period.

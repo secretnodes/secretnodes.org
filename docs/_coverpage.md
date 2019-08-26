@@ -1,12 +1,12 @@
 ![logo](_media/favicon.png)
 
-# Secret Nodes <small>0.0.2</small>
+# Secret Nodes <small>0.0.2v</small>
 
 > Securing the decentralized web.
 
 - Solves for privacy and scalability.
 - Computations over encrypted data.
-- Decentralized and censorship resistant network.
+- Decentralized and censorship resistant node network.
 
 [GitHub](https://github.com/secretnodes/learn)
 [Getting Started](#Welcome)
