@@ -18,7 +18,7 @@ Therefore, the number of secret nodes available when Discovery is deployed on ma
 ## How are genesis nodes selected?
 
 Nodes active during Discovery’s testnet phase will be assigned a weighted score calculated based on their total (testnet) ENG staked and their uptime during this period. This “genesis score” is projected to be calculated based on the following formula:
-        - sqrt (avg_staked_amount) * number_of_days_staked * percentage_uptime
+    - sqrt (avg_staked_amount) * number_of_days_staked * percentage_uptime
 Anyone can participate in the Genesis Game during the testnet staking period. The “game” itself is projected to last eight weeks. At the conclusion of this phase, genesis nodes will be selected as follows:
 * The top 30 nodes by genesis score are selected as genesis nodes.
 * More nodes (up to 10 maximum) will be eligible for whitelisting based on contributions to the Enigma ecosystem, primarily those building supply-side tooling for workers and staking operations.
