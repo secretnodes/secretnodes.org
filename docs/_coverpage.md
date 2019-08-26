@@ -1,20 +1,15 @@
-![logo](_media/favicon.png)
-
-# Secret Nodes <small>0.0.2v</small>
+<img src="_media/logo-blk.png" class="center">
 
 > Securing the decentralized web.
 
-- Solves for privacy and scalability.
-- Computations over encrypted data.
-- Decentralized and censorship resistant node network.
+- 🚀 Node Support
+- 🌐 Solves for privacy and scalability.
+- 🔒 Computations over encrypted data.
+- 📶 Decentralized and censorship resistant node network.
 
-[GitHub](https://github.com/secretnodes/learn)
-[Getting Started](#Welcome)
+<div class="buttons">
+  <a href="https://github.com/secretnodes/learn" target="_blank"><span>GitHub</span></a>
+  <a href="#/README"><span>Get Started</span></a>
+</div>
 
-<!-- background image -->
 
-<!-- ![](_media/bg.png) -->
-
-<!-- background color -->
-
-![color](#065198)
