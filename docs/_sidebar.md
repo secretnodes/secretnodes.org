@@ -5,6 +5,7 @@
   <!-- - [What are Secret Nodes?](secretnodes-quickstart.md "What are Secret Nodes?") -->
   - [Genesis Games Overview](genesisgames-overview.md "Genesis Games Overview")
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
+  <!-- - [Utility](utility-overview.md "Utility Overview") -->
   - [FAQ](faq.md "FAQ")
 
 - Tutorials
