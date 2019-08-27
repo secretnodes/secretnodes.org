@@ -29,11 +29,11 @@ As it turns out, there are several ways to compute over encrypted data — each 
 ## Fully Homomorphic Encryption (FHE)
 Before we explain what a (fully) homomorphic encryption scheme, it seems appropriate for completeness to remind how a plain encryption scheme is defined. An encryption scheme is given by two algorithms Encrypt and Decrypt, that works as follows:
 
->ciphertext = Encrypt(key, message) — given a secret key and a plaintext message, one can obtain a ciphertext that reveals nothing (on its own) about the message
+* ciphertext = Encrypt(key, message) — given a secret key and a plaintext message, one can obtain a ciphertext that reveals nothing (on its own) about the message
 
->message = Decrypt(key, ciphertext) — given a secret key and ciphertext, one can obtain the original plaintext message.
+* message = Decrypt(key, ciphertext) — given a secret key and ciphertext, one can obtain the original plaintext message.
 
->In the case of public-key crypto, the encryption and decryption keys differ. For the sake of this article, this distinction is not important.
+* In the case of public-key crypto, the encryption and decryption keys differ. For the sake of this article, this distinction is not important.
 
 In simpler terms, an encryption allows us to hide data in a way that appears meaningless to anyone except those who have access to the secret decryption key. Without the key, the data is meaningless. One shortcoming of encryption is that generally, doing a computation over the ciphertext-space does not affect the ciphertexts in the same way as doing the computation over the plaintext data. If, however, it does, then we call this scheme homomorphic.
 
@@ -55,9 +55,9 @@ MPC then proposes to emulate such a trusted third party by using a bunch of untr
 
 There are two main ways to implement MPC — Secret Sharing and Garbled Circuits. We will focus on the secret sharing version here, as that’s what Enigma uses, and is also more suited for performance-sensitive applications. Like in the encryption case, we can define secret sharing using a set of two distributed algorithms — Share (the equivalent of Encrypt) and Reconstruct (the equivalent of Decrypt):
 
->m1 , m2, …, mn = Share(m, n, t)
+* m1 , m2, …, mn = Share(m, n, t)
 
->m = Reconstruct(m1 , m2, …, mk)
+* m = Reconstruct(m1 , m2, …, mk)
 
 Instead of creating a single ciphertext using a key, the share function splits a message into n encrypted shares of the message. Each message on its own is meaningless, but any set of t or more such shares can be used to reconstruct the original message back. No keys are needed! If you were paying attention, you could already imagine how this works in production. If you want to protect some data, simply call Share on the client-side, and transmit one resultant share to each computer in the network. An attacker would need to compromise t servers at any given point in time to get the data back, which is highly unlikely for a large t.
 
