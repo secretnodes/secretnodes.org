@@ -2,7 +2,7 @@
 - Getting started
 
   - [What is Enigma?](enigma-quickstart.md "What is Enigma?")
-  - [Enigma Node Types](secretnodes-quickstart.md "What are Secret Nodes?")
+  - [Enigma Nodes Overview](secretnodes-quickstart.md "What are Secret Nodes?")
   - [Genesis Games Overview](genesisgames-overview.md "Genesis Games Overview")
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
   <!-- - [Utility](utility-overview.md "Utility Overview") -->
