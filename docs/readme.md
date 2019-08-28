@@ -3,9 +3,10 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/secretnodes/learn)](https://github.com/secretnodes/learn/commits/master)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/secretnodes/learn)](https://github.com/secretnodes/learn/issues)
 
+We're a community-led group of individuals who care about privacy, data ownership, and are dedicated to supporting secret node runners. Taking from the public communications enigma has made and gathering useful answers from the community, we've created the most comprehensive resource for learning about enigma and Secret Nodes. [Jump right in and start learning!](/enigma-quickstart). 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1NydoKd_Q0?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We're a community-led group of individuals who care about privacy, data ownership, and are dedicated to supporting secret node runners.
 ## Announcements
 
 - Enigma and Outlier Ventures Announce Strategic Partnership. [@enigma.co](http://bit.ly/2zqcR6G), [@outlierventures.io](https://outlierventures.io/outlier-ventures-announces-strategic-partnership-with-enigma-protocol/) ~ Aug 27th 2019
@@ -18,4 +19,3 @@ For real time community support for your secretnode vist our channel in Discord 
 ## Donate
 
 Please consider donating if you think secretnodes is helpful to you or that our work is valuable. [Send ETH](https://etherscan.io/address/donations.secretnodes.eth) :heart:
-

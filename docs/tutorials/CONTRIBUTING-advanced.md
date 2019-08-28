@@ -1,4 +1,4 @@
-# Advanced
+# Contributing Advanced
 
 To contribute to https://learn.secretnodes.org please follow these guidelines.
 
@@ -27,14 +27,6 @@ Start docsify from the `./docs` subdirectory, use the `init` command.
 docsify init ./docs
 ```
 
-## Tips for contributing
-
-1. Make sure all new features are tested and the tests pass.
-2. Bug fixes must include a description demonstrating the error that it fixes.
-3. Open an issue first and seek advice for your change before submitting
-   a pull request. Large features which have never been discussed are
-   unlikely to be accepted. *You have been warned.*
-
 ## Writing Tutorials
 
 To edit or add tutorials, cd into the tutorials folder and either edit or create new tutorials in markdown.
@@ -43,12 +35,21 @@ To edit or add tutorials, cd into the tutorials folder and either edit or create
 cd ./docs/tutorials
 ```
 
-Now simply edit the markdown files with your favorite editor.
+Now simply edit the markdown files with your favorite editor. To test this out, go ahead and edit the contributing-advanced.md tutorial.
 
 ```bash
 nano contributing-advanced.md
 ```
+ 
+Then preview the changes on your local machine by doing the following.
 
-## Markdown Overview
+```bash
+cd ./learn
+```
+Then serve the site on your local machine.
 
-To be continued!
+```bash
+docsify serve docs
+````
+
+Congratulations! 🎉 You are now a Developer😏
