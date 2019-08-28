@@ -1,5 +1,8 @@
 # FAQ
 
+## How does enigma use Ethereum?
+Ethereums blockchain used as a verification layer. Each private computation records a hash on the blockchain. The hash merely verifies that the computation executed successfully without anyone interfering.
+
 ## What is the minimum ENG stake required for Enigma?
 The minimum ENG stake required for a mainnet secret node is *25,000 ENG*. This number was selected based on our study of many other networks, internal modeling based on the current distribution of ENG, and balancing our desire for decentralization with network sustainability and having meaningful stakes for node operators. This minimum threshold will however be reduced over the life of the network.
 
