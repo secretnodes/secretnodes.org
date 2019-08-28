@@ -17,7 +17,7 @@
 
   - [Contributing Guidelines](tutorials/contributing.md)
   - [Contributing (Advanced)](tutorials/CONTRIBUTING-advanced.md "Contributing (Advanced)")
-  - [Contributing (Simple)](tutorials/CONTRIBUTING-simple.md "Contributing (Simple)")
+  <!-- - [Contributing (Simple)](tutorials/CONTRIBUTING-simple.md "Contributing (Simple)") -->
   <!-- - [How to deploy a Secret Node (Non-Networked)](tutorials/deploy-snnn.md "How to deploy a Secret Node (Non-Networked)") -->
 
 - Community
