@@ -21,10 +21,10 @@ Next Unit of Computing (NUC) is a line of small-form-factor barebone computer ki
 3. During bootup press “Del” to get into the bios.
 
 Navigate through the bios as follows.
-*  Advanced
+* Advanced
 * Chipset Configuration
 * System Agent (SA) Configuration
-* Activate "SW Guard Extensions (SGX)"
+* Enable "SW Guard Extensions (SGX)"
 
 Now exit and save the settings.
 
@@ -49,7 +49,18 @@ Getting the right configuration on Vultr.
 
 1. Get the password for your VPS from the server page.
 
-2. On OSX, or Linux open Terminal and login to your node. 
+2. If you're using Windows 10 64-bit or newer, launch PuTTY then enter the IP address of your Secret Node into the "Host Name" field. Then click open.
+
+If you don't already have putty then download it.
+* Go to [Putty.org](https://www.putty.org/)
+* Click "here" where it says "You can download PuTTY here."
+* Below the "Package Files" section, see "MSI (‘Windows Installer’)" and download the most recent 64-bit version of Putty.
+* Run the Installer.
+* Run Putty.
+* Enter the IP address of your Secret Node into the "Host Name" field. Then click open.
+
+
+3. On OSX, or Linux open Terminal and login to your node. (Skip if using Windows.)
 
 ```bash
 ssh root@<your-nodes-ip>

@@ -1,6 +1,8 @@
 # Deploy a Secret Node on Vultr
 Guide Version 0.16 | Date Sep 22, 2019 | Pre-Genesis Games Edition
 
+**Estimated Time | 15 - 30 Minutes depending on experience.**
+
 This guide will cover how to install the prerequisite software needed for your SGX compatible hardware. Once completed your Secret Node will be prepared for the Genesis Games.
 
 # Part 1 - Setting up your VPS.
@@ -42,8 +44,22 @@ Now exit and save the settings.
 
 1. Get the password for your VPS from the server page.
 
-2. On OSX, or Linux open Terminal and login to your node. 
+## Windows Users
+If you're using Windows 10 64-bit or newer, launch PuTTY then enter the IP address of your Secret Node into the "Host Name" field. Then click open. This will allow you to remote administrate your Secret Node from a windows machine.
 
+If you don't already have putty then download it.
+* Go to [Putty.org](https://www.putty.org/)
+* Click "here" where it says "You can download PuTTY here."
+* Below the "Package Files" section, see "MSI (‘Windows Installer’)" and download the most recent 64-bit version of Putty.
+* Run the Installer.
+* Run Putty.
+* Enter the IP address of your Secret Node into the "Host Name" field. Then click open.
+
+## OSX & Linux Users
+On OSX, or Linux open Terminal and login to your node. (Skip if using Windows.)
+ This will allow you to remote administrate your Secret Node from an Apple or Linux machine.
+
+* Open a terminal session.
 ```bash
 ssh root@<your-nodes-ip>
 ```
@@ -51,17 +67,19 @@ ssh root@<your-nodes-ip>
 
 # Part 4 - Creating non-root User
 
-Create a non-root User. Here we will create a user named asn, you can substitute this for anything.
+While you have remote access to your Secret Node as the root user, create a non-root user.
+
+1. Create a non-root User. Here we will create a user named asn, you can substitute this for anything.
 ```bash
 USERNAME=asn
 ```
 
-This will permission this user to access log files and sudo.
+2. This will permission this user to access log files and sudo.
 ```bash
 useradd -m -s /bin/bash -G adm,systemd-journal,sudo $USERNAME && passwd $USERNAME
 ```
 
-Now exit your terminal session and start a new one, this time login with the new user you created with the password you set.
+3. Now exit your remote session and start a new one, this time login with the new user you created with the password you set.
 ```bash
 ssh asn@<your-nodes-ip>
 ```
