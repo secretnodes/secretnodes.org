@@ -8,17 +8,11 @@
   <!-- - [Utility](utility-overview.md "Utility Overview") -->
   - [FAQ](faq.md "FAQ")
 
-<!-- - Contributing
-
-    - [How to deploy a Secret Node (Non-Networked)](tutorials/deploy-snnn.md "How to deploy a Secret Node (Non-Networked)")
-    -->
-
 - Contributing
 
   - [Contributing Guidelines](tutorials/contributing.md)
-  <!-- - [Contributing (Advanced)](tutorials/CONTRIBUTING-advanced.md "Contributing (Advanced)") -->
   <!-- - [Contributing (Simple)](tutorials/CONTRIBUTING-simple.md "Contributing (Simple)") -->
-  <!-- - [How to deploy a Secret Node (Non-Networked)](tutorials/deploy-snnn.md "How to deploy a Secret Node (Non-Networked)") -->
+  - [How to deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "How to deploy a Secret Node on Vultr")
 
 - Community
 
