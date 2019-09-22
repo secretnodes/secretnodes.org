@@ -6,7 +6,7 @@ This guide will cover how to install the prerequisite software needed for your S
 # Part 1 - Setting up your VPS.
 Getting the right configuration on Vultr.
 
-1. Sign up for an account at [Vultr.com](https://www.vultr.com). [Help support secretnodes.org and get $50 to try Vulr by using our affiliate link.](https://www.vultr.com/?ref=8267597-4F)
+1. Sign up for an account at Vultr.com. [Help support secretnodes.org and get $50 to try Vulr by using our affiliate link.](https://www.vultr.com/?ref=8267597-4F)
 
 2. Deploy New Instance
 
