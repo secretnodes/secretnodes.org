@@ -24,7 +24,7 @@ Getting the right configuration on Vultr.
 
 1. Select your newly created server. Hint : You can easily spot it named as the server hostname you selected in the previous step.
 
-> Note : Take note of the password vultr sets as root on the server page.
+> Note : Take note of the password vultr sets for root on the server page.
 
 2. Select "View Console".
 
@@ -112,4 +112,4 @@ Run the bash script.
 sudo bash start.sh
 ```
 
-Congratulations! 🎉 Your Secret Node is now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, your node will be a non-networked node.
+Congratulations! 🎉 Your Secret Node is now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, your node will be in non-networked mode.
