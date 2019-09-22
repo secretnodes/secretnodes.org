@@ -1,5 +1,5 @@
 # How to deploy a Secret Node on Vultr
-Guide Version 0.1 | Date Sep 22, 2019 | Draft
+Guide Version 0.15 | Date Sep 22, 2019 | Draft
 
 This guide will cover how to install the prerequisite software needed for your SGX compatible hardware. Once completed your Secret Node will be prepared for the Genesis Games.
 
@@ -62,9 +62,15 @@ This will permission this user to access log files and sudo.
 useradd -m -s /bin/bash -G adm,systemd-journal,sudo $USERNAME && passwd $USERNAME
 ```
 
+Now exit your terminal session and start a new one, this time login with the new user you created with the password you set.
+```bash
+ssh asn@<your-nodes-ip>
+```
+Next proceed to Part 4.
+
 # Part 4 - Package Installation and Initial Configuration
 
-Here we will need to install Docker, Docker Compose, the Discovery Docker Network, and The Intel SGX Driver. Running this script will automate the process.
+Here we will download the Discovery Docker Network, and scripts for configuring and installing Docker, Docker Compose, and The Intel SGX Driver. Running this script will automate the process.
 
 ```bash
 wget https://raw.githubusercontent.com/secretnodes/scripts/master/sendnodes.sh
@@ -74,28 +80,31 @@ Run the bash script.
 ```bash
 sudo bash sendnodes.sh
 ```
+Note : While running the scripts, say yes to all prompts.
 
 ## Install SGX
 
-Download and install relevant SGX files and drivers. This is a prerequisite needed for running a Secret Node.
+This script will download and install all relevant SGX files and drivers. This is a prerequisite needed for running a Secret Node.
 
 Run the bash script.
 ```bash
 sudo bash install-sgx.sh
 ```
+Note : While running the scripts, say yes to all prompts.
 
 ## Install Docker & Docker Compose
 
-Download and install Docker & Docker Compose. This is a prerequisite needed for running a Secret Node.
+This script will download and install Docker & Docker Compose. This is a prerequisite needed for running a Secret Node.
 
 Run the bash script.
 ```bash
 sudo bash install-docker.sh
 ```
+Note : While running the scripts, say yes to all prompts.
 
 # Part 5 - Deploy Secret Node
 
-Run script with max workers.
+Running this script will start 9 enigma workers. Note 9 is the max number of workers.
 
 Run the bash script.
 ```bash
