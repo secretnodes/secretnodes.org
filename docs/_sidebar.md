@@ -8,7 +8,7 @@
   <!-- - [Utility](utility-overview.md "Utility Overview") -->
   - [FAQ](faq.md "FAQ")
 
-- Contributing
+- Guides
 
   - [Contributing Guidelines](tutorials/contributing.md)
   <!-- - [Contributing (Simple)](tutorials/CONTRIBUTING-simple.md "Contributing (Simple)") -->
