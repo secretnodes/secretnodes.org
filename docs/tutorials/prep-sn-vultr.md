@@ -77,7 +77,7 @@ wget https://raw.githubusercontent.com/secretnodes/scripts/master/sendnodes.sh
 
 Run the bash script.
 ```bash
-sudo bash sendnodes.sh
+bash sendnodes.sh
 ```
 > Note : While running the scripts, say yes to all prompts.
 
