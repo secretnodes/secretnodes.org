@@ -45,7 +45,7 @@ Getting the right configuration on Vultr.
 
 7. Server Hostname & Label : What ever you want!
 
-# Part 2 - Log into your Secret Node
+# Part 2 - Remote into your Secret Node
 
 1. Get the password for your VPS from the server page.
 
@@ -107,7 +107,7 @@ Run the bash script.
 ```bash
 sudo bash install-sgx.sh
 ```
-> Note : While running the scripts, say yes to all prompts.
+> Note : While running the scripts, say yes to all prompts. When asked if you want to install to the current directory, also say yes.
 
 ## Install Docker & Docker Compose
 
