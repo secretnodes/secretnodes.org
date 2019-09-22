@@ -1,5 +1,5 @@
 # Deploy a Secret Node on Vultr
-Guide Version 0.15 | Date Sep 22, 2019 | Draft
+Guide Version 0.16 | Date Sep 22, 2019 | Pre-Genesis Games Edition
 
 This guide will cover how to install the prerequisite software needed for your SGX compatible hardware. Once completed your Secret Node will be prepared for the Genesis Games.
 
@@ -20,11 +20,11 @@ Getting the right configuration on Vultr.
 
 7. Server Hostname & Label : What ever you want!
 
-## Enabling SGX in the BIOS
+# Part 2 - Enabling SGX in the BIOS
 
 1. Select your newly created server. Hint : You can easily spot it named as the server hostname you selected in the previous step.
 
-Note : Take note of the password vultr sets as root on the server page.
+> Note : Take note of the password vultr sets as root on the server page.
 
 2. Select "View Console".
 
@@ -38,19 +38,18 @@ Navigate through the bios as follows.
 
 Now exit and save the settings.
 
-# Part 2 - Remote into your Secret Node
+# Part 3 - Remote into your Secret Node
 
 1. Get the password for your VPS from the server page.
 
 2. On OSX, or Linux open Terminal and login to your node. 
 
 ```bash
-ssh root@"your nodes ip address without the quotes"
+ssh root@<your-nodes-ip>
 ```
+> NOTE: (1) Be sure to replace <your-nodes-ip> with your nodes ip address. (2) If asked to add an ECDSA fingerprint, answer yes.
 
-NOTE: If asked to add an ECDSA fingerprint, answer yes.
-
-# Part 3 - Creating non-root User
+# Part 4 - Creating non-root User
 
 Create a non-root User. Here we will create a user named asn, you can substitute this for anything.
 ```bash
@@ -66,9 +65,9 @@ Now exit your terminal session and start a new one, this time login with the new
 ```bash
 ssh asn@<your-nodes-ip>
 ```
-Next proceed to Part 4.
+Next proceed to Part 5.
 
-# Part 4 - Package Installation and Initial Configuration
+# Part 5 - Package Installation and Initial Configuration
 
 Here we will download the Discovery Docker Network, and scripts for configuring and installing Docker, Docker Compose, and The Intel SGX Driver. Running this script will automate the process.
 
@@ -80,7 +79,7 @@ Run the bash script.
 ```bash
 sudo bash sendnodes.sh
 ```
-Note : While running the scripts, say yes to all prompts.
+> Note : While running the scripts, say yes to all prompts.
 
 ## Install SGX
 
@@ -90,7 +89,7 @@ Run the bash script.
 ```bash
 sudo bash install-sgx.sh
 ```
-Note : While running the scripts, say yes to all prompts.
+> Note : While running the scripts, say yes to all prompts.
 
 ## Install Docker & Docker Compose
 
@@ -100,13 +99,17 @@ Run the bash script.
 ```bash
 sudo bash install-docker.sh
 ```
-Note : While running the scripts, say yes to all prompts.
+> Note While running the scripts, say yes to all prompts.
 
-# Part 5 - Deploy Secret Node
+# Part 6 - Deploy Secret Node
 
-Running this script will start 9 enigma workers. Note 9 is the max number of workers.
+Running this script will start 9 enigma workers.
+
+> Note 9 is the max number of workers.
 
 Run the bash script.
 ```bash
 sudo bash start.sh
 ```
+
+Congratulations! 🎉 Your Secret Node is now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, your node will be a non-networked node.

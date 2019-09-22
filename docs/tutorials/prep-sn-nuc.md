@@ -10,8 +10,25 @@ Next Unit of Computing (NUC) is a line of small-form-factor barebone computer ki
 **Intel NUC Models Tested**
 1. `Intel NUC 8i7BEK`
 
+# Part 1 - Enabling SGX in the BIOS
 
-# Part 1 - Setting up your VPS.
+1. Select your newly created server. Hint : You can easily spot it named as the server hostname you selected in the previous step.
+
+> Note : Take note of the password vultr sets as root on the server page.
+
+2. Select "View Console".
+
+3. During bootup press “Del” to get into the bios.
+
+Navigate through the bios as follows.
+*  Advanced
+* Chipset Configuration
+* System Agent (SA) Configuration
+* Activate "SW Guard Extensions (SGX)"
+
+Now exit and save the settings.
+
+# Part 2 - Installing Ubuntu Server 18.04
 Getting the right configuration on Vultr.
 
 1. Sign up for an account at [Vultr.com](https://www.vultr.com). [Help support secretnodes.org by using our affiliate link.](https://www.vultr.com/?ref=8255176)
@@ -28,35 +45,16 @@ Getting the right configuration on Vultr.
 
 7. Server Hostname & Label : What ever you want!
 
-## Enabling SGX in the BIOS
-
-1. Select your newly created server. Hint : You can easily spot it named as the server hostname you selected in the previous step.
-
-Note : Take note of the password vultr sets as root on the server page.
-
-2. Select "View Console".
-
-3. During bootup press “Del” to get into the bios.
-
-Navigate through the bios as follows.
-*  Advanced
-* Chipset Configuration
-* System Agent (SA) Configuration
-* Activate "SW Guard Extensions (SGX)"
-
-Now exit and save the settings.
-
-# Part 2 - Remote into your Secret Node
+# Part 2 - Log into your Secret Node
 
 1. Get the password for your VPS from the server page.
 
 2. On OSX, or Linux open Terminal and login to your node. 
 
 ```bash
-ssh root@"your nodes ip address without the quotes"
+ssh root@<your-nodes-ip>
 ```
-
-NOTE: If asked to add an ECDSA fingerprint, answer yes.
+> NOTE: (1) Be sure to replace <your-nodes-ip> with your nodes ip address. (2) If asked to add an ECDSA fingerprint, answer yes.
 
 # Part 3 - Creating non-root User
 
@@ -88,7 +86,7 @@ Run the bash script.
 ```bash
 sudo bash sendnodes.sh
 ```
-Note : While running the scripts, say yes to all prompts.
+> Note : While running the scripts, say yes to all prompts.
 
 ## Install SGX
 
@@ -98,7 +96,7 @@ Run the bash script.
 ```bash
 sudo bash install-sgx.sh
 ```
-Note : While running the scripts, say yes to all prompts.
+> Note : While running the scripts, say yes to all prompts.
 
 ## Install Docker & Docker Compose
 
@@ -108,13 +106,17 @@ Run the bash script.
 ```bash
 sudo bash install-docker.sh
 ```
-Note : While running the scripts, say yes to all prompts.
+> Note While running the scripts, say yes to all prompts.
 
 # Part 5 - Deploy Secret Node
 
-Running this script will start 9 enigma workers. Note 9 is the max number of workers.
+Running this script will start 9 enigma workers.
+
+> Note 9 is the max number of workers.
 
 Run the bash script.
 ```bash
 sudo bash start.sh
 ```
+
+Congratulations! 🎉 Your Secret Node is now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, your node will be in non-networked mode.
