@@ -1,5 +1,5 @@
 # Deploy a Secret Node on Vultr
-Guide Version 0.16 | Date Sep 22, 2019 | Pre-Genesis Games Edition
+Guide Version 0.17 | Date Sep 22, 2019 | Pre-Genesis Games Edition
 
 **Estimated Time | 15 - 30 Minutes depending on experience.**
 
