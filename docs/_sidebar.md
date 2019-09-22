@@ -10,7 +10,7 @@
 
 - Guides
 
-  - [Contributing Guidelines](tutorials/contributing.md)
+  <!-- - [Contributing Guidelines](tutorials/contributing.md) -->
   <!-- - [Contributing (Simple)](tutorials/CONTRIBUTING-simple.md "Contributing (Simple)") -->
   - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr")
   <!-- - [Deploy a Secret Node on your NUC](tutorials/prep-sn-nuc.md "Deploy a Secret Node on your NUC") -->

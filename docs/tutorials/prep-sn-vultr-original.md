@@ -92,24 +92,41 @@ Next proceed to Part 5.
 Here we will download the Discovery Docker Network, and scripts for configuring and installing Docker, Docker Compose, and The Intel SGX Driver. Running this script will automate the process.
 
 ```bash
-wget https://raw.githubusercontent.com/secretnodes/scripts/altmethod/sendnodes.sh
+wget https://raw.githubusercontent.com/secretnodes/scripts/master/sendnodes.sh
 ```
 
 Run the bash script.
 ```bash
 bash sendnodes.sh
 ```
-Notes while running the script.
-1. The install-sgx.sh script will download and install all relevant SGX files and drivers.
-2. The install-docker.sh script will download and install Docker & Docker Compose.
-3. While running the scripts, respond "y" or "yes" to all prompts.
-4. When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
+> Note : While running the scripts, say yes to all prompts.
+
+## Install SGX
+
+This script will download and install all relevant SGX files and drivers. This is a prerequisite needed for running a Secret Node.
+
+Run the bash script.
+```bash
+bash install-sgx.sh
+```
+> Note : While running the scripts, respond "y" or "yes" to all prompts.
+> When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
+
+## Install Docker & Docker Compose
+
+This script will download and install Docker & Docker Compose. This is a prerequisite needed for running a Secret Node.
+
+Run the bash script.
+```bash
+bash install-docker.sh
+```
+> Note While running the scripts, say yes to all prompts.
 
 # Part 6 - Deploy Secret Node
 
 Running this script will start 9 enigma workers.
 
-> Note: 9 is the max number of workers.
+> Note 9 is the max number of workers.
 
 Run the bash script.
 ```bash
