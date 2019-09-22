@@ -85,11 +85,13 @@ useradd -m -s /bin/bash -G adm,systemd-journal,sudo $USERNAME && passwd $USERNAM
 ```bash
 ssh asn@<your-nodes-ip>
 ```
+
+Going forward, when logging in use the newly created non-root user.
 Next proceed to Part 5.
 
 # Part 5 - Package Installation and Initial Configuration
 
-Here we will download the Discovery Docker Network, and scripts for configuring and installing Docker, Docker Compose, and The Intel SGX Driver. Running this script will automate the process.
+Here we will download the Discovery Docker Network, scripts for configuring and installing Docker & Docker Compose, and files for installing the Intel SGX Driver. Running this one script will automate the process. Please pay attention to the notes.
 
 ```bash
 wget https://raw.githubusercontent.com/secretnodes/scripts/altmethod/sendnodes.sh
@@ -99,10 +101,11 @@ Run the bash script.
 ```bash
 bash sendnodes.sh
 ```
+
 Notes while running the script.
 1. The install-sgx.sh script will download and install all relevant SGX files and drivers.
 2. The install-docker.sh script will download and install Docker & Docker Compose.
-3. While running the scripts, respond "y" or "yes" to all prompts.
+3. While running the script, respond "y" or "yes" to all prompts.
 4. When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
 
 # Part 6 - Deploy Secret Node
