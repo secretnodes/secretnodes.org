@@ -1,7 +1,15 @@
-# Deploy a Secret Node on Vultr
-Guide Version 0.15 | Date Sep 22, 2019 | Draft
+# Deploy a Secret Node on your NUC
+Guide Version 0.1 | Date Sep 22, 2019 | Draft
 
-This guide will cover how to install the prerequisite software needed for your SGX compatible hardware. Once completed your Secret Node will be prepared for the Genesis Games.
+This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games.
+
+# Intel NUC Overview
+
+Next Unit of Computing (NUC) is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
+
+**Intel NUC Models Tested**
+1. `Intel NUC 8i7BEK`
+
 
 # Part 1 - Setting up your VPS.
 Getting the right configuration on Vultr.
