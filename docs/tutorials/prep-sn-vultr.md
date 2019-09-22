@@ -110,7 +110,7 @@ Run the bash script.
 bash install-sgx.sh
 ```
 > Note : While running the scripts, respond "y" or "yes" to all prompts.
-> When prompted "Do you want to install in current directory? [yes/no]" respond with "yes".
+> When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
 
 ## Install Docker & Docker Compose
 
