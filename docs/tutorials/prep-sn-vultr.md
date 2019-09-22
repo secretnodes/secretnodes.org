@@ -55,6 +55,8 @@ If you don't already have putty then download it.
 * Run Putty.
 * Enter the IP address of your Secret Node into the "Host Name" field. Then click open.
 
+> NOTE: If asked to add an ECDSA fingerprint, answer yes.
+
 ## OSX & Linux Users
 On OSX, or Linux open Terminal and login to your node. (Skip if using Windows.)
  This will allow you to remote administrate your Secret Node from an Apple or Linux machine.
