@@ -1,5 +1,6 @@
 #!/bin/bash
 #Configured for ubuntu server 18.04
+#Version 0.1 | Sep 22, 2019
 
 echo "===> Running step 1"
 sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
