@@ -87,7 +87,7 @@ This script will download and install all relevant SGX files and drivers. This i
 
 Run the bash script.
 ```bash
-sudo bash install-sgx.sh
+bash install-sgx.sh
 ```
 > Note : While running the scripts, say yes to all prompts.
 
@@ -97,7 +97,7 @@ This script will download and install Docker & Docker Compose. This is a prerequ
 
 Run the bash script.
 ```bash
-sudo bash install-docker.sh
+bash install-docker.sh
 ```
 > Note While running the scripts, say yes to all prompts.
 
@@ -109,7 +109,7 @@ Running this script will start 9 enigma workers.
 
 Run the bash script.
 ```bash
-sudo bash start.sh
+bash start.sh
 ```
 
 Congratulations! 🎉 Your Secret Node is now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, your node will be in non-networked mode.
