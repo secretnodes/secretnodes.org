@@ -107,7 +107,8 @@ Run the bash script.
 ```bash
 bash install-sgx.sh
 ```
-> Note : While running the scripts, say yes to all prompts.
+> Note : While running the scripts, respond "y" or "yes" to all prompts.
+> When prompted "Do you want to install in current directory? [yes/no]" respond with "yes".
 
 ## Install Docker & Docker Compose
 
