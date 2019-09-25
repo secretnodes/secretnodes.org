@@ -113,9 +113,7 @@ Notes while running the script.
 
 # Part 6 - Deploy Secret Node
 
-Running this script will start 9 enigma workers.
-
-> Note: 9 is the max number of workers.
+Running this script will start 9 enigma workers on the enigma devnet.
 
 Run the bash script.
 ```bash
