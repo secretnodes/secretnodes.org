@@ -1,9 +1,12 @@
 # Deploy a Secret Node on Vultr
 Guide Version 0.17 | Date Sep 22, 2019 | Pre-Genesis Games Edition
+Difficulty Level : Noob Friendly!
 
 **Estimated Time | 15 - 30 Minutes depending on experience.**
 
 This guide will cover how to install the prerequisite software needed for your SGX compatible hardware. Once completed your Secret Node will be prepared for the Genesis Games.
+
+> Note : This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a secret nodes. The Genesis Games have not begun yet.
 
 # Part 1 - Setting up your VPS.
 Getting the right configuration on Vultr.
