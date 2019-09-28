@@ -3,7 +3,7 @@ Guide Version 0.33 | Date Sep 27, 2019 | Pre-Genesis Games Edition
 
 This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games.
 
-> Note: This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a Secret Node. The Genesis Games have not begun yet and there is no need to run the node for anything other than testing purposes. This note will be updated at a future date when the games have begun.
+> Note: This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a Secret Node. The Genesis Game has not begun yet and there is no need to run the node for anything other than testing purposes. This note will be updated at a future date when the games have begun.
 
 # Intel NUC Overview
 
