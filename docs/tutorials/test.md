@@ -120,4 +120,4 @@ bash start.sh
 
 Congratulations! 🎉 You are now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, there is no need to leave this node running. You now know how easy it will be to deploy on your NUC and can start again when the time comes.
 
-<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="-5QmY2YT" data-limit="5"></script>
+<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="-5QmY2YT" data-limit="5" data-color="343638"></script>
