@@ -1,11 +1,13 @@
-<form name="contact" netlify>
-  <p>
-    <label>Name <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Email <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+<form method="POST" action="https://formspree.io/hello@secretnodes.org">
+  <div class="hpot">
+    <label>Leave this field empty: <input name="_gotcha"></label>
+  </div>
+  <label>Comments:
+    <textarea name="comments"></textarea>
+  </label>
 </form>
+
+// style.css
+.hpot {
+  display: none;
+}
