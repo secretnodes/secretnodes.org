@@ -118,4 +118,4 @@ Run the bash script.
 bash start.sh
 ```
 
-Congratulations! 🎉 You are now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, there is no need to leave this node running. You now know how easy it will be to deploy on Vultr and can start again when the time comes.
+Congratulations! 🎉 You are now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, there is no need to leave this node running. You now know how easy it will be to deploy on your NUC and can start again when the time comes.
