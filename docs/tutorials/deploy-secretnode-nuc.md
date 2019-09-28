@@ -46,7 +46,7 @@ If you created a USB bootable Ubuntu Installer and want to tell your NUC to boot
 
 # Part 3 - Remote into your Secret Node
 
-If you wish to remotely manage your NUC from another machine while on your network, here's how you can.
+If you wish to remotely manage your NUC from another machine within your network, here's how you can.
 
 2. If you're using Windows 10 64-bit or newer, launch PuTTY then enter the IP address of your Secret Node into the "Host Name" field. Then click open.
 
