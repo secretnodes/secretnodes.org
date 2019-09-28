@@ -12,7 +12,7 @@ The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone compu
 **Intel NUC Models Tested**
 1. `Intel NUC 8i7BEK`, ...
 
-If this guide works for you, please report which NUC you used [here](https://t.me/secretnodes).
+If this guide works for you, please report which NUC you used [here](https://t.me/secretnodes) and we'll add it to the list.
 
 # Part 1 - Enabling SGX in the BIOS
 
