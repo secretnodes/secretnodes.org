@@ -1,9 +1,9 @@
 # Deploy a Secret Node on your NUC
-Guide Version 0.32 | Date Sep 27, 2019 | Pre-Genesis Games Edition
+Guide Version 0.33 | Date Sep 27, 2019 | Pre-Genesis Games Edition
 
 This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games.
 
-> Note : This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a secret nodes. The Genesis Games have not begun yet and there is no need to run the node for anything other than testing purposes at this point in time. This note will be updated at a future date when the games have begun.
+> Note: This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a Secret Node. The Genesis Games have not begun yet and there is no need to run the node for anything other than testing purposes. This note will be updated at a future date when the games have begun.
 
 # Intel NUC Overview
 
@@ -25,18 +25,18 @@ If this guide works for you, please report which NUC you used [here](https://t.m
 > If you can't find this in your bios, just search the term "SGX".
 
 # Part 2 - Installing Ubuntu Server 18.04 LTS on the NUC
-Whenever configuring a Secret Node on your own NUC you'll either have to buy the unit with Ubuntu 18.04 Server preinstalled, or you'll have to install it Ubuntu manually. If you're using Windows, OSX, or Linux and want general guidance on how to create a flash drive you can use to install Ubuntu, then we recommend the following.
+Whenever configuring a Secret Node on your NUC you'll either have to buy the unit with Ubuntu 18.04 Server preinstalled, or you'll have to install it Ubuntu manually. If you're using Windows, OSX, or Linux and want general guidance on how to create a flash drive you can use to install Ubuntu, then we recommend the following.
 1. First [Download Ubuntu Server 18.04 LTS ISO](https://ubuntu.com/download/server/thank-you?version=18.04.3&architecture=amd64)
 2. Download and install [this tool](https://www.balena.io/etcher/) to create the bootable Ubuntu Installer.
 3. Run the Etcher software.
-4. In the Etcher sofware for the option "Select Image", Please select the Ubuntu ISO you downloaded.
+4. In the Etcher software for the option "Select Image", Please select the Ubuntu ISO you downloaded.
 5. Now in Etcher for the "Select target" option, please select the flash drive you want to turn into a bootable Ubuntu Installer.
 6. Lastly, in Etcher click the "Flash" button.
 7. You now have a USB bootable Ubuntu Server 18.04 Installer.
 
 ## Tell your NUC to boot from your USB drive.
 
-If you created a usb bootable Ubuntu Installer and want to tell your NUC to boot from the newly created drive do as follows.
+If you created a USB bootable Ubuntu Installer and want to tell your NUC to boot from the newly created drive do as follows.
 
 1. Press "F2" while booting your NUC to enter the bios.
 2. Select your newly created flash drive in the "Boot Order"
@@ -65,11 +65,11 @@ If you don't already have putty then download it.
 ```bash
 ssh root@<your-nodes-ip>
 ```
-> NOTE: (1) Be sure to replace <your-nodes-ip> with your nodes ip address. (2) If asked to add an ECDSA fingerprint, answer yes.
+> NOTE: (1) Be sure to replace <your-nodes-ip> with your nodes IP address. (2) If asked to add an ECDSA fingerprint, answer yes.
 
 # Part 4 - Creating non-root User
 
-Create a non-root User. Here we will create a user named nsn (nuc secret node), you can substitute this for anything.
+Create a non-root user. Here we will create a user named nsn (nuc secret node), you can substitute this for anything.
 ```bash
 USERNAME=nsn
 ```
@@ -83,7 +83,7 @@ Now exit your terminal session and start a new one, this time login with the new
 ```bash
 ssh nsn@<your-nodes-ip>
 ```
-Next proceed to Part 4.
+Next, proceed to Part 4.
 
 > Note: Going forward, do everything with your newly created user.
 
@@ -103,7 +103,7 @@ bash sendnodes.sh
 Notes while running the script.
 1. The install-sgx.sh script will download and install all relevant SGX files and drivers.
 2. The install-docker.sh script will download and install Docker & Docker Compose.
-3. The install-enigma-node.sh script will download and insall relevant enigma node software.
+3. The install-enigma-node.sh script will download and install relevant enigma node software.
 4. The Install-fixes.sh script will download relevant fixes for different devices. Report issues [here](https://t.me/secretnodes)
 5. The upgrade.sh script will update the ubuntu operating system packages.
 3. While running the script, respond "y" or "yes" to all prompts.
