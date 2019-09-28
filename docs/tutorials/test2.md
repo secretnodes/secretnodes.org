@@ -1,13 +1,5 @@
 <form method="POST" action="https://formspree.io/hello@secretnodes.org">
-  <div class="hpot">
-    <label>Leave this field empty: <input name="_gotcha"></label>
-  </div>
-  <label>Comments:
-    <textarea name="comments"></textarea>
-  </label>
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Feedback"></textarea>
+  <button type="submit">Send Feedback</button>
 </form>
-
-// style.css
-.hpot {
-  display: none;
-}
