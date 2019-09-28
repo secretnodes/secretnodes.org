@@ -1,53 +1,52 @@
 # Deploy a Secret Node on your NUC
-Guide Version 0.1 | Date Sep 22, 2019 | Draft | Pre-Genesis Games Edition
+Guide Version 0.32 | Date Sep 27, 2019 | Pre-Genesis Games Edition
 
 This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games.
 
+> Note : This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a secret nodes. The Genesis Games have not begun yet and there is no need to run the node for anything other than testing purposes at this point in time. This note will be updated at a future date when the games have begun.
+
 # Intel NUC Overview
 
-Next Unit of Computing (NUC) is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
+The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
 
 **Intel NUC Models Tested**
 1. `Intel NUC 8i7BEK`
 
+If this guide works for you, please report which NUC you used [here](https://t.me/secretnodes).
+
 # Part 1 - Enabling SGX in the BIOS
 
-1. Select your newly created server. Hint : You can easily spot it named as the server hostname you selected in the previous step.
+1. When booting your NUC press the "F2" key.
 
-> Note : Take note of the password vultr sets as root on the server page.
+2. Navigate to "Advanced" > "Security" > "Security Features" > "Intel Software Guard Extension (SGX)" and toggle it to "Enabled".
 
-2. Select "View Console".
+3. Press "ESC" key & save be sure to save your settings.
 
-3. During bootup press “Del” to get into the bios.
+> If you can't find this in your bios, just search the term "SGX".
 
-Navigate through the bios as follows.
-* Advanced
-* Chipset Configuration
-* System Agent (SA) Configuration
-* Enable "SW Guard Extensions (SGX)"
+# Part 2 - Installing Ubuntu Server 18.04 LTS on the NUC
+Whenever configuring a Secret Node on your own NUC you'll either have to buy the unit with Ubuntu 18.04 Server preinstalled, or you'll have to install it Ubuntu manually. If you're using Windows, OSX, or Linux and want general guidance on how to create a flash drive you can use to install Ubuntu, then we recommend the following.
+1. First [Download Ubuntu Server 18.04 LTS ISO](https://ubuntu.com/download/server/thank-you?version=18.04.3&architecture=amd64)
+2. Download and install [this tool](https://www.balena.io/etcher/) to create the bootable Ubuntu Installer.
+3. Run the Etcher software.
+4. In the Etcher sofware for the option "Select Image", Please select the Ubuntu ISO you downloaded.
+5. Now in Etcher for the "Select target" option, please select the flash drive you want to turn into a bootable Ubuntu Installer.
+6. Lastly, in Etcher click the "Flash" button.
+7. You now have a USB bootable Ubuntu Server 18.04 Installer.
 
-Now exit and save the settings.
+## Tell your NUC to boot from your USB drive.
 
-# Part 2 - Installing Ubuntu Server 18.04
-Getting the right configuration on Vultr.
+If you created a usb bootable Ubuntu Installer and want to tell your NUC to boot from the newly created drive do as follows.
 
-1. Sign up for an account at [Vultr.com](https://www.vultr.com). [Help support secretnodes.org by using our affiliate link.](https://www.vultr.com/?ref=8255176)
+1. Press "F2" while booting your NUC to enter the bios.
+2. Select your newly created flash drive in the "Boot Order"
+3. Select "No" when asked if you want to save changes.
 
-2. Deploy New Instance
+> If you can't find this in your bios, just search the term "boot".
 
-3. Choose Server : Bare Metal
+# Part 3 - Remote into your Secret Node
 
-4. Server Location : Any location near you.
-
-5. Server Type : 64 bit OS : Ubuntu 18.04 x64
-
-6. Disk Configuration : RAID 1
-
-7. Server Hostname & Label : What ever you want!
-
-# Part 2 - Remote into your Secret Node
-
-1. Get the password for your VPS from the server page.
+If you wish to remotely manage your NUC from another machine while on your network, here's how you can.
 
 2. If you're using Windows 10 64-bit or newer, launch PuTTY then enter the IP address of your Secret Node into the "Host Name" field. Then click open.
 
@@ -58,20 +57,21 @@ If you don't already have putty then download it.
 * Run the Installer.
 * Run Putty.
 * Enter the IP address of your Secret Node into the "Host Name" field. Then click open.
+* Login using the password created while installing Ubuntu.
 
 
-3. On OSX, or Linux open Terminal and login to your node. (Skip if using Windows.)
+3. On OSX, or Linux open Terminal and login to your node.
 
 ```bash
 ssh root@<your-nodes-ip>
 ```
 > NOTE: (1) Be sure to replace <your-nodes-ip> with your nodes ip address. (2) If asked to add an ECDSA fingerprint, answer yes.
 
-# Part 3 - Creating non-root User
+# Part 4 - Creating non-root User
 
-Create a non-root User. Here we will create a user named asn, you can substitute this for anything.
+Create a non-root User. Here we will create a user named nsn (nuc secret node), you can substitute this for anything.
 ```bash
-USERNAME=asn
+USERNAME=nsn
 ```
 
 This will permission this user to access log files and sudo.
@@ -81,54 +81,41 @@ useradd -m -s /bin/bash -G adm,systemd-journal,sudo $USERNAME && passwd $USERNAM
 
 Now exit your terminal session and start a new one, this time login with the new user you created with the password you set.
 ```bash
-ssh asn@<your-nodes-ip>
+ssh nsn@<your-nodes-ip>
 ```
 Next proceed to Part 4.
 
-# Part 4 - Package Installation and Initial Configuration
+> Note: Going forward, do everything with your newly created user.
 
-Here we will download the Discovery Docker Network, and scripts for configuring and installing Docker, Docker Compose, and The Intel SGX Driver. Running this script will automate the process.
+# Part 5 - Package Installation and Initial Configuration
+
+Here we will download the Discovery Docker Network, scripts for configuring and installing Docker & Docker Compose, and files for installing the Intel SGX Driver. Running this one script will automate the process. Please pay attention to the notes.
 
 ```bash
-wget https://raw.githubusercontent.com/secretnodes/scripts/master/sendnodes.sh
+wget https://raw.githubusercontent.com/secretnodes/scripts/master/nuc-general/sendnodes.sh
 ```
 
 Run the bash script.
 ```bash
-sudo bash sendnodes.sh
+bash sendnodes.sh
 ```
-> Note : While running the scripts, say yes to all prompts.
 
-## Install SGX
+Notes while running the script.
+1. The install-sgx.sh script will download and install all relevant SGX files and drivers.
+2. The install-docker.sh script will download and install Docker & Docker Compose.
+3. The install-enigma-node.sh script will download and insall relevant enigma node software.
+4. The Install-fixes.sh script will download relevant fixes for different devices. Report issues [here](https://t.me/secretnodes)
+5. The upgrade.sh script will update the ubuntu operating system packages.
+3. While running the script, respond "y" or "yes" to all prompts.
+4. When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
 
-This script will download and install all relevant SGX files and drivers. This is a prerequisite needed for running a Secret Node.
+# Part 6 - Deploy Secret Node
+
+Running this script will start 9 enigma workers on the enigma devnet.
 
 Run the bash script.
 ```bash
-sudo bash install-sgx.sh
-```
-> Note : While running the scripts, say yes to all prompts.
-> When prompted "Do you want to install in current directory? [yes/no]" respond with "yes".
-
-## Install Docker & Docker Compose
-
-This script will download and install Docker & Docker Compose. This is a prerequisite needed for running a Secret Node.
-
-Run the bash script.
-```bash
-sudo bash install-docker.sh
-```
-> Note While running the scripts, say yes to all prompts.
-
-# Part 5 - Deploy Secret Node
-
-Running this script will start 9 enigma workers.
-
-> Note 9 is the max number of workers.
-
-Run the bash script.
-```bash
-sudo bash start.sh
+bash start.sh
 ```
 
-Congratulations! 🎉 Your Secret Node is now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, your node will be in non-networked mode.
+Congratulations! 🎉 You are now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, there is no need to leave this node running. You now know how easy it will be to deploy on Vultr and can start again when the time comes.
