@@ -1,7 +1,7 @@
 # Deploy a Secret Node on your NUC
 Guide Version 0.35 | Date Oct 2, 2019 | Pre-Genesis Games Edition
 
-This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games.
+This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games. If you get stuck on this guide or at the end it errors out please create an
 
 > Note: This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a Secret Node. The Genesis Game has not begun yet and there is no need to run the node for anything other than testing purposes. This note will be updated at a future date when the games have begun.
 
@@ -12,8 +12,8 @@ The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone compu
 **Intel NUC Models Confirmed Compatible**
 1. `Intel NUC 8i7BEK`, `NUC8I3BEK`, `NUC6i5SYH`
 
-Recommended Modesl
-Intel NUC 8i3BEK, 8i5BEK, 8i7BEK since our test machine is an Intel NUC 8i7BEK we can better support this model line. We will update this as we get more.
+Recommended Models
+8i3BEK, 8i5BEK, 8i7BEK. For reference these are reccomended merely because our test model is an 8i7BEK.
 
 If this guide works for you, please report which NUC you used [here](https://t.me/secretnodes) and we'll add it to the list.
 
