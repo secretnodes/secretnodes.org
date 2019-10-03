@@ -10,7 +10,10 @@ This guide will cover how to install the prerequisite software needed for your S
 The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
 
 **Intel NUC Models Tested**
-1. `Intel NUC 8i7BEK`, ...
+1. `Intel NUC 8i7BEK`, `NUC8I3BEK`, `NUC6i5SYH`
+
+Recommended Modesl
+Intel NUC 8i3BEK, 8i5BEK, 8i7BEK since our test machine is an Intel NUC 8i7BEK we can better support this model line. We will update this as we get more.
 
 If this guide works for you, please report which NUC you used [here](https://t.me/secretnodes) and we'll add it to the list.
 
@@ -25,7 +28,7 @@ If this guide works for you, please report which NUC you used [here](https://t.m
 > If you can't find this in your bios, just search the term "SGX".
 
 # Part 2 - Installing Ubuntu Server 18.04 LTS on the NUC
-Whenever configuring a Secret Node on your NUC you'll either have to buy the unit with Ubuntu 18.04 Server preinstalled, or you'll have to install Ubuntu manually. *If you already have Ubuntu 18.04 installed  If you're using Windows, OSX, or Linux and want general guidance on how to create a flash drive you can use to install Ubuntu, then we recommend the following.
+Whenever configuring a Secret Node on your NUC you'll either have to buy the unit with Ubuntu 18.04 Server preinstalled, or you'll have to install Ubuntu Server 18.04 LTS from Ubuntu manually. If you already have Ubuntu installed but it is not Ubuntu Server 18.04 LTS or you are unsure if it's a vinalla install then proceed with the understanding that this guide should still work but you may need to do additional work that's outside the scope of this guide. If you're using Windows, OSX, or Linux and want general guidance on how to create a flash drive you can use to install Ubuntu, then we recommend the following.
 1. First [Download Ubuntu Server 18.04 LTS ISO](https://ubuntu.com/download/server/thank-you?version=18.04.3&architecture=amd64)
 2. Download and install [this tool](https://www.balena.io/etcher/) to create the bootable Ubuntu Installer.
 3. Run the Etcher software.
