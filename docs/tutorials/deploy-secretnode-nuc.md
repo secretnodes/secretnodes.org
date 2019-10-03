@@ -1,5 +1,5 @@
 # Deploy a Secret Node on your NUC
-Guide Version 0.33 | Date Sep 27, 2019 | Pre-Genesis Games Edition
+Guide Version 0.35 | Date Oct 2, 2019 | Pre-Genesis Games Edition
 
 This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games.
 
