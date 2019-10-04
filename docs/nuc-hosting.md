@@ -1,4 +1,4 @@
-# Looking to host your NUC in the cloud?
+# Looking to host or rent a NUC in the cloud?
 
 We're currently working to secure data center space to host NUC's for Secret Node runners, security researchers, and others who may be interested in SGX machines in the cloud.
 
