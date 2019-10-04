@@ -10,7 +10,7 @@ This guide will cover how to install the prerequisite software needed for your S
 The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
 
 **Intel NUC Models Confirmed Compatible**
-1. `Intel NUC 8i7BEK`, `NUC8I3BEK`, `NUC6i5SYH`
+1. `Intel NUC 8i7BEK`, `NUC8I3BEK`, `NUC6i5SYH`, `8i5BEh4`
 
 Recommended Models
 8i3BEK, 8i5BEK, 8i7BEK. For reference these are reccomended merely because our test model is an 8i7BEK.
