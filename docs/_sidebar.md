@@ -2,6 +2,7 @@
 - Getting started
 
   - [Enigma Overview](enigma-quickstart.md "What is Enigma?")
+      - [ENG Token](eng-token.md "What is ENG?")
   - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
   - [The Genesis Games](genesisgames-overview.md "Genesis Games Overview")
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
