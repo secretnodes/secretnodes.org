@@ -1,8 +1,8 @@
-# Need help troubleshooting your NUC?
+# Need help troubleshooting your Secret Node?
 
-This is a resource for known issues with configuring a Secret Node on some Intel NUC configurations.
+This is a resource for known issues with configuring a Secret Node from our guides.
 
-**Ubuntu Install won't recognize my SSD?**
+**Ubuntu Install won't recognize my drive?**
 
 If your NUC has an Intel NVMe drive in it, sometimes the Ubuntu Installer won't recognize it during install. This is not an issue we can directly fix but we do have a workaround. For the workaround you will need the following items 2 x USB flash drives at least 32GB each, and patience.
 
