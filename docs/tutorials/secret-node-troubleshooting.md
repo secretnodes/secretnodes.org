@@ -5,6 +5,6 @@ This is a resource for known issues with configuring Secret Nodes, gathered from
 
 # SGX Troubleshooting
 
-Here are some things to try if you've installed SGX as directed in the guides and are still running into issues. 
+Here are some things to try if you've running into issues after installing SGX. 
 
 1. Verify that "Secure Boot" is disabled in your bios. (This resolved an issue on a Dell Optiplex)
