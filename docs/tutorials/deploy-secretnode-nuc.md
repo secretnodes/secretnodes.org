@@ -15,7 +15,7 @@ The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone compu
 Recommended Models
 8i3BEK, 8i5BEK, 8i7BEK. For reference these are reccomended merely because our test model is an 8i7BEK.
 
-If this guide works for you, please report which NUC you used [here](https://t.me/secretnodes) and we'll add it to the list.
+If this guide works for you, please report which NUC you used [here](https://forum.enigma.co/c/enigma-nodes) and we'll add it to the list.
 
 # Part 1 - Enabling SGX in the BIOS
 
@@ -107,7 +107,7 @@ Notes while running the script.
 1. The install-sgx.sh script will download and install all relevant SGX files and drivers.
 2. The install-docker.sh script will download and install Docker & Docker Compose.
 3. The install-enigma-node.sh script will download and install relevant enigma node software.
-4. The Install-fixes.sh script will download relevant fixes for different devices. Report issues [here](https://t.me/secretnodes)
+4. The Install-fixes.sh script will download relevant fixes for different devices. Report issues [here](https://forum.enigma.co/c/enigma-nodes)
 5. The upgrade.sh script will update the ubuntu operating system packages.
 3. While running the script, respond "y" or "yes" to all prompts.
 4. When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
