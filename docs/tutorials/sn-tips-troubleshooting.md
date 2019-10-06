@@ -1,4 +1,4 @@
-# Tips and Troubleshooting forSecret Nodes
+# Tips and Troubleshooting for Secret Nodes
 
 This is a resource for known issues with configuring Secret Nodes, gathered from our community.
 
