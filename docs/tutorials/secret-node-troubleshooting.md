@@ -1,6 +1,6 @@
 # Need help troubleshooting your Secret Node?
 
-This is a resource for known issues with configuring a Secret Nodes from our community.
+This is a resource for known issues with configuring Secret Nodes, gathered from our community.
 
 
 # SGX Troubleshooting
