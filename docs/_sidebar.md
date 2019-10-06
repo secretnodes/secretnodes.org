@@ -14,7 +14,7 @@
   <!-- - [Contributing (Simple)](tutorials/CONTRIBUTING-simple.md "Contributing (Simple)") -->
   - [Deploy a Secret Node on your NUC](tutorials/deploy-secretnode-nuc.md "Deploy a Secret Node on your NUC")
   - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr")
-  <!-- - [Troubleshooting](tutorials/troubleshooting.md "Deploy a Secret Node on your NUC") -->
+  - [Troubleshooting](tutorials/secret-node-troubleshooting.md "Deploy a Secret Node on your NUC")
 
 - Community
 
