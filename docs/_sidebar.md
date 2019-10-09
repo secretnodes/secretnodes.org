@@ -23,4 +23,4 @@
 
 - NUC Hosting
 
-  - [NUC Hosting](nuc-hosting.md) 
+  - [NUC Hosting](nuc-hosting.md)
