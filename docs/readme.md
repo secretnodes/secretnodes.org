@@ -9,7 +9,7 @@ We're a community-led group of individuals who care about privacy, data ownershi
 
 ## Announcements
 
-
+- Enigma Development Update — September 2019 [@enigma.co](https://blog.enigma.co/enigma-development-update-september-2019-fe0637ad0376) ~ Oct 8th 2019
 - ENG Token Snapshot is Complete! What’s Next? [@enigma.co](https://blog.enigma.co/eng-token-snapshot-is-complete-whats-next-da859a20699f) ~ Sep 25th 2019
 - Enigma Development Update — August 2019 [@enigma.co](https://blog.enigma.co/enigma-development-update-august-2019-298ccadfcd1e) ~ Sep 10th 2019
 - Enigma and Outlier Ventures Announce Strategic Partnership. [@enigma.co](http://bit.ly/2zqcR6G), [@outlierventures.io](https://outlierventures.io/outlier-ventures-announces-strategic-partnership-with-enigma-protocol/) ~ Aug 27th 2019
