@@ -16,11 +16,11 @@
   - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr")
   - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC")
 
+- Resources
+  - [Staking Providers](staking-providers.md)
+  - [NUC Hosting](nuc-hosting.md)
+
 - Community
 
   - [Rules](rules.md)
   <!-- [Contributors](contributors.md)-->
-
-- NUC Hosting
-
-  - [NUC Hosting](nuc-hosting.md)
