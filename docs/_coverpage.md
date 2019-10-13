@@ -2,7 +2,7 @@
 
 > Securing the decentralized web.
 
-- 🚀 Node Support
+- 🚀 Nodes & Staking
 - 🌐 Solves for privacy and scalability.
 - 🔒 Computations over encrypted data.
 - 📶 Decentralized and censorship resistant node network.
