@@ -20,7 +20,7 @@
   - [Staking Providers](staking-providers.md)
   - [NUC Hosting](nuc-hosting.md)
 
-- Community
-
-  - [Rules](rules.md)
+- Other
+  - [Community Rules](rules.md)
+  - [Privacy Policy](privacy-policy.md)
   <!-- [Contributors](contributors.md)-->
