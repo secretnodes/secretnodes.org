@@ -6,6 +6,8 @@ This is a resource for known issues with configuring Secret Nodes, gathered from
 
 To update your Secret Node, merely log into your node and run these commands.
 
+> Note: If you used any of our guides to setup your node on or after Oct 18, 2019 then your node will automatically update when you run start.sh
+
 1.
 ```bash
 cd discovery-docker-network
