@@ -3,7 +3,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/secretnodes/learn)](https://github.com/secretnodes/learn/commits/master)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/secretnodes/learn)](https://github.com/secretnodes/learn/issues)
 
-We're a community-led group of individuals who care about privacy, data ownership, and are dedicated to supporting secret node runners. Taking from the public communications enigma has made and gathering useful answers from the community, we've created the most comprehensive resource for learning about enigma and Secret Nodes. [Jump right in and start learning!](/enigma-quickstart). 
+We're a community-led group of individuals who care about privacy, data ownership, and are dedicated to supporting secret node runners. Taking from the public communications enigma has made and gathering useful answers from the community, we've created the most comprehensive resource for learning about enigma and Secret Nodes. [Jump right in and start learning!](https://secretnodes.org/#/enigma-quickstart).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1NydoKd_Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
