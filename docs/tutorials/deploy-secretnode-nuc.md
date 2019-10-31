@@ -5,6 +5,8 @@ This guide will cover how to install the prerequisite software needed for your S
 
 > Note: This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a Secret Node. The Genesis Game has not begun yet and there is no need to run the node for anything other than testing purposes. This note will be updated at a future date when the games have begun.
 
+> Note: Please understand that the support secretnodes.org offers is community driven and volunteer based. Ultimately you are responsible for keeping your Secret Node running.
+
 # Intel NUC Overview
 
 The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
