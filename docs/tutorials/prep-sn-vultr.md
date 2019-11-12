@@ -8,6 +8,8 @@ This guide will cover how to install the prerequisite software needed for your S
 
 > Note : This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a secret nodes. The Genesis Games have not begun yet and there is no need to run the node for anything other than testing purposes at this point in time. This note will be updated at a future date when the games have begun.
 
+> Note: Please understand that the support secretnodes.org offers is community driven and volunteer based. Ultimately you are responsible for keeping your Secret Node running.
+
 # Part 1 - Setting up your VPS.
 Getting the right configuration on Vultr.
 
