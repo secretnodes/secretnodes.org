@@ -9,6 +9,9 @@ We're a community-led group of individuals who care about privacy, data ownershi
 
 ## Announcements
 
+- Secret Nodes: Everything You Need to Know [@enigma.co](https://blog.enigma.co/secret-nodes-everything-you-need-to-know-2c75c72046e2) ~ Nov 19th 2019
+- Enigma Development Update - October 2019 [@enigma.co](https://blog.enigma.co/enigma-development-update-october-2019-663352690309) ~ Nov 7th 2019
+- Enigma Technical Resource Index [@enigma.co](https://blog.enigma.co/enigma-technical-resource-index-bd9110714ea6) ~ Oct 18th 2019
 - Enigma Development Update — September 2019 [@enigma.co](https://blog.enigma.co/enigma-development-update-september-2019-fe0637ad0376) ~ Oct 8th 2019
 - ENG Token Snapshot is Complete! What’s Next? [@enigma.co](https://blog.enigma.co/eng-token-snapshot-is-complete-whats-next-da859a20699f) ~ Sep 25th 2019
 - Enigma Development Update — August 2019 [@enigma.co](https://blog.enigma.co/enigma-development-update-august-2019-298ccadfcd1e) ~ Sep 10th 2019
