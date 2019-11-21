@@ -8,9 +8,9 @@ The minimum ENG stake required for a mainnet secret node is *25,000 ENG*. This n
 
 ## What will block rewards and network fees look like on Enigma?
 
-In return for operating a secret node and staking on Enigma, node operators receive a share of fees paid on the network as well as block rewards. Block rewards for the Enigma network will begin at 750,000 ENG for the first year the mainnet is in operation and decrease 10% year-over-year thereafter. The total block rewards pool is thus 7.5M ENG and will not be exhausted for the first century the network is in operation. This pool is 1/5th of the total token pool reserved for network, community, and ecosystem incentives (37.5M ENG). Block rewards on the Enigma network, by year and cumulative. Please keep in mind that the total supply of ENG is fixed at 150M ENG, with 75M ENG already in circulation since 2017 and the vast majority of the remainder not expected to enter circulation within the next few years. We visualize this below:
+Network rewards on Enigma network will begin at 1,500,000 ENG for the first year the mainnet is in operation and decrease 20% year-over-year thereafter. The total block rewards pool is thus 7.5M ENG and will not be exhausted for the first century the network is in operation. This pool is 1/5th of the total token pool reserved for network, community, and ecosystem incentives (37.5M ENG). We visualize this below:
 
-<p style="text-align:center;"><img src="_media/blockreward.png" alt="visualized" width="500"/></p>
+<p style="text-align:center;"><img src="_media/blockrewardv2.png" alt="visualized" width="500"/></p>
 
 ## What (and why) is a genesis node?
 
@@ -19,14 +19,14 @@ Therefore, the number of secret nodes available when Discovery is deployed on ma
 
 ## How are genesis nodes selected?
 
-Nodes active during Discovery’s testnet phase will be assigned a weighted score calculated based on their total (testnet) ENG staked and their uptime during this period. This “genesis score” is projected to be calculated based on the following formula:
+Nodes active during the Genesis Game period (which will run during Enigma’s testnet phase) will be assigned a weighted score calculated based on their total (testnet) ENG staked and their uptime during this period. This “genesis score” is projected to be calculated based on the following formula:
     - sqrt (avg_staked_amount) * number_of_days_staked * percentage_uptime
-Anyone can participate in the Genesis Game during the testnet staking period. The “game” itself is projected to last eight weeks. At the conclusion of this phase, genesis nodes will be selected as follows:
-* The top 30 nodes by genesis score are selected as genesis nodes.
-* More nodes (up to 10 maximum) will be eligible for whitelisting based on contributions to the Enigma ecosystem, primarily those building supply-side tooling for workers and staking operations.
-* Dependent on the size of this whitelist, 10–20 more nodes are chosen based on a lottery system, with weighting in the lottery determined by your genesis score. This means that even if you do not finish in the top 30 by genesis score, you are still eligible for random selection as a genesis node. This will help encourage broader participation in testing the Discovery network.
 
-As mentioned, there will be 50 genesis secret nodes in total when mainnet launches. These nodes will be the only nodes eligible to operate when Discovery launches, and they alone will receive block rewards and network fees until more nodes are added to the network. (In a later section, there are details on how and when secret nodes beyond genesis nodes will be added.)
+Anyone can participate in the Genesis Game during the testnet staking period. The “game” itself is projected to last four weeks. At the conclusion of this phase, genesis nodes will be selected as follows:
+* The top 30 nodes by genesis score are selected as genesis nodes.
+* More nodes (up to 20 maximum) will be eligible for whitelisting based on contributions to the Enigma ecosystem, primarily those building supply-side tooling for workers and staking operations, as well as valuable but harder-to-quantify contributions during the testnet phase / Genesis Game (such as identifying critical bugs).
+
+As mentioned, there will be 50 genesis secret nodes in total when mainnet launches. These nodes will be the only nodes eligible to operate when Discovery launches, and they alone will receive network rewards and fees until more nodes are added to the network. (In a later section, there are details on how and when secret nodes beyond genesis nodes will be added.)
 
 <!-- ## I want to run a genesis node. What happens now? -->
 
