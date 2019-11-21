@@ -8,8 +8,6 @@
 - 📶 Decentralized and censorship resistant node network.
 
 <div class="buttons">
-  <a href="https://github.com/secretnodes/learn" target="_blank"><span>GitHub</span></a>
+  <a href="https://t.me/secretnodes" target="_blank"><span>Join</span></a>
   <a href="#/README"><span>Get Started</span></a>
 </div>
-
-
