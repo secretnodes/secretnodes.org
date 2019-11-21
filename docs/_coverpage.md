@@ -9,5 +9,5 @@
 
 <div class="buttons">
   <a href="https://t.me/secretnodes" target="_blank"><span>Join</span></a>
-  <a href="#/README"><span>Get Started</span></a>
+  <a href="#/README"><span>Learn</span></a>
 </div>
