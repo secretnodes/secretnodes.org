@@ -9,7 +9,7 @@ We're a community-led group of individuals who care about privacy, data ownershi
 
 ## Announcements
 
-- secretnodes.org Pool Staking Information [@secretnodes.org](https://forum.enigma.co/t/secretnodes-org-pool-staking-information/1167) ~ Nov 22th 2019
+- secretnodes.org Pool Staking Information [@forum.enigma.co Announcement](https://forum.enigma.co/t/secretnodes-org-pool-staking-information/1167) ~ Nov 22th 2019
 - Secret Nodes: Everything You Need to Know [@enigma.co](https://blog.enigma.co/secret-nodes-everything-you-need-to-know-2c75c72046e2) ~ Nov 19th 2019
 - Enigma Development Update - October 2019 [@enigma.co](https://blog.enigma.co/enigma-development-update-october-2019-663352690309) ~ Nov 7th 2019
 - Enigma Technical Resource Index [@enigma.co](https://blog.enigma.co/enigma-technical-resource-index-bd9110714ea6) ~ Oct 18th 2019
