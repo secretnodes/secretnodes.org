@@ -1,11 +1,11 @@
 <img src="_media/logo-blk.png" class="center">
 
-> Securing the decentralized web.
+> Securing the Decentralized Web!
 
 - 🚀 Nodes & Staking
 - 🌐 Solves for privacy and scalability.
 - 🔒 Computations over encrypted data.
-- 📶 Decentralized and censorship resistant node network.
+- 📶 Censorship Resistant Network.
 
 <div class="buttons">
   <a href="https://t.me/secretnodes" target="_blank"><span>Join</span></a>
