@@ -1,6 +1,6 @@
 <img src="_media/logo-blk.png" class="center">
 
-> Securing the Decentralized Web!
+> Securing the decentralized web!
 
 - 🚀 Nodes & Staking
 - 🌐 Solves for privacy and scalability.
