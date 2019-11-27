@@ -4,7 +4,7 @@
 
 - 🚀 Nodes & Staking
 - 🌐 Solves for privacy and scalability
-- 🔒 Computations over encrypted data
+- 🔒 Compute over encrypted data
 - 📶 Censorship Resistant Network
 
 <div class="buttons">
