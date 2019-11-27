@@ -3,9 +3,9 @@
 > Securing the decentralized web!
 
 - 🚀 Nodes & Staking
-- 🌐 Solves for privacy and scalability.
-- 🔒 Computations over encrypted data.
-- 📶 Censorship Resistant Network.
+- 🌐 Solves for privacy and scalability
+- 🔒 Computations over encrypted data
+- 📶 Censorship Resistant Network
 
 <div class="buttons">
   <a href="https://t.me/secretnodes" target="_blank"><span>Join</span></a>
