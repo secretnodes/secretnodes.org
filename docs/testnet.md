@@ -9,5 +9,7 @@ Currently we know that the upcoming Networked Testnet for enigma will happen on 
 
 ```
 Note
-You must use a wallet that allows you to switch to the Kovan testnet in order to use KETH or testENG. Recommended wallets : Ledger, Trezor, metamask, mycrptoc.com.
+You must use a wallet that allows you to switch to the Kovan
+testnet in order to use KETH or testENG.
+Recommended wallets : Ledger, Trezor, metamask, mycrptoc.com.
 ```
