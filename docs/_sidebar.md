@@ -4,6 +4,7 @@
   - [Enigma Overview](enigma-quickstart.md "What is Enigma?")
   - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
   - [The Genesis Games](genesisgames-overview.md "Genesis Games Overview")
+  - [Testnet Info](testnet.md "Enigma Testnet Information")
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
   <!-- - [Utility](utility-overview.md "Utility Overview") -->
   - [FAQ](faq.md "FAQ")
