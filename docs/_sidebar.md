@@ -5,6 +5,7 @@
   - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
   - [The Genesis Games](genesisgames-overview.md "Genesis Games Overview")
   - [Testnet Info](testnet.md "Enigma Testnet Information")
+  - [Staking](staking-providers.md)
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
   <!-- - [Utility](utility-overview.md "Utility Overview") -->
   - [FAQ](faq.md "FAQ")
@@ -18,10 +19,9 @@
   - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC")
 
 - Resources
-  - [Staking Providers](staking-providers.md)
   - [NUC Hosting](nuc-hosting.md)
 
 - Other
   - [Community Rules](rules.md)
   - [Privacy Policy](privacy-policy.md)
-  <!-- [Contributors](contributors.md)-->
+  - [Collective](https://collective.secretnodes.org)
