@@ -1,5 +1,5 @@
 
-- Getting started
+- Main Menu
 
   - [Enigma Overview](enigma-quickstart.md "What is Enigma?")
   - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
