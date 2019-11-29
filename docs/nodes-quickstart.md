@@ -91,4 +91,28 @@ Deterministic and Order-preserving Encryptions are sorts of partial encryptions 
 
 To understand why these schemes are insecure, one needs to realize that they still leak a meaningful portion of the data. For example, OPE is defined as an encryption that preserves the ordering of the element. Specifically, given two ciphertexts c1, c2, corresponding to messages m1, m2 then if c1 < c2 so does m1 < m2. Now imagine that you have an encrypted column representing people’s age. Ages are integral types with a small range of typically 0–100. Given sufficiently many rows (even as little as 1000 should be enough), one could easily map back the encrypted values into integers with high accuracy and likelihood of being correct. Therefore, while tempting from an implementation perspective, these techniques are discouraged and are only brought here for completeness.
 
+## Analysis on Starting an Enigma Node
+At a very high level, each Worker (node) needs to execute a sequence of steps and only then, it can start "working". Here are all of the initial steps the Worker has to do:
+
+**Start**
+Starting the node after Core. Set some configurations such as network settings & Ethereum wallet. 
+
+**Bootstrap**
+Connect to hardcoded well-known Bootstrap nodes to get seeds (i.e peers) from.
+
+**Persistent Discovery**
+Service that is always alive and optimizes for "Optimal DHT" state (i.e take care of connection stability).
+
+**Sync State**
+Synchronize the Worker state: Secret contracts bytecode and deltas.
+
+**Announce State**
+Update the DHT registries with the content available (i.e deltas) for other peers to sync.
+
+**Background Services**
+Such as Ethereum listener, JsonRpcAPI etc.
+
+**Register**
+Register with Enigma.sol (The Enigma Smart Contract) with all the required steps including Enclave Report.
+
 
