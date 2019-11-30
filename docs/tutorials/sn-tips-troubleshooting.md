@@ -22,4 +22,5 @@ docker-compose pull
 
 Here are some things to try if you're running into issues after installing SGX.
 
-1. Verify that "Secure Boot" is disabled in your bios. (This resolved an issue on a Dell Optiplex and an Intel NUC)
+1. Verify that "Secure Boot" is disabled in your bios.
+2. Verify that "Safe Boot" is disabled in your bios.
