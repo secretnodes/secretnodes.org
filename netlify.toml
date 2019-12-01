@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "https://stake.secretnodes.org"
+  to = "https://secretnodes.org/#/stake"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
