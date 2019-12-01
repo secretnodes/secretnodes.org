@@ -5,7 +5,7 @@ to = "https://secretnodes.org/#/stake"
 status = 301
 force = true # ensure that we always redirect
 
-# Redirect for lear.secretnodes.org
+# Redirect for learn.secretnodes.org
 [[redirects]]
 from = "https://learn.secretnodes.org/"
 to = "https://secretnodes.org/#/readme"
