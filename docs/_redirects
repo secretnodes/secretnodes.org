@@ -1,2 +1,3 @@
 # http and https need separate rules if you don't force_ssl!
-https://stake.secretnodes.org/* https://secretnodes.org/#/stake:splat 301!
+https://stake.secretnodes.org/ https://secretnodes.org/#/stake:splat 301!
+https://learn.secretnodes.org/ https://secretnodes.org/#/README
