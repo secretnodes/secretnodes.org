@@ -4,6 +4,9 @@ The secretnodes.org community pool is administered by [OmniStake](https://t.me/o
 
 To stake into the secretnodes.org pool, all you must do is [read and agree to our staking agreement](https://staking-terms.secretnodes.org/), then deposit ENG tokens into the deposit address [secretnodes.eth](https://etherscan.io/address/secretnodes.eth). `Fee's are only assessed on rewards earned.`
 
+`Full ETH address:
+0x178Bbf2DC8c81Ca6111FCbA14451171f5C9D8EAF`
+
 ```details
 +-----------+-----+-----------------+
 |  Payout   | Fee | Deposit Address |
@@ -23,9 +26,6 @@ To stake into the secretnodes.org pool, all you must do is [read and agree to ou
 | TBD                |
 +--------------------+
 ```
-
-`Full ETH address:
-0x178Bbf2DC8c81Ca6111FCbA14451171f5C9D8EAF`
 
 Payouts will be made to the address you used to
 send your deposit from. No other address can be used.
