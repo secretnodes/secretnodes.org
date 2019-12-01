@@ -2,4 +2,4 @@
 from = "https://stake.secretnodes.org"
 to = "https://secretnodes.org/#/stake"
 status = 301
-force = false
+force = true
