@@ -1,6 +1,6 @@
 # Contributing Advanced
 
-To contribute to https://learn.secretnodes.org please follow these guidelines.
+To contribute to https://secretnodes.org please follow these guidelines.
 
 ## Setting up your environment
 
@@ -40,7 +40,7 @@ Now simply edit the markdown files with your favorite editor. To test this out, 
 ```bash
 nano contributing-advanced.md
 ```
- 
+
 Then preview the changes on your local machine by doing the following.
 
 ```bash

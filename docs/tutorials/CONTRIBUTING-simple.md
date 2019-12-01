@@ -1,6 +1,6 @@
 # Contributing
 
-To contribute to https://learn.secretnodes.org please follow these guidelines.
+To contribute to https://secretnodes.org please follow these guidelines.
 
 ## Setting up your environment
 
