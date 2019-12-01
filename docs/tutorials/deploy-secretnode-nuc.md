@@ -1,7 +1,7 @@
 # Deploy a Secret Node on your NUC
 Guide Version 0.37 | Date Nov 29, 2019 | Pre-Genesis Games Edition
 
-This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games. If have any issues with this guide please try the [troubleshooting tips](#/tutorials/sn-tips-troubleshooting) first, if you are still running into issues please ask a question here on [the enigma forums](https://forum.enigma.co/c/enigma-nodes).
+This guide will cover how to install the prerequisite software needed for your SGX compatible NUC. Once completed your Secret Node will be prepared for the Genesis Games. If you have any issues with this guide please try the [troubleshooting tips](#/tutorials/sn-tips-troubleshooting) first, if you are still running into issues please ask a question here on [the enigma forums](https://forum.enigma.co/c/enigma-nodes).
 
 > Note: This launches a devnet on SGX compatible hardware. If you complete this guide successfully then your machine can run a Secret Node. The Genesis Game has not begun yet and there is no need to run the node for anything other than testing purposes. This note will be updated at a future date when the games have begun.
 
