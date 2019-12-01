@@ -18,7 +18,7 @@
   - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC")
 
 - Resources
-  - [Stake](staking.md)
+  - [Stake](stake.md)
   - [NUC Hosting](nuc-hosting.md)
 
 - Other
