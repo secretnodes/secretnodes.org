@@ -1,5 +1,5 @@
 [[redirects]]
 from = "https://stake.secretnodes.org/*"
-to = "https://secretnodes.org/#/stake:splat"
+to = "https://secretnodes.org/#/stake"
 status = 301
-force = true
+force = true # ensure that we always redirect
