@@ -1,13 +1,13 @@
 # Redirect info for stake.secretnodes.org
 [[redirects]]
-from = "https://stake.secretnodes.org/"
+from = "https://stake.secretnodes.org"
 to = "https://secretnodes.org/#/stake"
 status = 301
 force = true # ensure that we always redirect
 
 # Redirect info for learn.secretnodes.org
 [[redirects]]
-from = "https://learn.secretnodes.org/"
+from = "https://learn.secretnodes.org"
 to = "https://secretnodes.org/#/readme"
 status = 301
 force = true # ensure that we always redirect
