@@ -1,7 +1,7 @@
 # Enigma Discovery Testnet Information
 Last Updated : Date Nov 26, 2019
 
-Currently we know that the upcoming Networked Testnet for enigma will happen on the Kovan testnet. We will update this when the date for test ENG distribution is known.
+Currently we know that the upcoming Networked Testnet for enigma will happen on the Kovan testnet. We will update this when the date for test ENG distribution is known. For the purposes of testing your Secret Node, you shouldn't need more than 0.1 KETH.
 
 ## Wallet Information
 You must use a wallet that allows you to switch to the Kovan
