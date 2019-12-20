@@ -164,7 +164,7 @@ section.cover.show ~ .sidebar-toggle {
 }
 
 /****** Sidebar ******/
-.sidebar .sidebar-logo {
+.sidebar .app-name-link img {
   height: 100px;
 }
 
