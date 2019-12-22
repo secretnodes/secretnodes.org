@@ -134,7 +134,12 @@ bash cli.sh
 
 Once you have the CLI running do as follows.
 
-First thing you must do is send 0.1 kETH to the "Node Ethereum Address" displayed in the CLI.
+```run in CLI
+setup
+```
+After running setup, enter your staking address when prompted. Then enter ok.
+
+Next send 0.1 kETH to the "Node Ethereum Address" displayed in the CLI.
 
 > NOTE : you must have 0.1 kETH to proceed.
 
