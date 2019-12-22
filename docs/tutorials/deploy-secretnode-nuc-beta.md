@@ -132,6 +132,10 @@ bash cli.sh
 
 Once you have the CLI running do as follows.
 
+First thing you must do is send 0.1 ETH to the "Node Ethereum Address" displayed in the CLI.
+
+> NOTE : you must have 0.1 kETH to proceed.
+
 ```run in CLI
 generate set-address
 ```
