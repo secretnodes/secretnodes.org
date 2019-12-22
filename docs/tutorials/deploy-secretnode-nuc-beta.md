@@ -171,6 +171,4 @@ NOTE : MEW IS BUGGY SO DO THE FOLLOWING IN THIS ORDER EXACTLY.
 12. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083e" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
 13. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
 
-(working on updating this now, if you're reading this message me and ask questions)
-
-Congratulations! 🎉 You are now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, there is no need to leave this node running. You now know how easy it will be to deploy on your NUC and can start again when the time comes.
+Congratulations! 🎉 You may or may not have done this successfully. If you did not, don't worry as things are still in beta. Please report any issues to me [moonstash](https://t.me/moonstash)
