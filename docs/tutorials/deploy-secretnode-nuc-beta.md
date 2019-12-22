@@ -3,6 +3,8 @@ Guide Version 0.42 | Date Dec 22, 2019 | Discovery Testnet Beta
 
 This guide is a beta guide and could break at any time.
 
+> ALL ENG AND ETH IN THIS GUIDE IS REFERRING TO TEST TOKENS. DO NOT USE REAL ETH OR ENG FOR ANY OF THESE ADDRESSES. YOU WILL BE VERY SORRY IF YOU USE REAL CRYPTO HERE!!!!!
+
 # Intel NUC Overview
 
 The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
