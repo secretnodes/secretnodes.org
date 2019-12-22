@@ -119,7 +119,7 @@ Run the bash script.
 bash start.sh
 ```
 
-# Part 7 - Run the cli
+# Part 7 - Start the cli
 
 Running this script will start the CLI.
 
@@ -128,7 +128,32 @@ Run the bash script.
 bash cli.sh
 ```
 
-# Part 8 - 
+# Part 8 - From within the CLI
+
+Once you have the CLI running do as follows.
+
+```run in CLI
+generate set-address
+```
+Save all the output as you will need it later in the guide to send a custom transaction.
+
+```run in CLI
+generate approve 1000
+```
+Save all the output as you will need it later in the guide to send a custom transaction.
+
+```run in CLI
+generate deposit 1000
+```
+Save all the output as you will need it later in the guide to send a custom transaction.
+
+# Part 9 - From Myetherwallet.com
+
+Go to https://www.myetherwallet.com/interface/send-transaction while on the Kovan network.
+
+NOTE : MEW IS BUGGY SO DO THE FOLLOWING IN THIS ORDER EXACTLY.
+
+1. For amount put in "0"
 
 (working on updating this now, if you're reading this message me and ask questions)
 
