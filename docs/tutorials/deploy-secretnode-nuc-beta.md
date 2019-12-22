@@ -158,7 +158,14 @@ NOTE : MEW IS BUGGY SO DO THE FOLLOWING IN THIS ORDER EXACTLY.
 3. In the "add data" field paste in the data from the output when you ran "generate set-address" in the cli.
 4. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083e" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
 5. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
-6. (still updating!)
+6. Prepare to send a 2nd transaction.
+7. In the "add data" field paste in the data from the output when you ran "generate approve 1000" in the cli.
+8. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083e" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+9. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
+10. Prepare to send a 3rd transaction.
+11. In the "add data" field paste in the data from the output when you ran "generate deposit 1000" in the cli.
+12. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083e" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+13. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
 
 (working on updating this now, if you're reading this message me and ask questions)
 
