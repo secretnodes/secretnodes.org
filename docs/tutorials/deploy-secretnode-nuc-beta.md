@@ -153,7 +153,12 @@ Go to https://www.myetherwallet.com/interface/send-transaction while on the Kova
 
 NOTE : MEW IS BUGGY SO DO THE FOLLOWING IN THIS ORDER EXACTLY.
 
-1. For amount put in "0"
+1. For amount leave it at "0"
+2. Towards the bottom of the screen there is a "Data & Gas Limit Toggle" turn this on.
+3. In the "add data" field paste in the data from the output when you ran "generate set-address" in the cli.
+4. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083e" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+5. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
+6. (still updating!)
 
 (working on updating this now, if you're reading this message me and ask questions)
 
