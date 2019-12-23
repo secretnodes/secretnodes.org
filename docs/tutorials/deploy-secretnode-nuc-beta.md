@@ -157,23 +157,9 @@ generate deposit 1000
 ```
 Save all the output as you will need it later in the guide to send a custom transaction.
 
-# Part 9 - Send custom transactions from mycrypto.com
+# Part 9 - Send 3 custom transactions
 
-Go to https://mycrypto.com/account/send while on the Kovan network.
-
-1. For amount leave it at "0"
-2. In the "To Address" put in from the output when you ran "generate deposit 1000" in the cli. 
-3. Towards the bottom of the screen there is an option "advanced" turn this on by clicking.
-4. In the "data" field paste in the data from the output when you ran "generate set-address" in the cli.
-5. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
-6. Prepare to send a 2nd transaction.
-7. In the "To Address" put infrom the output when you ran "generate deposit 1000" in the cli.
-8. In the "data" field paste in the data from the output when you ran "generate approve 1000" in the cli.
-9. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
-10. Prepare to send a 3rd transaction.
-11. In the "To Address" put in the address from the output when you ran "generate deposit 1000" in the cli.
-12. In the "data" field paste in the data from the output when you ran "generate deposit 1000" in the cli.
-13. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
+Next you need to add your stake to the Enigma contract, which takes three different transactions. The CLI will provide you with the destination address and the data field for each transaction, which you take to your wallet to send 0 eth to that address and include the data in the data field. You can use My Ether Wallet or [MyCrypto](MyCrypto.com) to send these transactions: click on "Advanced" in the "send ether & tokens" tab to set the data field. You send these three transactions from your Staking Address where you hold the ENG tokens that you want to stake in running a node. Make sure that each transaction succeeds before submitting the next one.
 
 The last thing you must do is type "login" in the CLI then press enter.
 
