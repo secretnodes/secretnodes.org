@@ -167,15 +167,15 @@ Go to https://mycrypto.com/account/send while on the Kovan network.
 1. For amount leave it at "0"
 2. Towards the bottom of the screen there is an option "advanced" turn this on by clicking.
 3. In the "data" field paste in the data from the output when you ran "generate set-address" in the cli.
-4. In the "To Address" put in "0xA5D12Ea873e33806B9f2A87b779facee297748cD" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+4. In the "To Address" put in from the output when you ran "generate deposit 1000" in the cli.
 5. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
 6. Prepare to send a 2nd transaction.
 7. In the "data" field paste in the data from the output when you ran "generate approve 1000" in the cli.
-8. In the "To Address" put in "0xA5D12Ea873e33806B9f2A87b779facee297748cD" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+8. In the "To Address" put infrom the output when you ran "generate deposit 1000" in the cli.
 9. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
 10. Prepare to send a 3rd transaction.
 11. In the "data" field paste in the data from the output when you ran "generate deposit 1000" in the cli.
-12. In the "To Address" put in "0xA5D12Ea873e33806B9f2A87b779facee297748cD" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+12. In the "To Address" put in the address from the output when you ran "generate deposit 1000" in the cli.
 13. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
 
 The last thing you must do is type "login" in the CLI then press enter.
