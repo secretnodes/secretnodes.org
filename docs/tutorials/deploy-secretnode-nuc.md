@@ -3,7 +3,7 @@ Guide Version 0.42 | Date Dec 23, 2019 | Discovery Testnet Beta
 
 This guide is a beta guide and could break at any time.
 
-> ALL ENG AND ETH IN THIS GUIDE IS REFERRING TO TEST TOKENS. DO NOT USE REAL ETH OR ENG FOR ANY OF THESE ADDRESSES. YOU WILL BE VERY SORRY IF YOU USE REAL CRYPTO HERE!!!!!
+> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide!
 
 # Intel NUC Overview
 
@@ -158,6 +158,8 @@ generate deposit 1000
 Save all the output as you will need it later in the guide to send a custom transaction.
 
 # Part 9 - Send 3 custom transactions
+
+>Note Make sure you are on the Kovan network and are not using real tokens with actual value. Remember this is the testnet.
 
 Next you need to add your stake to the Enigma contract, which takes three different transactions. The CLI will provide you with the destination address and the data field for each transaction, which you take to your wallet to send 0 eth to that address and include the data in the data field. You can use My Ether Wallet or [MyCrypto](MyCrypto.com) to send these transactions: click on "Advanced" in the "send ether & tokens" tab to set the data field. You send these three transactions from your Staking Address where you hold the ENG tokens that you want to stake in running a node. Make sure that each transaction succeeds before submitting the next one.
 
