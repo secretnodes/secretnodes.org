@@ -162,7 +162,7 @@ Save all the output as you will need it later in the guide to send a custom tran
 
 >Note Make sure you are on the Kovan network and are not using real tokens with actual value. Remember this is the testnet.
 
-Next you need to add your stake to the Enigma contract, which takes three different transactions. The CLI will provide you with the destination address and the data field for each transaction, which you take to your wallet to send 0 eth to that address and include the data in the data field. You can use My Ether Wallet or [MyCrypto](MyCrypto.com) to send these transactions: click on "Advanced" in the "send ether & tokens" tab to set the data field. You send these three transactions from your Staking Address where you hold the ENG tokens that you want to stake in running a node. Make sure that each transaction succeeds before submitting the next one.
+Next you need to add your stake to the Enigma contract, which takes three different transactions. The CLI will provide you with the destination address and the data field for each transaction, which you take to your wallet to send 0 eth to that address and include the data in the data field. You can use [MyCrypto](MyCrypto.com) or MEW to send these transactions: click on "Advanced" in the "send ether & tokens" tab to set the data field. You send these three transactions from your Staking Address where you hold the ENG tokens that you want to stake in running a node. Make sure that each transaction succeeds before submitting the next one.
 
 The last thing you must do is type "login" in the CLI then press enter.
 
