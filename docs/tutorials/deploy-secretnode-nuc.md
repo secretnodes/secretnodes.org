@@ -3,7 +3,7 @@ Guide Version 0.42 | Date Dec 23, 2019 | Discovery Testnet Beta
 
 This guide is a beta guide and could break at any time.
 
-> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide!
+> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. 
 
 # Intel NUC Overview
 
