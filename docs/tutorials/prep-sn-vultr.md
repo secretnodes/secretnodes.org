@@ -1,5 +1,5 @@
 # Deploy a Secret Node on Vultr
-Guide Version 0.17 | Date Sep 22, 2019 | Pre-Genesis Games Edition
+Guide Version 0.175 | Date Dec 23, 2019 | Pre-Genesis Games Edition
 Difficulty Level : Noob Friendly!
 
 **Estimated Time | 15 - 30 Minutes depending on experience.**
@@ -115,7 +115,9 @@ Notes while running the script.
 
 # Part 6 - Deploy Secret Node
 
-> Note: If you're wanting to participate in the testnet launched 12/23/2019 then proceed with [this guide](https://github.com/enigmampc/discovery-testnet/blob/master/SETUP.md) on that guide you can skip the "install SGX" part of the instructions.
+> Note: Stop here If you're wanting to participate in the testnet launched 12/23/2019 and proceed from this point to [this guide](https://github.com/enigmampc/discovery-testnet/blob/master/SETUP.md) on that guide you can skip the "install SGX" part of the instructions.
+
+Continuing will not launch the testnet.
 
 Running this script will start 9 enigma workers on the enigma devnet.
 
