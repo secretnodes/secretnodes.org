@@ -132,6 +132,8 @@ bash cli.sh
 
 # Part 8 - From within the CLI
 
+> Note if you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
+
 Once you have the CLI running do as follows.
 
 ```run in CLI
