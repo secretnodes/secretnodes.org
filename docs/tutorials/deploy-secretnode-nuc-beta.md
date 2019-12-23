@@ -162,8 +162,6 @@ Save all the output as you will need it later in the guide to send a custom tran
 
 Go to https://mycrypto.com/account/send while on the Kovan network.
 
-> NOTE: If your output from Part 8 inlcudes a ")" do not include it in this part! Also if you are unable to successfully send the custom transaction with
-
 1. For amount leave it at "0"
 2. Towards the bottom of the screen there is an option "advanced" turn this on by clicking.
 3. In the "data" field paste in the data from the output when you ran "generate set-address" in the cli.
@@ -180,4 +178,4 @@ Go to https://mycrypto.com/account/send while on the Kovan network.
 
 The last thing you must do is type "login" in the CLI then press enter.
 
-Congratulations! 🎉 You may or may not have done this successfully. If you did not, don't worry as things are still in beta. Please report any issues to me [moonstash](https://t.me/moonstash)
+Congratulations! 🎉 You may or may not have done this successfully. If you did not, don't worry as things are still in beta. Please report any issues to the beta channel.
