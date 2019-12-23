@@ -123,9 +123,8 @@ bash start.sh
 
 # Part 7 - Start the cli
 
-Running this script will start the CLI.
+Leave the first open and running then open a new terminal window and run this script in it to start the CLI.
 
-Run the bash script.
 ```bash
 bash cli.sh
 ```
