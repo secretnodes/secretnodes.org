@@ -166,4 +166,4 @@ Next you need to add your stake to the Enigma contract, which takes three differ
 
 The last thing you must do is type "login" in the CLI then press enter.
 
-Congratulations! 🎉 You may or may not have done this successfully. If you did not, don't worry as things are still in beta. Please report any issues to the beta channel.
+If your "Node Status" reports as "Running" then Congratulations! 🎉 If it does not then, don't worry as things are still in beta. Please report any issues [here](https://forum.enigma.co/c/enigma-nodes).
