@@ -114,7 +114,7 @@ Notes while running the script.
 
 # Part 6 - Deploy Secret Node
 
-Running this script will start 9 enigma workers on the enigma devnet.
+Running this script start an enimga worker. It will also make sure the enigma node software is up to date.
 
 Run the bash script.
 ```bash
