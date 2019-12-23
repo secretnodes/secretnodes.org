@@ -162,20 +162,20 @@ Save all the output as you will need it later in the guide to send a custom tran
 
 Go to https://mycrypto.com/account/send while on the Kovan network.
 
-> NOTE: If your output from Part 8 inlcudes a ")" do not include it in this part!
+> NOTE: If your output from Part 8 inlcudes a ")" do not include it in this part! Also if you are unable to successfully send the custom transaction with
 
 1. For amount leave it at "0"
 2. Towards the bottom of the screen there is an option "advanced" turn this on by clicking.
 3. In the "data" field paste in the data from the output when you ran "generate set-address" in the cli.
-4. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083e" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+4. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
 5. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
 6. Prepare to send a 2nd transaction.
 7. In the "data" field paste in the data from the output when you ran "generate approve 1000" in the cli.
-8. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083e" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+8. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
 9. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
 10. Prepare to send a 3rd transaction.
 11. In the "data" field paste in the data from the output when you ran "generate deposit 1000" in the cli.
-12. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083e" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
+12. In the "To Address" put in "0x8FDbB8BA27d122BE10bfA63B8F0FD2676d083" (NOTE IF ENIGMA REDEPLOYS THIS CONTRACT WILL CHANGE)
 13. At the bottom click "Send Transaction" and proceed as you normally would to finish the transaction.
 
 The last thing you must do is type "login" in the CLI then press enter.
