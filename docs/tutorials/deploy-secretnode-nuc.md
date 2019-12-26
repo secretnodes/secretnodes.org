@@ -1,7 +1,7 @@
 # Deploy a Secret Node on your NUC
-Guide Version 0.42 | Date Dec 23, 2019 | Discovery Testnet Beta
+Guide Version 0.425 | Date Dec 26, 2019 | Discovery Testnet Beta
 
-This guide is a beta guide and could break at any time.
+This guide is a beta guide and could break at any time, please report any issues you face between steps 1 - 7.
 
 > All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. 
 
@@ -134,4 +134,4 @@ bash cli.sh
 
 Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
 
-Please report any issues getting to this step in a new thread detailing your issue [here](https://forum.enigma.co/c/enigma-nodes). Please do not ask for CLI support at this time.
+Please report any issues in a new thread [here](https://forum.enigma.co/c/enigma-nodes). Please do not ask for CLI support at this time.
