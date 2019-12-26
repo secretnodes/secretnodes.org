@@ -134,4 +134,4 @@ bash cli.sh
 
 Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
 
-If it does not then, don't worry as things are still in beta. Please report any issues [here](https://forum.enigma.co/c/enigma-nodes).
+Please report any issues getting to this step in a new thread detailing your issue [here](https://forum.enigma.co/c/enigma-nodes). Please do not ask for CLI support at this time.
