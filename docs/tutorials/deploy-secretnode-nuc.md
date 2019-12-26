@@ -132,40 +132,6 @@ bash cli.sh
 
 # Part 8 - From within the CLI
 
-> Note if you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
+Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
 
-Once you have the CLI running do as follows.
-
-```run in CLI
-setup
-```
-After running setup, enter your staking address when prompted. Then enter ok.
-
-Next send 0.1 kETH to the "Node Ethereum Address" displayed in the CLI.
-
-> NOTE : you must have 0.1 kETH to proceed.
-
-```run in CLI
-generate set-address
-```
-Save all the output as you will need it later in the guide to send a custom transaction.
-
-```run in CLI
-generate approve 1000
-```
-Save all the output as you will need it later in the guide to send a custom transaction.
-
-```run in CLI
-generate deposit 1000
-```
-Save all the output as you will need it later in the guide to send a custom transaction.
-
-# Part 9 - Send 3 custom transactions
-
->Note Make sure you are on the Kovan network and are not using real tokens with actual value. Remember this is the testnet.
-
-Next you need to add your stake to the Enigma contract, which takes three different transactions. The CLI will provide you with the destination address and the data field for each transaction, which you take to your wallet to send 0 eth to that address and include the data in the data field. You can use [MyCrypto](MyCrypto.com) or MEW to send these transactions: click on "Advanced" in the "send ether & tokens" tab to set the data field. You send these three transactions from your Staking Address where you hold the ENG tokens that you want to stake in running a node. Make sure that each transaction succeeds before submitting the next one.
-
-The last thing you must do is type "login" in the CLI then press enter.
-
-If your "Node Status" reports as "Running" then Congratulations! 🎉 If it does not then, don't worry as things are still in beta. Please report any issues [here](https://forum.enigma.co/c/enigma-nodes).
+If it does not then, don't worry as things are still in beta. Please report any issues [here](https://forum.enigma.co/c/enigma-nodes).
