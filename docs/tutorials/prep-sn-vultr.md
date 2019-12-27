@@ -2,7 +2,7 @@
 Guide Version 0.25 | Date Dec 27, 2019 | Pre-Genesis Games Edition
 Difficulty Level : Noob Friendly!
 
-> If you've configured your node with a previous version of this guide please run the following command to refresh the scripts on your node. You should only need to run this once. "wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/refresh-scripts.sh" then proceed from step 6 on this guide.
+> If you've configured your node with a previous version of this guide please run the following command to refresh the scripts on your node. You should only need to run this once. "wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/upgrade.sh" then proceed from step 6 on this guide.
 
 **Estimated Time | 15 - 30 Minutes depending on experience.**
 
