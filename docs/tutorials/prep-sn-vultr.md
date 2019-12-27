@@ -115,7 +115,7 @@ Notes while running the script.
 
 # Part 6 - Deploy Secret Node
 
-> Note: Stop here If you're wanting to launch the CLI from the testnet launched 12/23/2019 then proceed from this point to [this guide](https://github.com/enigmampc/discovery-testnet/blob/master/SETUP.md) on that guide you can skip the "install SGX" part of the instructions. Without testENG you will NOT be able to register or spin up a node, you will only be able to launch the node runner CLI. TestENG will be distributed at a future time and this guide and notice will be updated at a future date.
+> Note: Stop here If you're wanting to launch the CLI from the testnet launched 12/23/2019 then proceed from this point to [this guide](https://github.com/enigmampc/discovery-testnet/blob/master/SETUP.md) on that guide you can skip the "install SGX" part of the instructions. Without TestENG you CANNOT register your node, this notice will be removed and when testENG is distributed.
 
 Continuing will not launch the testnet.
 
