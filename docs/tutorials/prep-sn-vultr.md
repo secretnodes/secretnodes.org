@@ -1,6 +1,8 @@
 # Deploy a Secret Node on Vultr
-Guide Version 0.175 | Date Dec 23, 2019 | Pre-Genesis Games Edition
+Guide Version 0.25 | Date Dec 27, 2019 | Pre-Genesis Games Edition
 Difficulty Level : Noob Friendly!
+
+> If you've configured your node with a previous version of this guide please run the following command to refresh the scripts on your node. You should only need to run this once. "wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/refresh-scripts.sh" then proceed from step 6 on this guide.
 
 **Estimated Time | 15 - 30 Minutes depending on experience.**
 
@@ -47,7 +49,7 @@ Now exit and save the settings.
 
 # Part 3 - Remote into your Secret Node
 
-1. Get the password for your VPS from the server page.
+First get the password for your VPS from the server page.
 
 ## Windows Users
 If you're using Windows 10 64-bit or newer, launch PuTTY then enter the IP address of your Secret Node into the "Host Name" field. Then click open. This will allow you to remote administrate your Secret Node from a windows machine.
@@ -92,14 +94,13 @@ ssh asn@<your-nodes-ip>
 ```
 
 Going forward, when logging in use the newly created non-root user.
-Next proceed to Part 5.
 
 # Part 5 - Package Installation and Initial Configuration
 
 Here we will download the Discovery Docker Network, scripts for configuring and installing Docker & Docker Compose, and files for installing the Intel SGX Driver. Running this one script will automate the process. Please pay attention to the notes.
 
 ```bash
-wget https://raw.githubusercontent.com/secretnodes/scripts/altmethod/sendnodes.sh
+wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/sendnodes.sh
 ```
 
 Run the bash script.
@@ -110,20 +111,32 @@ bash sendnodes.sh
 Notes while running the script.
 1. The install-sgx.sh script will download and install all relevant SGX files and drivers.
 2. The install-docker.sh script will download and install Docker & Docker Compose.
-3. While running the script, respond "y" or "yes" to all prompts.
-4. When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
+3. The install-enigma-node.sh script will download and install relevant enigma node software.
+4. The Install-fixes.sh script will download relevant fixes for different devices. Report issues [here](https://forum.enigma.co/c/enigma-nodes)
+5. The cli.sh script merely launches the CLI.
+6. The upgrade.sh script will update the ubuntu operating system packages.
+7. While running the script, respond "y" or "yes" to all prompts.
+8. When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
 
 # Part 6 - Deploy Secret Node
 
-> Note: Stop here If you're wanting to launch the CLI from the testnet launched 12/23/2019 then proceed from this point to [this guide](https://github.com/enigmampc/discovery-testnet/blob/master/SETUP.md) on that guide you can skip the "install SGX" part of the instructions. Without TestENG you CANNOT register your node, this notice will be removed and when testENG is distributed.
-
-Continuing will not launch the testnet.
-
-Running this script will start 9 enigma workers on the enigma devnet.
+Running this script start an enimga worker. It will also make sure the enigma node software is up to date.
 
 Run the bash script.
 ```bash
 bash start.sh
 ```
 
-Congratulations! 🎉 You are now prepared for the Genesis Games. Please note until the networked version of testnet is launched of the enigma network, there is no need to leave this node running. You now know how easy it will be to deploy on Vultr and can start again when the time comes.
+# Part 7 - Start the cli
+
+Leave the first open and running then open a new terminal window and run this script in it to start the CLI.
+
+```bash
+bash cli.sh
+```
+
+# Part 8 - From within the CLI
+
+Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
+
+Please report any issues in a new thread [here](https://forum.enigma.co/c/enigma-nodes). Please do not ask for CLI support at this time.
