@@ -53,7 +53,8 @@ If you created a USB bootable Ubuntu Installer and want to tell your NUC to boot
 
 If you wish to remotely manage your NUC from another machine within your network, here's how you can.
 
-2. If you're using Windows 10 64-bit or newer, launch PuTTY then enter the IP address of your Secret Node into the "Host Name" field. Then click open.
+## Windows Users
+If you're using Windows 10 64-bit or newer, launch PuTTY then enter the IP address of your Secret Node into the "Host Name" field. Then click open. This will allow you to remote administrate your Secret Node from a windows machine.
 
 If you don't already have putty then download it.
 * Go to [Putty.org](https://www.putty.org/)
@@ -62,35 +63,39 @@ If you don't already have putty then download it.
 * Run the Installer.
 * Run Putty.
 * Enter the IP address of your Secret Node into the "Host Name" field. Then click open.
-* Login using the password created while installing Ubuntu.
 
+> NOTE: If asked to add an ECDSA fingerprint, answer yes.
 
-3. On OSX, or Linux open Terminal and login to your node.
+## OSX & Linux Users
+On OSX, or Linux open Terminal and login to your node. (Skip if using Windows.)
+ This will allow you to remote administrate your Secret Node from an Apple or Linux machine.
 
+* Open a terminal session.
 ```bash
 ssh root@<your-nodes-ip>
 ```
-> NOTE: (1) Be sure to replace <your-nodes-ip> with your nodes IP address. (2) If asked to add an ECDSA fingerprint, answer yes.
+> NOTE: (1) Be sure to replace <your-nodes-ip> with your nodes ip address. (2) If asked to add an ECDSA fingerprint, answer yes.
 
 # Part 4 - Creating non-root User
 
-Create a non-root user. Here we will create a user named "nsn" (nuc secret node), you can substitute this "nsn" for anything then run the below command.
+While you have remote access to your Secret Node as the root user, create a non-root user.
+
+1. Create a non-root User. Here we will create a user named asn, you can substitute this for anything.
 ```bash
-USERNAME=nsn
+USERNAME=asn
 ```
 
-This will permission this user to access log files and sudo.
+2. This will permission this user to access log files and sudo.
 ```bash
 useradd -m -s /bin/bash -G adm,systemd-journal,sudo $USERNAME && passwd $USERNAME
 ```
 
-Now exit your terminal session and start a new one, this time login with the new user you created with the password you set.
+3. Now exit your remote session and start a new one, this time login with the new user you created with the password you set.
 ```bash
-ssh nsn@<your-nodes-ip>
+ssh asn@<your-nodes-ip>
 ```
-Next, proceed to Part 4.
 
-> Note: Going forward, do everything with your newly created user.
+Going forward, when logging in use the newly created non-root user.
 
 # Part 5 - Package Installation and Initial Configuration
 
