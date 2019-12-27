@@ -95,7 +95,7 @@ Next, proceed to Part 4.
 Here we will download the Discovery Docker Network, scripts for configuring and installing Docker & Docker Compose, and files for installing the Intel SGX Driver. Running this one script will automate the process. Please pay attention to the notes.
 
 ```bash
-wget https://raw.githubusercontent.com/secretnodes/scripts/master/nuc-discovery-testnet/sendnodes.sh
+wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/sendnodes.sh
 ```
 
 Run the bash script.
