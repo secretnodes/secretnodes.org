@@ -5,7 +5,7 @@ Guide Version 0.5 | Date Dec 27, 2019 | Discovery Testnet Beta
 
 !> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. 
 
-**Estimated Time | 15 - 30 Minutes depending on experience.**
+**Estimated Time | 30 - 60 Minutes depending on experience.**
 
 # Intel NUC Overview
 
