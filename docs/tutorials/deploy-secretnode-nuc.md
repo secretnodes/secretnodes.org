@@ -137,6 +137,8 @@ Leave the first open and running then open a new terminal window and run this sc
 bash cli.sh
 ```
 
+> Note : If you do not already have test ENG, please do not ask for support registering your node.
+
 # Part 8 - From within the CLI
 
 Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
