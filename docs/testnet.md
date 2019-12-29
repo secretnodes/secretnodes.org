@@ -10,7 +10,6 @@ Recommended wallets : Ledger, Trezor, metamask, mycrypto.com.
 
 ## Options to get Kovan Test ETH.
 1. Request KETH by pasting the Ethereum address you anticipate receiving your testENG in this room [Kovan Testnet Faucet](https://gitter.im/kovan-testnet/faucet)
-2. Join us in [@secretnodes](https://t.me/secretnodes) and we'll send you some KETH for gas when the time comes, simply share an ETH address. Please wait till testENG is distributed to request from us!
 
 ## How to use testENG & test ETH?
 We will update this section closer to networked testnet launch. Until then if you are not using a recommended wallet we suggest you investigate to find out if your wallet supports switching to test networks.
