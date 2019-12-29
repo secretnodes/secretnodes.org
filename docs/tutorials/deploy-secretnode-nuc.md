@@ -1,7 +1,7 @@
 # Deploy a Secret Node on your NUC
 Guide Version 0.5 | Date Dec 27, 2019 | Discovery Testnet Beta
 
-This guide is a beta guide and could break at any time, please report any issues you face between steps 1 - 7.
+!> This guide is a beta guide and could break at any time, please report any issues you face between steps 1 - 7.
 
 !> If you've configured your node with a previous version of this guide please run the following command to refresh the scripts on your node. You should only need to run this once. "wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/upgrade.sh"
 
@@ -141,6 +141,6 @@ bash cli.sh
 
 # Part 8 - From within the CLI
 
-Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
+!> Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
 
 Please report any issues in a new thread [here](https://forum.enigma.co/c/enigma-nodes). Please do not ask for CLI support at this time.
