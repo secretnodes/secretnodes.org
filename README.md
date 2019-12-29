@@ -27,7 +27,7 @@ If you want to learn more about the people who maintain and contribute to secret
 
 ## Community
 
-For real-time Secret Nodes community support visit our channel in Discord at [Node-Help](https://discord.gg/rNRjKFy).
+For support on running your Enigma Secret Node please visit the [enigma forums](https://forum.enigma.co/c/enigma-nodes/8).
 
 ## Donate
 
