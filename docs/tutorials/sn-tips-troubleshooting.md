@@ -6,16 +6,16 @@ This is a resource for known issues with configuring Secret Nodes, gathered from
 
 To update your Secret Node, merely log into your node and run these commands.
 
-> Note: If you used any of our guides to setup your node on or after Oct 18, 2019 then your node will automatically update when you run start.sh
+> Note: If you used any of our guides to setup your node prior to Dec 23rd, 2019 then you can update your scripts by doing the following.
 
 1.
 ```bash
-cd discovery-docker-network
+wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/upgrade.sh
 ```
 
 2.
 ```bash
-docker-compose pull
+bash upgrade.sh
 ```
 
 # SGX Troubleshooting
