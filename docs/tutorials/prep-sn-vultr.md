@@ -1,8 +1,10 @@
 # Deploy a Secret Node on Vultr
-Guide Version 0.25 | Date Dec 27, 2019 | Pre-Genesis Games Edition
+Guide Version 0.25 | Date Dec 29, 2019 | Pre-Genesis Games Edition
 Difficulty Level : Noob Friendly!
 
-> If you've configured your node with a previous version of this guide please run the following command to refresh the scripts on your node. You should only need to run this once. "wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/upgrade.sh" then proceed from step 6 on this guide.
+!> This guide is a beta guide and could break at any time, please report any issues you face between steps 1 - 7.
+
+!> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ.
 
 **Estimated Time | 15 - 30 Minutes depending on experience.**
 
@@ -135,10 +137,10 @@ Leave the first open and running then open a new terminal window and run this sc
 bash cli.sh
 ```
 
-> Note : If you do not already have test ENG, please do not ask for support registering your node.
+!> Note : If you do not already have test ENG, please do not ask for support registering your node.
 
 # Part 8 - From within the CLI
 
-Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
+!> Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
 
 Please report any issues in a new thread [here](https://forum.enigma.co/c/enigma-nodes). Please do not ask for CLI support at this time.
