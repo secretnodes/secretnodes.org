@@ -110,7 +110,7 @@ Notes while running the script.
 1. The install-sgx.sh script will download and install all relevant SGX files and drivers.
 2. The install-docker.sh script will download and install Docker & Docker Compose.
 3. The install-enigma-node.sh script will download and install relevant enigma node software.
-4. The Install-fixes.sh script will download relevant fixes for different devices. Report issues [here](https://forum.enigma.co/c/enigma-nodes)
+4. The Install-fixes.sh script will download relevant fixes for different devices.
 5. The cli.sh script merely launches the CLI.
 6. The upgrade.sh script will update the ubuntu operating system packages.
 7. While running the script, respond "y" or "yes" to all prompts.
