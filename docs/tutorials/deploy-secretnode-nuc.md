@@ -3,9 +3,9 @@ Guide Version 0.5 | Date Dec 27, 2019 | Discovery Testnet Beta
 
 This guide is a beta guide and could break at any time, please report any issues you face between steps 1 - 7.
 
-> If you've configured your node with a previous version of this guide please run the following command to refresh the scripts on your node. You should only need to run this once. "wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/upgrade.sh"
+!> If you've configured your node with a previous version of this guide please run the following command to refresh the scripts on your node. You should only need to run this once. "wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/upgrade.sh"
 
-> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. 
+!> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. 
 
 # Intel NUC Overview
 
@@ -137,7 +137,7 @@ Leave the first open and running then open a new terminal window and run this sc
 bash cli.sh
 ```
 
-> Note : If you do not already have test ENG, please do not ask for support registering your node.
+!> Note : If you do not already have test ENG, please do not ask for support registering your node.
 
 # Part 8 - From within the CLI
 
