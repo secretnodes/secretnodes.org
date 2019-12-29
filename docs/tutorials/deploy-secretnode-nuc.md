@@ -118,7 +118,6 @@ Notes while running the script.
 5. The cli.sh script merely launches the CLI.
 6. The upgrade.sh script will update the ubuntu operating system packages.
 7. While running the script, respond "y" or "yes" to all prompts.
-8. When prompted "Do you want to install in current directory? [yes/no]" respond with "no" then say you want to install it in the "isgx" directory.
 
 # Part 6 - Deploy Secret Node
 
