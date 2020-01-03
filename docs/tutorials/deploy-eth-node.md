@@ -1,5 +1,5 @@
 # Instructions for ETH node.
-While there is no requirement to run an ETH Node on the same machine as your Secret Node, these instructions assume you are using the same machine, that you set up that machine using one of my guides, and that you're using the user account my guides instruct you to create. If that doesn't match your setup then this may not work. This page will be further updated as we get closer to the Genesis Game.
+While there is no requirement to run an ETH Node on the same machine as your Secret Node, these instructions assume you are using the same machine, that you set up that machine using one of our guides, and that you're using the user account my guides instruct you to create. If that doesn't match your setup then this may not work. This page will be further updated as we get closer to the Genesis Game.
 
 ## Download and Launch Parity ETH Node
 
