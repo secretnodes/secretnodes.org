@@ -1,5 +1,5 @@
 # Deploy a Secret Node on Vultr
-Guide Version 0.25 | Date Dec 29, 2019 | Pre-Genesis Games Edition
+Guide Version 0.26 | Date Jan 3, 2020 | Discovery Testnet Beta
 Difficulty Level : Noob Friendly!
 
 !> This guide is a beta guide and could break at any time, please report any issues you face between steps 1 - 7.
@@ -76,22 +76,24 @@ ssh root@<your-nodes-ip>
 
 While you have remote access to your Secret Node as the root user, create a non-root user.
 
-1. Create a non-root User. Here we will create a user named asn, you can substitute this for anything.
+1. Switch to root user.
 ```bash
-USERNAME=asn
+sudo su root
 ```
 
-2. This will permission this user to access log files and sudo.
+2. Here we will create a user named betanode, you can substitute this name for anything.
 ```bash
-useradd -m -s /bin/bash -G adm,systemd-journal,sudo $USERNAME && passwd $USERNAME
+adduser betanode
 ```
 
-3. Now exit your remote session and start a new one, this time login with the new user you created with the password you set.
+3. Fill out the questions, note contact information does not need to be accurate and stays on your machine.
+
+4. Give new user sudo permissions
 ```bash
-ssh asn@<your-nodes-ip>
+sudo usermod -aG sudo betanode
 ```
 
-Going forward, when logging in use the newly created non-root user.
+Now exit the terminal window and login with your newly created account. Going forward, use the newly created non-root user to manage your node.
 
 # Part 5 - Package Installation and Initial Configuration
 
