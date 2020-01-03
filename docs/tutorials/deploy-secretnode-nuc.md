@@ -19,15 +19,17 @@ Secretnodes.org Recommended Models
 
 If this guide works for you, please report which NUC you used [here](https://forum.enigma.co/c/enigma-nodes) and we'll add it to the list.
 
-# Part 1 - Enabling SGX in the BIOS
+# Part 1 - Enabling SGX & Disabling Secure boot in the BIOS
 
 1. When booting your NUC press the "F2" key.
 
 2. Navigate to "Advanced" > "Security" > "Security Features" > "Intel Software Guard Extension (SGX)" and toggle it to "Enabled".
 
-3. Press "ESC" key & save be sure to save your settings.
+3. Navigate to "Advanced" > "Boot" > "Security Boot" > "Secure Boot" and uncheck the box if it's checked.
 
-> If you can't find this in your bios, just search the term "SGX".
+4. Press "ESC" key & save be sure to save your settings.
+
+> If you can't find this in your bios, just search the term "SGX" or "Secure Boot".
 
 # Part 2 - Installing Ubuntu Server 18.04 LTS on the NUC
 Whenever configuring a Secret Node on your NUC you'll either have to buy the unit with Ubuntu 18.04 Server preinstalled, or you'll have to install Ubuntu Server 18.04 LTS from Ubuntu manually. If you already have Ubuntu installed but it is not Ubuntu Server 18.04 LTS or you are unsure if it's a vinalla install then proceed with the understanding that this guide should still work but you may need to do additional work that's outside the scope of this guide. If you're using Windows, OSX, or Linux and want general guidance on how to create a flash drive you can use to install Ubuntu, then we recommend the following.
