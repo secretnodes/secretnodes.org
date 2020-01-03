@@ -1,5 +1,5 @@
 # Deploy a Secret Node on your NUC
-Guide Version 0.5 | Date Dec 27, 2019 | Discovery Testnet Beta
+Guide Version 0.51 | Date Jan 2, 2020 | Discovery Testnet Beta
 
 !> This guide is a beta guide and could break at any time, please report any issues you face between steps 1 - 7.
 
