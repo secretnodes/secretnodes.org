@@ -17,4 +17,4 @@ bash parity-eth-node.sh
 
 Going forward you should only need to run the 2nd command to launch your eth node.
 
-> Note : If you run into permissions issues, be sure that you've already followed either the NUC or Vultr guide I have exactly and be sure you are using ubuntu Server 18.04. You must use a correctly permissioned user account that has access to docker, which our guides walk you through. To further troubleshoot try searching your issue on a popular search engine, asking someone in the community for assistance, or if you have followed our guides exactly.
+> Note : If you run into permissions issues, be sure that you've already followed either the NUC or Vultr guide I have exactly and be sure you are using ubuntu Server 18.04. You must use a correctly permissioned user account that has access to docker, which our guides walk you through. To further troubleshoot try searching your issue on a popular search engine or asking someone in the community for assistance.
