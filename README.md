@@ -13,6 +13,7 @@ If you want to learn more about the people who maintain and contribute to secret
 
 ## Announcements
 
+- enigma.co Dec 2019 Dev Update [@enigma.co Blog Announcement](https://blog.enigma.co/enigma-development-update-december-2019-6a3911311642)
 - enigma.co testnet launch [@enigma.co Blog Announcement](https://blog.enigma.co/announcing-the-launch-of-enigmas-first-networked-testnet-359fd816cb69) ~ Dec 23rd 2019
 - secretnodes.org Pool Staking Information [@forum.enigma.co Announcement](https://forum.enigma.co/t/secretnodes-org-pool-staking-information/1167) ~ Nov 25th 2019
 - Secret Nodes: Everything You Need to Know [@enigma.co](https://blog.enigma.co/secret-nodes-everything-you-need-to-know-2c75c72046e2) ~ Nov 19th 2019
