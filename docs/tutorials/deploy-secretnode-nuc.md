@@ -106,7 +106,7 @@ newgrp docker
 docker ps
 ```
 
-If the command returns a permission error, then reboot your machine and try again from step 3.
+!> If the command returns a permission error, then reboot your machine and try again from step 3.
 
 # Part 5 - Configure and launch a Kovan ETH node.
 
