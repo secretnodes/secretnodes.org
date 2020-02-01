@@ -1,7 +1,7 @@
 # Deploy a Secret Node on your NUC
-Guide Version 0.52 | Date Jan 3, 2020 | Discovery Testnet Beta
+Guide Version 0.6- | Date Feb 1st, 2020 | Discovery Testnet Beta
 
-!> This guide is a beta guide and could break at any time, please report any issues you face between steps 1 - 7.
+!> This guide is a beta guide and could break at any time. If you are reading this, you are a brave beta tester!
 
 !> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ.
 
@@ -78,72 +78,44 @@ ssh root@<your-nodes-ip>
 ```
 > NOTE: (1) Be sure to replace <your-nodes-ip> with your nodes ip address. (2) If asked to add an ECDSA fingerprint, answer yes.
 
-# Part 4 - Creating non-root User
+# Part 4 - Package Installation and Initial Configuration
 
-While you have remote access to your Secret Node as the root user, create a non-root user.
-
-1. Switch to root user.
-```bash
-sudo su root
-```
-
-2. Here we will create a user named betanode, you can substitute this name for anything.
-```bash
-adduser betanode
-```
-
-3. Fill out the questions, note contact information does not need to be accurate and stays on your machine.
-
-4. Give new user sudo permissions
-```bash
-sudo usermod -aG sudo betanode
-```
-
-Now exit the terminal window and login with your newly created account. Going forward, use the newly created non-root user to manage your node.
-
-# Part 5 - Package Installation and Initial Configuration
-
-Here we will download the Discovery Docker Network, scripts for configuring and installing Docker & Docker Compose, and files for installing the Intel SGX Driver. Running this one script will automate the process. Please pay attention to the notes.
+Here we will download everything required to run a secret node. That includes scripts to; install Docker, docker compose, the Intel SGX Driver, parity node software for kovan ETH node, and various other scripts to help empower you as a node runner. Please pay attention as the script runs, read any notices it posts, and respond "y" or "yes" to all prompts.
 
 ```bash
-wget -N https://raw.githubusercontent.com/secretnodes/scripts/master/sendnodes.sh
+wget https://raw.githubusercontent.com/secretnodes/scripts/canary/provision.sh
 ```
 
 Run the bash script.
 ```bash
-bash sendnodes.sh
+bash provision.sh
 ```
 
-Notes while running the script.
-1. The install-sgx.sh script will download and install all relevant SGX files and drivers.
-2. The install-docker.sh script will download and install Docker & Docker Compose.
-3. The install-enigma-node.sh script will download and install relevant enigma node software.
-4. The Install-fixes.sh script will download relevant fixes for different devices.
-5. The cli.sh script merely launches the CLI.
-6. The upgrade.sh script will update the ubuntu operating system packages.
-7. While running the script, respond "y" or "yes" to all prompts.
+# Part 5 - Deploy Secret Node
 
-# Part 6 - Deploy Secret Node
-
-Running this script start an enimga worker. It will also make sure the enigma node software is up to date.
+Running this script start an enimga worker.
 
 Run the bash script.
 ```bash
-bash start.sh
+bash eng-start.sh
 ```
 
-# Part 7 - Start the cli
+# Part 6 - Start the cli
 
-Leave the first open and running then open a new terminal window and run this script in it to start the CLI.
+Leave the first script open and running then open a new terminal window and run this script in it to start the CLI.
 
 ```bash
-bash cli.sh
+bash eng-cli.sh
 ```
 
-!> Note : If you do not already have test ENG, please do not ask for support registering your node.
+>Note: There is NOTHING you can do in the CLI right now. This notice will be updated when further instructions are provided by enigma.
 
-# Part 8 - From within the CLI
+# Part 7 - Configure and launch a Kovan ETH node.
 
-!> Note: If you do not have test ENG then you cannot proceed past this point successfully. Test ENG has not been widely distributed yet and enigma will do so at a future date. This notice will be updated once that happens.
+Leave the previous scripts open and running then open a new terminal window and run this script in it to configure a koven ETH node.
 
-Please report any issues in a new thread [here](https://forum.enigma.co/c/enigma-nodes). Please do not ask for CLI support at this time.
+```bash
+bash eth-kovan.sh
+```
+
+Please report any issues on github by clicking "New Issue" [here](https://github.com/secretnodes/scripts/issues). Be sure to share any errors you are encountering. This has only been tested on an Intel NUC 8i3BEH & 8i7BEK.

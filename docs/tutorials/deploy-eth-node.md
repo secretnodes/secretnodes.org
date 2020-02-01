@@ -8,13 +8,13 @@ While there is no requirement to run an ETH Node on the same machine as your Sec
 Open a terminal session, login with the user you created in the NUC or Vultr Guide, then proceed to run the following 2 scripts.
 
 ```bash
-wget -O parity-eth-node.sh https://raw.githubusercontent.com/secretnodes/scripts/master/parity-eth-node.sh
+wget -O parity-eth-node.sh https://raw.githubusercontent.com/secretnodes/scripts/master/eth-provision.sh
 ```
 
 Launch the Parity ETH Node Script
 
 ```bash
-bash parity-eth-node.sh
+bash eth-start.sh
 ```
 
 Going forward you should only need to run the 2nd command to launch your eth node.
