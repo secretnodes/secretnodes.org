@@ -116,4 +116,12 @@ Leave the previous scripts open and running then open a new terminal window and 
 bash eth-kovan.sh
 ```
 
+# Administer Your Node
+How to start a stopped ETH Kovan node
+
+Run the following command:
+```bash
+bash eth-start.sh
+```
+
 Please report any issues on github by clicking "New Issue" [here](https://github.com/secretnodes/scripts/issues). Be sure to share any errors you are encountering. This has only been tested on an Intel NUC 8i3BEH & 8i7BEK.
