@@ -5,7 +5,7 @@ Guide Version 0.60 | Date Jan 31st, 2020 | Discovery Testnet Beta
 
 !> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ.
 
-**Estimated Time | 30 - 60 Minutes depending on experience.**
+**Estimated Time | 25 - 45 Minutes depending on experience.**
 
 # Intel NUC Overview
 
@@ -82,14 +82,31 @@ ssh root@<your-nodes-ip>
 
 Here we will download everything required to run a secret node. That includes scripts to; install Docker, docker compose, the Intel SGX Driver, parity node software for kovan ETH node, and various other scripts to help empower you as a node runner. Please pay attention as the script runs, read any notices it posts, and respond "y" or "yes" to all prompts.
 
+1. Download our node provision script.
 ```bash
 wget https://raw.githubusercontent.com/secretnodes/scripts/canary/provision.sh
 ```
 
-Run the bash script.
+2. Run the secretnodes.org provision script. Be sure to respond with "y" or "yes" to all inquiries.
 ```bash
-bash provision.sh
+sudo bash provision.sh
 ```
+3. Run the following command:
+```bash
+sudo gpasswd -a $USER docker
+```
+
+4. Run the following command:
+```bash
+newgrp docker
+```
+
+5. Run the following command:
+```bash
+docker ps
+```
+
+If the command returns a permission error, then reboot your machine and try again from step 3.
 
 # Part 5 - Configure and launch a Kovan ETH node.
 
