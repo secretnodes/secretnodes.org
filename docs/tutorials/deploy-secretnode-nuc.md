@@ -84,7 +84,7 @@ Here we will download everything required to run a secret node. That includes sc
 
 1. Download our node provision script.
 ```bash
-wget https://raw.githubusercontent.com/secretnodes/scripts/canary/provision.sh
+wget https://raw.githubusercontent.com/secretnodes/scripts/master/provision.sh
 ```
 
 2. Run the secretnodes.org provision script. Be sure to respond with "y" or "yes" to all inquiries.
