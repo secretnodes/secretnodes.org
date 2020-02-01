@@ -91,26 +91,7 @@ Run the bash script.
 bash provision.sh
 ```
 
-# Part 5 - Deploy Secret Node
-
-Running this script start an enimga worker.
-
-Run the bash script.
-```bash
-bash eng-start.sh
-```
-
-# Part 6 - Start the cli
-
-Leave the first script open and running then open a new terminal window and run this script in it to start the CLI.
-
-```bash
-bash eng-cli.sh
-```
-
->Note: There is NOTHING you can do in the CLI right now. This notice will be updated when further instructions are provided by enigma.
-
-# Part 7 - Configure and launch a Kovan ETH node.
+# Part 5 - Configure and launch a Kovan ETH node.
 
 Leave the previous scripts open and running then open a new terminal window and run this script in it to configure a koven ETH node.
 
