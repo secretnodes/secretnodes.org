@@ -5,6 +5,8 @@ Guide Version 0.60 | Date Jan 31st, 2020 | Discovery Testnet Beta
 
 !> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ.
 
+[![asciicast](https://asciinema.org/a/297118.svg)](https://asciinema.org/a/297118)
+
 **Estimated Time | 25 - 45 Minutes depending on experience.**
 
 # Intel NUC Overview
@@ -12,7 +14,7 @@ Guide Version 0.60 | Date Jan 31st, 2020 | Discovery Testnet Beta
 The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
 
 **Intel NUC Models Confirmed Compatible**
-1. `Intel NUC 8i7BEK`, `NUC8I3BEK`, `NUC6i5SYH`, `8i5BEh4`
+1. `Intel NUC 8i7BEK`, `NUC8I3BEK`, report your compatible device [here](https://github.com/secretnodes/scripts/issues)
 
 Secretnodes.org Recommended Models
 8i3BEH, 8i5BEH, 8i7BEH.
