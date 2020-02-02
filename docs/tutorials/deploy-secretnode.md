@@ -1,9 +1,9 @@
 # Deploy a Secret Node
 Guide Version 0.60 | Date Feb 2nd, 2020 | Discovery Testnet Beta
 
-!> This guide is a beta guide and could break at any time. If you are reading this, you are a brave beta tester!
+!> If you are reading this, you are a brave beta tester! While you cannot launch a Secret Node today, you can prepare your SGX compatible machine to run Nodes. Also please understand this guide was tested on a NUC 8i7BEK, NUC 8i3BEH, and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. Please report any issues [here](https://github.com/secretnodes/cookbook/issues).
 
-!> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC 8i7BEK, NUC 8i3BEH, and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. Please report any issues [here](https://github.com/secretnodes/cookbook/issues).
+!> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide!
 
 [![asciicast](https://asciinema.org/a/IkNGIBYYU1qlFtQNaeaRFaiEW.svg)](https://asciinema.org/a/IkNGIBYYU1qlFtQNaeaRFaiEW)
 
