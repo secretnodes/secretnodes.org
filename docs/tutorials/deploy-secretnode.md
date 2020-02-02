@@ -3,7 +3,7 @@ Guide Version 0.60 | Date Feb 2nd, 2020 | Discovery Testnet Beta
 
 !> This guide is a beta guide and could break at any time. If you are reading this, you are a brave beta tester!
 
-!> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC 8i7BEK, NUC 8i3BEH, and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. Please report any issues [here](https://github.com/secretnodes/soup/issues).
+!> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC 8i7BEK, NUC 8i3BEH, and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. Please report any issues [here](https://github.com/secretnodes/cookbook/issues).
 
 [![asciicast](https://asciinema.org/a/297118.svg)](https://asciinema.org/a/297118)
 
@@ -19,7 +19,7 @@ The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone compu
 Secretnodes.org Recommended Models
 8i3BEH, 8i5BEH, 8i7BEH.
 
-Please report your compatible device or provider by opening an issue [here](https://github.com/secretnodes/soup/issues) and we'll add it to the list.
+Please report your compatible device or provider by opening an issue [here](https://github.com/secretnodes/cookbook/issues) and we'll add it to the list.
 
 # Part 1 - Enabling SGX & Disabling Secure boot in the BIOS
 
@@ -86,7 +86,7 @@ Here we will download everything required to run a secret node. That includes sc
 
 1. Download our node provision script.
 ```bash
-wget https://raw.githubusercontent.com/secretnodes/soup/master/provision.sh
+wget https://raw.githubusercontent.com/secretnodes/cookbook/master/provision.sh
 ```
 
 2. Run the secretnodes.org provision script. Be sure to respond with "y" or "yes" to all inquiries.
@@ -126,4 +126,4 @@ Run the following command:
 bash eth-start.sh
 ```
 
-Please report any issues on github by clicking "New Issue" [here](https://github.com/secretnodes/soup/issues). Be sure to share any errors you are encountering. This has only been tested on an Intel NUC 8i3BEH & 8i7BEK.
+Please report any issues on github by clicking "New Issue" [here](https://github.com/secretnodes/cookbook/issues). Be sure to share any errors you are encountering. This has only been tested on an Intel NUC 8i3BEH & 8i7BEK.
