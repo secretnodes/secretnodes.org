@@ -1,5 +1,5 @@
 # Deploy a Secret Node on your NUC
-Guide Version 0.60 | Date Jan 31st, 2020 | Discovery Testnet Beta
+Guide Version 0.60 | Date Feb 1st, 2020 | Discovery Testnet Beta
 
 !> This guide is a beta guide and could break at any time. If you are reading this, you are a brave beta tester!
 
@@ -7,14 +7,14 @@ Guide Version 0.60 | Date Jan 31st, 2020 | Discovery Testnet Beta
 
 [![asciicast](https://asciinema.org/a/297118.svg)](https://asciinema.org/a/297118)
 
-**Estimated Time | 25 - 45 Minutes depending on experience.**
+**Estimated Time | 20 - 35 Minutes depending on experience.**
 
 # Intel NUC Overview
 
 The "Next Unit of Computing (NUC)" is a line of small-form-factor barebone computer kits designed by Intel. While [Enigma](https://enigma.co) has [partnered with Intel](https://blog.enigma.co/announcing-enigmas-collaboration-with-intel-43bbf73a86a7) to work on SGX integration, it is not a requirement that you use an Intel NUC for your Secret Node.
 
 **Intel NUC Models Confirmed Compatible**
-1. `Intel NUC 8i7BEK`, `NUC8I3BEK`, report your compatible device [here](https://github.com/secretnodes/scripts/issues)
+1. `Intel NUC 8i7BEK`, `NUC8I3BEK`, report your compatible device [here](https://github.com/secretnodes/soup/issues)
 
 Secretnodes.org Recommended Models
 8i3BEH, 8i5BEH, 8i7BEH.
@@ -86,7 +86,7 @@ Here we will download everything required to run a secret node. That includes sc
 
 1. Download our node provision script.
 ```bash
-wget https://raw.githubusercontent.com/secretnodes/scripts/master/provision.sh
+wget https://raw.githubusercontent.com/secretnodes/soup/master/provision.sh
 ```
 
 2. Run the secretnodes.org provision script. Be sure to respond with "y" or "yes" to all inquiries.
@@ -126,4 +126,4 @@ Run the following command:
 bash eth-start.sh
 ```
 
-Please report any issues on github by clicking "New Issue" [here](https://github.com/secretnodes/scripts/issues). Be sure to share any errors you are encountering. This has only been tested on an Intel NUC 8i3BEH & 8i7BEK.
+Please report any issues on github by clicking "New Issue" [here](https://github.com/secretnodes/soup/issues). Be sure to share any errors you are encountering. This has only been tested on an Intel NUC 8i3BEH & 8i7BEK.
