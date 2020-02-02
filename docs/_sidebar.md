@@ -13,8 +13,8 @@
 
   <!-- - [Contributing Guidelines](tutorials/contributing.md) -->
   <!-- - [Contributing (Simple)](tutorials/CONTRIBUTING-simple.md "Contributing (Simple)") -->
-  - [Deploy a Secret Node on your NUC](tutorials/deploy-secretnode-nuc.md "Deploy a Secret Node on your NUC")
-  - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr")
+  - [Deploy a Secret Node](tutorials/deploy-secretnode.md "Deploy a Secret Node on your NUC")
+  <!--  - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr") -->
   - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC")
 
 - Resources
