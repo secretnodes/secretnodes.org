@@ -1,4 +1,4 @@
-# Deploy a Secret Node on your NUC
+# Deploy a Secret Node
 Guide Version 0.60 | Date Feb 2nd, 2020 | Discovery Testnet Beta
 
 !> This guide is a beta guide and could break at any time. If you are reading this, you are a brave beta tester!
