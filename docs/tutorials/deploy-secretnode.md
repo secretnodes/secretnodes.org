@@ -5,7 +5,7 @@ Guide Version 0.60 | Date Feb 2nd, 2020 | Discovery Testnet Beta
 
 !> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide! Also please understand this guide was tested on a NUC 8i7BEK, NUC 8i3BEH, and only with the stock Ubuntu Server 18.04 LTS ISO. If you use anything else your results may differ. Please report any issues [here](https://github.com/secretnodes/cookbook/issues).
 
-[![asciicast](https://asciinema.org/a/297118.svg)](https://asciinema.org/a/297118)
+[![asciicast](https://asciinema.org/a/IkNGIBYYU1qlFtQNaeaRFaiEW.svg)](https://asciinema.org/a/IkNGIBYYU1qlFtQNaeaRFaiEW)
 
 **Estimated Time | 20 - 35 Minutes depending on experience.**
 
