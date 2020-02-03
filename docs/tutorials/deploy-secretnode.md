@@ -5,7 +5,7 @@ Guide Version 0.60 | Date Feb 2nd, 2020 | Discovery Testnet Beta
 
 !> All tokens discussed here are test tokens on the Kovan network. Do not send any real tokens using this guide!
 
-[![asciicast](https://asciinema.org/a/IkNGIBYYU1qlFtQNaeaRFaiEW.svg)](https://asciinema.org/a/IkNGIBYYU1qlFtQNaeaRFaiEW)
+[![asciicast](https://asciinema.org/a/297423.svg)](https://asciinema.org/a/297423)
 
 **Estimated Time | 20 - 35 Minutes depending on experience.**
 
