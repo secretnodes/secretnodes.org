@@ -14,6 +14,9 @@ This document details how to join the EnigmaChain `mainnet` as a validator.
 
 ```bash
 wget -O enigmachain_0.0.1_amd64.deb https://github.com/enigmampc/enigmachain/releases/download/v0.0.1/enigmachain_0.0.1_amd64.deb
+```
+
+```bash
 echo "13b06329543dcbe6ca896406887afb79f7f8b975e5d5585db1943e4520b77521 enigmachain_0.0.1_amd64.deb" | sha256sum --check
 ```
 
