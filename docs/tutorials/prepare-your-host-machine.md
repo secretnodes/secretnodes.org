@@ -13,10 +13,13 @@ The first step to configuring a Secret Node is making sure your hardware or VPS 
 
 ## Tell your NUC to boot from your USB drive.
 
+>Note: While you do not need to use a NUC, we cannot possibly cover all devices in this guide. If you are using something else be sure to search online how to boot from a USB drive on your hardware.
+
 If you created a USB bootable Ubuntu Installer and want to tell your NUC to boot from the newly created drive do as follows.
 
 1. Press "F2" while booting your NUC to enter the bios.
 2. Select your newly created flash drive in the "Boot Order"
 3. Select "No" when asked if you want to save changes.
+4. Once you boot into the Ubunutu Installer, run through each of the steps. If you have trouble on a step, just ask questions in the [@secretnodes](https://t.me/secretnodes)
 
 > If you can't find this in your bios, just search the term "boot".
