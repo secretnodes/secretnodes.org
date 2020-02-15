@@ -68,7 +68,11 @@ perl -i -pe 's/persistent_peers = ""/persistent_peers = "201cff36d13c6352acfc4a3
 
 ### 9. Add you public IP to you config file so that light nodes could connect to you:
 
-In `~/.enigmad/config/config.toml` set `laddr = "tcp://<your-PUBLIC-ip>:26657"`.
+In `~/.enigmad/config/config.toml` set `laddr = "tcp://127.0.0.1:26657"`.
+
+```bash
+nano ~/.enigmad/config/config.toml
+```
 
 ### 10. Enable `enigma-node` as a system service:
 
