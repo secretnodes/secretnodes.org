@@ -2,7 +2,7 @@
 
 This document details how to join the EnigmaChain `mainnet` as a validator.
 
->! Note : If you need assistance in preparing a host machine to run as a validator, please see this guide first [Prepare your host machine](tutorials/sprepare-your-host-machine.md "Prepare your host machine")
+>! Note : If you need assistance in preparing a host machine to run as a Full Node, please see this guide first [Prepare your host machine](tutorials/sprepare-your-host-machine.md "Prepare your host machine")
 
 ## Requirements
 
