@@ -108,8 +108,16 @@ You are now a full node. :tada:
 
 ```
 enigmacli config chain-id enigma-1
+
+```
 enigmacli config output json
+```
+
+```
 enigmacli config indent true
+```
+
+```
 enigmacli config trust-node true # true if you trust the full-node you are connecting to, false otherwise
 ```
 
@@ -130,8 +138,20 @@ And if someone wants to use you from their `enigmacli` then have them run:
 
 ```bash
 enigmacli config chain-id enigma-1
+```
+
+```
 enigmacli config output json
+```
+
+```
 enigmacli config indent true
+```
+
+```
 enigmacli config trust-node false
+```
+
+```
 enigmacli config node tcp://<your-public-ip>:26657
 ```
