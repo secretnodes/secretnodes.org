@@ -6,6 +6,7 @@ This document details how to join the EnigmaChain `mainnet` as a validator.
 
 ## Requirements
 
+>! The OS Reccomended by secretnodes.org is Ubuntu Server 18.04 LTS
 - Ubuntu/Debian host (with ZFS or LVM to be able to add more storage easily)
 - A public IP address
 - Open ports `TCP 26656 - 26660` Note : If you're behind a router or firewall then you'll need to port forward on the network device.
