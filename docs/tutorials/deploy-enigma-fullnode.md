@@ -106,18 +106,19 @@ You are now a full node. :tada:
 
 ### 13. Add the following configuration settings (some of these avoid having to type some flags all the time):
 
-```
+```bash
 enigmacli config chain-id enigma-1
-
 ```
+
+```bash
 enigmacli config output json
 ```
 
-```
+```bash
 enigmacli config indent true
 ```
 
-```
+```bash
 enigmacli config trust-node true # true if you trust the full-node you are connecting to, false otherwise
 ```
 
