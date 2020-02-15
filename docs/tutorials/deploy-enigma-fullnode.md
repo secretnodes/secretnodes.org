@@ -109,3 +109,5 @@ Feb 10 21:18:59 ip-172-31-41-58 enigmad[8814]: I[2020-02-10|21:18:59.695] Commit
 ```
 
 You are now a full node. :tada:
+
+Please support the network by leaving your full node running!
