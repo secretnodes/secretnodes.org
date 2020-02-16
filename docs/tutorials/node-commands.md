@@ -13,5 +13,5 @@ enigmacli q distribution community-pool
 
 Check your validator address.
 ```bash
-enigmacli keys show nuke --bech=val -a
+enigmacli keys show <keyalias> --bech=val -a
 ```
