@@ -16,7 +16,7 @@ information leakage to a third party.
 from any authorities, whether formal or informal.
 
 6. We have not received any court orders, gag orders, or other similar
-orders from the government of the People's Republic of China.
+orders from the United States Government or any other Governments.
 
 7. We have not received any government subpoenas.
 
