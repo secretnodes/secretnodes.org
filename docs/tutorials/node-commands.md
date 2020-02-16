@@ -10,3 +10,8 @@ Check the balance of the community pool
 ```bash
 enigmacli q distribution community-pool
 ```
+
+Check your validator address.
+```bash
+enigmacli keys show nuke --bech=val -a
+```
