@@ -81,6 +81,8 @@ enigmacli query gov proposals --status voting_period
 ## Creating a Proposal & depositing 1SCRT (1000SCRT Required for proposal to go into voting process)
 enigmacli tx gov submit-proposal --title="Title HERE" --description="The BODY HERE" --type="Text" --deposit="1000000uscrt" --from <keyalias>
   
+## Help & Info on Creating a Proposal
+enigmacli tx gov submit-proposal --help
   
 
 
