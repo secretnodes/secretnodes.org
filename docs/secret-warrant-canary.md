@@ -25,3 +25,5 @@ orders from the United States Government or any other Governments.
 9. We plan to publish the next of these canary statements in the first three
 weeks of March 2020. Special note should be taken if no new canary is published
 by that time or if the list of statements changes without plausible explanation.
+
+10. We have not been contacted by any government agnencies regarding any aspect of our operations.
