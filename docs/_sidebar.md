@@ -14,6 +14,7 @@
   <!-- - [Contributing Guidelines](tutorials/contributing.md) -->
   - [Prepare your host machine](tutorials/prepare-your-host-machine.md "Prepare your host machine")
   - [Deploy an Enigma Full Node](tutorials/deploy-enigma-fullnode.md "Deploy a Secret Node on your NUC")
+  - [Node Commands](node-commands.md "Commands to run on your EnigmaChain Node.")
   <!--  - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr") -->
   - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC")
 
