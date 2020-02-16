@@ -6,6 +6,12 @@
 enigmacli q supply total
 ```
 
+## See all validators
+
+```bash
+engcli q staking validators | grep moniker
+```
+
 ## Check the balance of the community pool
 ```bash
 enigmacli q distribution community-pool
