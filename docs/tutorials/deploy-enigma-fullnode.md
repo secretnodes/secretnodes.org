@@ -72,27 +72,19 @@ If you are curious, you can query the RPC endpoint on that node http://bootstrap
 perl -i -pe 's/persistent_peers = ""/persistent_peers = "201cff36d13c6352acfc4a373b60e83211cd3102\@bootstrap.mainnet.enigma.co:26656"/' ~/.enigmad/config/config.toml
 ```
 
-### 9. Add you public IP to you config file so that light nodes could connect to you:
-
-In `~/.enigmad/config/config.toml` set `laddr = "tcp://127.0.0.1:26657"`.
-
-```bash
-nano ~/.enigmad/config/config.toml
-```
-
-### 10. Enable `enigma-node` as a system service:
+### 9. Enable `enigma-node` as a system service:
 
 ```
 sudo systemctl enable enigma-node
 ```
 
-### 11. Start `enigma-node` as a system service:
+### 10. Start `enigma-node` as a system service:
 
 ```
 sudo systemctl start enigma-node
 ```
 
-### 12. If everything above worked correctly, the following command will show your node streaming blocks (this is for debugging purposes only, kill this command anytime with Ctrl-C):
+### 11. If everything above worked correctly, the following command will show your node streaming blocks (this is for debugging purposes only, kill this command anytime with Ctrl-C):
 
 ```bash
 journalctl -f -u enigma-node
