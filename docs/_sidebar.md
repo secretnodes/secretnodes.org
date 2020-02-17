@@ -8,6 +8,7 @@
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
   <!-- - [Utility](utility-overview.md "Utility Overview") -->
   - [FAQ](faq.md "FAQ")
+  - [Governance](proposals.md "Proposals on EnigmaChain Mainnet")
   - [Warrant Cannary](secret-warrant-canary.md "Warrant Canary")
 
 - Guides
