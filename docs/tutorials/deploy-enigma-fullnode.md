@@ -1,8 +1,11 @@
-# How to deploy a full node on EnigmaChain
+# How to deploy a full node on EnigmaChain Mainnet
 
 This document details how to join the EnigmaChain `mainnet` as a validator.
 
 >! Note : If you need assistance in preparing a host machine to run as a Full Node, please see this guide first [Prepare your host machine](tutorials/sprepare-your-host-machine.md "Prepare your host machine")
+
+[![asciicast](https://asciinema.org/a/29aZHQ9gIApaPQ2Wi325DmpBf.svg)](https://asciinema.org/a/29aZHQ9gIApaPQ2Wi325DmpBf)
+
 
 ## Requirements
 
