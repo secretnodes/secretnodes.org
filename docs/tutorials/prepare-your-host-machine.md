@@ -2,7 +2,7 @@
 Guide Version 0.05 | Date Feb 15, 2020
 
 # Installing Ubuntu Server 18.04 LTS
-The first step to configuring a Secret Node is making sure your hardware or VPS is running Ubuntu Server 18.04 LTS. If you already have Ubuntu installed but it is not Ubuntu Server 18.04 LTS or you are unsure if it's a vinalla install then proceed with the understanding that this guide should still work but you may need to do additional work that's outside the scope of this guide. If you're using Windows, OSX, or Linux and want general guidance on how to create a flash drive you can use to install Ubuntu, then we recommend the following.
+The first step to configuring a Secret Node is making sure your hardware or VPS is running Ubuntu Server 18.04 LTS. If you already have Ubuntu installed but it is not Ubuntu Server 18.04 LTS or you are unsure if it's a vanilla install then proceed with the understanding that this guide should still work but you may need to do additional work that's outside the scope of this guide. If you're using Windows, OSX, or Linux and want general guidance on how to create a flash drive you can use to install Ubuntu, then we recommend the following.
 1. First [Download Ubuntu Server 18.04 LTS ISO](https://ubuntu.com/download/server/thank-you?version=18.04.3&architecture=amd64)
 2. Download and install [this tool](https://www.balena.io/etcher/) to create the bootable Ubuntu Installer.
 3. Run the Etcher software.
