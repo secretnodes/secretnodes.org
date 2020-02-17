@@ -72,17 +72,29 @@ enigmacli tx distribution withdraw-rewards $(enigmacli keys show --bech=val -a <
 
 # Extra Commands for Validators Only to Run
 
-## View proposals in deposit period
+#### View proposals in deposit period
+
+```bash
 enigmacli query gov proposals --status deposit_period
+```
 
-## View proposals in voting period
+#### View proposals in voting period
+
+```bash
 enigmacli query gov proposals --status voting_period
+```
 
-## Creating a Proposal & depositing 1SCRT (1000SCRT Required for proposal to go into voting process)
+#### Creating a Proposal & depositing 1SCRT (1000SCRT Required for proposal to go into voting process)
+
+```bash
 enigmacli tx gov submit-proposal --title="Title HERE" --description="The BODY HERE" --type="Text" --deposit="1000000uscrt" --from <keyalias>
-  
-## Help & Info on Creating a Proposal
+```
+
+#### Help & Info on Creating a Proposal
+
+```bash
 enigmacli tx gov submit-proposal --help
+```
   
 
 
