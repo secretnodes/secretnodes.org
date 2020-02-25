@@ -2,7 +2,8 @@
 
 Please make sure you [backup your validator](tutorials/backup-a-validator.md) before you migrate it.
 
-### 1. [Run a new full node](tutorals/deploy-enigma-fullnode.md) on a new machine.
+### 1. Run a full node on a new machine.
+[See run a new full node guide.](tutorals/deploy-enigma-fullnode.md)
 
 ### 2. Confirm you have the recovery seed phrase information for the active key running on the old machine
 
