@@ -18,7 +18,7 @@
   - [Deploy an Enigma Full Node](tutorials/deploy-enigma-fullnode.md "Deploy a Secret Node on your NUC")
   - [Backup a Validator](tutorials/backup-a-validator.md)
   - [Migrate a Validator](tutorials/migrate-a-validator.md)
-  - [Deploy Pseudo Secrets (DDOS Protection)](tutorials/deploy-pseudo-secrets.md)
+  - [Deploy Pseudo Secrets](tutorials/deploy-pseudo-secrets.md)
   - [Node Commands](tutorials/node-commands.md "Commands to run on your EnigmaChain Node.")
   <!--  - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr") -->
   - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC")
