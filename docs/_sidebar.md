@@ -20,6 +20,7 @@
   - [Migrate a Validator](tutorials/migrate-a-validator.md)
   - [Deploy Pseudo Secrets](tutorials/deploy-pseudo-secrets.md)
   - [Node Commands](tutorials/node-commands.md "Commands to run on your EnigmaChain Node.")
+  - [Participate in Governance](tutorials/governance.md "How to participate in on-chain governance.")
   <!--  - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr") -->
   <!-- - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC") -->
 

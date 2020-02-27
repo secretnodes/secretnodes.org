@@ -73,4 +73,4 @@ scp ~/.enigmad/config/priv_validator_key.json ubuntu@new_machine_ip:~/.enigmad/c
 sudo systemctl start enigma-node
 ```
 
-[Original Source](https://github.com/enigmampc/enigmachain/blob/master/docs/validators-and-full-nodes/migrate-a-vlidator.md)
+[Original Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/migrate-a-vlidator.md)

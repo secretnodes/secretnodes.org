@@ -22,7 +22,7 @@ This document details how to join the EnigmaChain `mainnet` as a validator.
 ### 1. Download the EnigmaChain package installer (Debian/Ubuntu):
 
 ```bash
-wget -O enigmachain_0.0.2_amd64.deb https://github.com/enigmampc/enigmachain/releases/download/v0.0.2/enigmachain_0.0.2_amd64.deb
+wget -O enigmachain_0.0.2_amd64.deb https://github.com/enigmampc/enigmablockchainreleases/download/v0.0.2/enigmachain_0.0.2_amd64.deb
 ```
 
 ([How to verify releases](/docs/verify-releases.md))
@@ -42,7 +42,7 @@ enigmad init <MONIKER> --chain-id enigma-1
 ### 4. Download a copy of the Genesis Block file: `genesis.json`
 
 ```bash
-wget -O ~/.enigmad/config/genesis.json "https://raw.githubusercontent.com/enigmampc/enigmachain/master/enigma-1-genesis.json"
+wget -O ~/.enigmad/config/genesis.json "https://raw.githubusercontent.com/enigmampc/enigmablockchainmaster/enigma-1-genesis.json"
 ```
 
 ### 5. Validate the checksum for the `genesis.json` file you have just downloaded in the previous step:
@@ -108,4 +108,4 @@ Feb 10 21:18:59 ip-172-31-41-58 enigmad[8814]: I[2020-02-10|21:18:59.695] Commit
 
 You are now a full node. :tada:
 
-[Original Source](https://github.com/enigmampc/enigmachain/blob/master/docs/validators-and-full-nodes/run-full-node-mainnet.md)
+[Original Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/run-full-node-mainnet.md)

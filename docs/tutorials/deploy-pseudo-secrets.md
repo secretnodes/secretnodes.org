@@ -32,4 +32,4 @@ Sentry Nodes should edit their config.toml:
 
 private_peer_ids = "node_ids_of_private_peers"
 
-[Original Source](https://github.com/enigmampc/enigmachain/blob/master/docs/validators-and-full-nodes/sentry-nodes.md)
+[Original Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/sentry-nodes.md)

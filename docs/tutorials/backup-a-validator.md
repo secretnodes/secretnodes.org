@@ -22,4 +22,4 @@ The easiest way is to backup the whole config folder.
 
 Or you can use hardware to manage your Tendermint Key much more safely, such as [YubiHSM2](https://developers.yubico.com/YubiHSM2/)
 
-[Original Source](https://github.com/enigmampc/enigmachain/blob/master/docs/validators-and-full-nodes/backup-a-validator.md)
+[Original Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/backup-a-validator.md)
