@@ -20,6 +20,8 @@
   - [Migrate a Validator](tutorials/migrate-a-validator.md)
   - [Deploy Pseudo Secrets](tutorials/deploy-pseudo-secrets.md)
   - [Participate in Governance](tutorials/governance.md "How to participate in on-chain governance.")
+  - [Ledger Hardware Wallet](tutorials/ledger-nano-s.md "Ledger Hardware Wallet Support")
+  - [Light client](tutorials/light-client-mainnet.md "Light client setup.")
   <!--  - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr") -->
   <!-- - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC") -->
   - [Node Commands](tutorials/node-commands.md "Commands to run on your EnigmaChain Node.")
