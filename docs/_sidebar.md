@@ -28,7 +28,7 @@
 
 - Resources
   - [Stake](stake.md)
-  - [NUC Hosting](nuc-hosting.md)
+  <!-- - [NUC Hosting](nuc-hosting.md) -->
 
 - Other
   - [Community Rules](rules.md)
