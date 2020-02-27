@@ -8,7 +8,7 @@
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
   <!-- - [Utility](utility-overview.md "Utility Overview") -->
   - [FAQ](faq.md "FAQ")
-  - [Governance](https://explorer.mainnet.enigma.co/proposals "Proposals on EnigmaChain Mainnet")
+  - [Governance](https://explorer.mainnet.enigma.co/proposals "Proposals on the Enigma Blockhain Mainnet")
   - [Warrant Cannary](secret-warrant-canary.md "Warrant Canary")
 
 - Guides
@@ -24,7 +24,7 @@
   - [Light client](tutorials/light-client-mainnet.md "Light client setup.")
   <!--  - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr") -->
   <!-- - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC") -->
-  - [Node Commands](tutorials/node-commands.md "Commands to run on your EnigmaChain Node.")
+  - [Node Commands](tutorials/node-commands.md "Commands to run on your Enigma Blockchain Node.")
 
 - Resources
   - [Stake](stake.md)

@@ -1,4 +1,4 @@
-# Prepare your host machine to run a full node on EnigmaChain
+# Prepare your host machine to run a full node on Enigma Blockchain
 Guide Version 0.05 | Date Feb 15, 2020
 
 # Installing Ubuntu Server 18.04 LTS

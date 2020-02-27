@@ -1,6 +1,6 @@
 # How to deploy a full node
 
-This document details how to join the EnigmaChain `mainnet` as a validator.
+This document details how to join the Enigma Blockchain `mainnet` as a validator.
 
 
 >! Note : If you need assistance in preparing a host machine to run as a Full Node, please see this guide first [Prepare your host machine](tutorials/prepare-your-host-machine.md "Prepare your host machine")
@@ -19,7 +19,7 @@ This document details how to join the EnigmaChain `mainnet` as a validator.
 
 ## Installation
 
-### 1. Download the EnigmaChain package installer (Debian/Ubuntu):
+### 1. Download the Enigma Blockchain package installer (Debian/Ubuntu):
 
 ```bash
 wget -O enigmachain_0.0.2_amd64.deb https://github.com/enigmampc/enigmablockchainreleases/download/v0.0.2/enigmachain_0.0.2_amd64.deb
@@ -27,13 +27,13 @@ wget -O enigmachain_0.0.2_amd64.deb https://github.com/enigmampc/enigmablockchai
 
 ([How to verify releases](/docs/verify-releases.md))
 
-### 2. Install the enigmachain package:
+### 2. Install the Enigma Blockchain package:
 
 ```bash
 sudo dpkg -i enigmachain_0.0.2_amd64.deb
 ```
 
-### 3. Initialize your installation of the enigmachain. Choose a **moniker** for yourself that will be public, and replace `<MONIKER>` with your moniker below
+### 3. Initialize your installation of the Enigma Blockchain. Choose a **moniker** for yourself that will be public, and replace `<MONIKER>` with your moniker below
 
 ```bash
 enigmad init <MONIKER> --chain-id enigma-1

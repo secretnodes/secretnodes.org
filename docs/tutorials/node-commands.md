@@ -1,4 +1,4 @@
-# Commands to run on your EnigmaChain node
+# Commands to run on your Enigma Blockchain node
 
 ## Check the total supply
 
