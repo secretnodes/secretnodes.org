@@ -95,6 +95,12 @@ enigmacli tx gov submit-proposal --title="Title HERE" --description="The BODY HE
 ```bash
 enigmacli tx gov submit-proposal --help
 ```
+
+#### Send Tokens
+
+```bash
+enigmacli tx send <sender_key_name_or_address> <recipient_address>
+```
   
 
 
