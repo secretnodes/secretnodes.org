@@ -17,17 +17,15 @@ This document details how to join the Enigma Blockchain `mainnet` as a validator
 - Open ports `TCP 26656 & 26657` _Note: If you're behind a router or firewall then you'll need to port forward on the network device._
 - Reading https://docs.tendermint.com/master/tendermint-core/running-in-production.html
 
-## Installation
-
-### 1. Download the Enigma Blockchain package installer (Debian/Ubuntu):
+### 1. Download the [Enigma Blockchain package installer](https://github.com/enigmampc/EnigmaBlockchain/releases/download/v0.0.2/enigmachain_0.0.2_amd64.deb) (Debian/Ubuntu):
 
 ```bash
-wget -O enigmachain_0.0.2_amd64.deb https://github.com/enigmampc/EnigmaBlockchain/releases/download/v0.0.2/enigmachain_0.0.2_amd64.deb
+wget https://github.com/enigmampc/EnigmaBlockchain/releases/download/v0.0.2/enigmachain_0.0.2_amd64.deb
 ```
 
 ([How to verify releases](/docs/verify-releases.md))
 
-### 2. Install the Enigma Blockchain package:
+### 2. Install the package:
 
 ```bash
 sudo dpkg -i enigmachain_0.0.2_amd64.deb
@@ -42,7 +40,7 @@ enigmad init <MONIKER> --chain-id enigma-1
 ### 4. Download a copy of the Genesis Block file: `genesis.json`
 
 ```bash
-wget -O ~/.enigmad/config/genesis.json "https://raw.githubusercontent.com/enigmampc/enigmablockchainmaster/enigma-1-genesis.json"
+wget -O ~/.enigmad/config/genesis.json "https://raw.githubusercontent.com/enigmampc/EnigmaBlockchain/master/enigma-1-genesis.json"
 ```
 
 ### 5. Validate the checksum for the `genesis.json` file you have just downloaded in the previous step:
@@ -65,7 +63,7 @@ If you are curious, you can query the RPC endpoint on that node http://bootstrap
 perl -i -pe 's/persistent_peers = ""/persistent_peers = "201cff36d13c6352acfc4a373b60e83211cd3102\@bootstrap.mainnet.enigma.co:26656"/' ~/.enigmad/config/config.toml
 ```
 
-### 8. Listen for incoming RPC requests so that light nodes could connect to you:
+### 8. Listen for incoming RPC requests so that light nodes can connect to you:
 
 ```bash
 perl -i -pe 's/laddr = .+?26657"/laddr = "tcp:\/\/0.0.0.0:26657"/' ~/.enigmad/config/config.toml
@@ -107,5 +105,58 @@ Feb 10 21:18:59 ip-172-31-41-58 enigmad[8814]: I[2020-02-10|21:18:59.695] Commit
 ```
 
 You are now a full node. :tada:
+
+### 12. Add the following configuration settings (some of these avoid having to type some flags all the time):
+
+```bash
+enigmacli config chain-id enigma-1
+```
+
+```bash
+enigmacli config output json
+```
+
+```bash
+enigmacli config indent true
+```
+
+```bash
+enigmacli config trust-node true # true if you trust the full-node you are connecting to, false otherwise
+```
+
+### 13. Get your node ID with:
+
+```bash
+enigmacli status | awk -F \" '/"id"/{print $4}'
+```
+
+And publish yourself as a node with this ID:
+
+```
+<your-node-id>@<your-public-ip>:26656
+```
+
+So if someone wants to add you as a peer, have them add the above address to their `persistent_peers` in their `~/.enigmad/config/config.toml`.  
+And if someone wants to use you from their `enigmacli` then have them run:
+
+```bash
+enigmacli config chain-id enigma-1
+```
+
+```bash
+enigmacli config output json
+```
+
+```bash
+enigmacli config indent true
+```
+
+```bash
+enigmacli config trust-node false
+```
+
+```bash
+enigmacli config node tcp://<your-public-ip>:26657
+```
 
 [Original Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/run-full-node-mainnet.md)
