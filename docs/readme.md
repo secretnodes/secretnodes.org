@@ -5,7 +5,7 @@
 
 ## About Secretnodes.org
 
-We’re a community-led group of individuals who care about privacy, data ownership, and are dedicated to creating educational resources to empower node runners.
+We’re a community-led group of individuals who care about privacy, data ownership, and are committed to supporting the enigma ecosystem.
 
 If you want to learn more about the people who maintain and contribute to secretnodes.org check out the [Secret Nodes Collective](https://collective.secretnodes.org) or if you'd like to contribute reach out to us by emailing us at collective@secretnodes.org
 
