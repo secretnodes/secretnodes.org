@@ -9,7 +9,7 @@ enigmacli keys add <key-alias>
 ```
 
 **:warning:Note:warning:: Backup the mnemonics!**
-**:warning:Note:warning:: Please make sure you also [backup your validator](/docs/validators-and-full-nodes/backup-a-validator.md)**
+**:warning:Note:warning:: Please make sure you also [backup your validator](https://secretnodes.org/#/tutorials/backup-a-validator)**
 
 **Note**: If you already have a key you can import it with the bip39 mnemonic with `enigmacli keys add <key-alias> --recover` or with `enigmacli keys export` (exports to `stderr`!!) & `enigmacli keys import`.
 
