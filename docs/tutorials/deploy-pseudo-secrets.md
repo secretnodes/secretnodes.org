@@ -22,7 +22,9 @@ Proceed to make the following changes.
 # Comma separated list of nodes to keep persistent connections to
 # Do not add private peers to this list if you don't want them advertised
 persistent_peers =[list of sentry nodes]
+```
 
+```bash
 # Set true to enable the peer-exchange reactor
 pex = false
 ```
