@@ -1,8 +1,6 @@
-## Pseudo Secrets (DDOS Protection)
+## Pseudo Secrets (Sentry Nodes)
 
-AKA Sentry Nodes
-
-Validators are responsible for ensuring that the network can sustain denial of service attacks.
+Secret Nodes (Validators) are responsible for ensuring that the network can sustain denial of service attacks.
 
 One recommended way to mitigate these risks is for validators to carefully structure their network topology in a so-called sentry node architecture.
 
@@ -13,7 +11,6 @@ Sentry nodes can be quickly spun up or change their IP addresses. Because the li
 To setup your sentry node architecture you can follow the instructions below:
 
 Validators nodes should edit their .enigmad/config/config.toml:
-
 
 ```bash
 nano /.enigmad/config/config.toml
@@ -38,4 +35,4 @@ Sentry Nodes should edit their config.toml:
 private_peer_ids = "node_ids_of_private_peers"
 ```
 
-[Original Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/sentry-nodes.md)
+[Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/sentry-nodes.md)
