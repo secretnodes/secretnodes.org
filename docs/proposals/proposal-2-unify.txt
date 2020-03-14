@@ -1,0 +1,8 @@
+Proposal ID
+2
+Proposer
+secretnodes.org
+Title
+Unify The Enigma Community
+Description
+I propose we collectively find a way to achieve a token swap so we can unify the Enigma Community. We already have a diverse set of people ready to build on enigma, participate in governance, stake, and run nodes from all around the world. I welcome everyone interested in this to further discuss how it can be achieved on this GitHub issue https://github.com/secretnodes/secretnodes.org/issues/13

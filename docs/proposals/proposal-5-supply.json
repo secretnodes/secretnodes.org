@@ -1,0 +1,17 @@
+{
+    "title": "Community Fee Param Change",
+    "description": "Update community fee\n\n This change is needed for community spend based proposals to be successfully funded.\n\n This proposal will change the current community tax from 2% to 75%.\n\n Once the community pool has enough funding to complete several existing/upcoming community spend based proposals, we will propose new fee/inflation settings for the Enigma Mainnet.\n\n Note:  While secretnodes.org will listen to feedback from all parties, understand that we are not a proxy for the team, community, or other validators, we will exclusively cast our vote for terms around fees/inflation that we believe best for the health of the network.",
+    "changes": [
+      {
+        "subspace": "distribution",
+        "key": "communitytax",
+        "value": "0.75"
+      }
+    ],
+    "deposit": [
+      {
+        "denom": "uscrt",
+        "amount": "10000000"
+      }
+    ]
+  }
