@@ -26,6 +26,7 @@
   <!--  - [Deploy a Secret Node on Vultr](tutorials/prep-sn-vultr.md "Deploy a Secret Node on Vultr") -->
   <!-- - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC") -->
   - [Node Commands](tutorials/node-commands.md "Commands to run on your Enigma Blockchain Node.")
+  - [Verify Releases](tutorials/verify-releases.md "Verify new releases.")
 
 - Resources
   - [Stake](stake.md)

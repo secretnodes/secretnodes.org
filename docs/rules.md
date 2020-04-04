@@ -1,6 +1,5 @@
 # Community Rules & Safety Tips
 
-* Absolutely no price speculation allowed, discussion around profitability of nodes is permitted as long as it's productive discussion around building a sustainable ecosystem. For price discussion, feel free to join [@enigmarines](https://t.me/enigmarines)
 * No personal arguments, attacks, or trolling.
 * No spamming, flooding, scamming, or fudding of the chat.
 * No impersonating admins.
