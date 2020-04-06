@@ -11,7 +11,17 @@ How does it work? Enigma's [protocol](https://blog.enigma.co/developers) breaks 
 
 Enigma was first described in 2015 in our CEO and co-founder Guy Zyskind’s [MIT thesis](https://enigma.co/enigma_full.pdf) as a follow-up to his foundational whitepaper, “Decentralizing Privacy”. These two groundbreaking papers on privacy and blockchains are now some of the most highly cited in the space, with over 500 combined citations. **We are proud to have been the first project to recognize the essential nature of privacy solutions to the success of decentralization —** and we’re proud to continue leading this critical effort. These whitepapers were also early arguments for separating verification (consensus) and computation as a scalability solution
 
+# SCRT
+
+SCRT is the name of the token powering the Enigma Mainnet based on the CosmosSDK. SCRT can be used to to run smart contracts or secret contract's on Enigma's Network. 
+
+A wallet holder may also use their SCRT balance to stake into or run a secret node, To learn more about Secretnodes and staking in the Enigma ecosystem, please refer to our Nodes Explained. 
+
+The smallest denomination of SCRT is called **uscrt**. Units are reffered to as 'Hints'.
+
 # ENG Token
+
+NOTE : ENG is no longer in active development. SCRT is the token that powers the Enigma Mainnet.
 
 ENG is the name of the ERC20 Enigma Token used on the Ethereum network. ENG can be used to to run smart contracts or secret contract's on Enigma's Network. 
 
