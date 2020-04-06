@@ -1,7 +1,8 @@
-## April 4th, 2020
+## Warrent Cannary
+
+April 4th, 2020
 
 Statements
-~~~~~~~~~~~~~
 
 1. All our infrastructure is in our control, the integrity of our
 entire system is sound.
@@ -18,7 +19,7 @@ information leakage to a third party.
 from any authorities, whether formal or informal.
 
 6. We have not received any court orders, gag orders, or other similar
-orders from the United States Government or any other Governments.
+orders from the SEC, the United States Government, or any other Government Organizations.
 
 7. We have not received any government subpoenas.
 
@@ -30,10 +31,9 @@ by that time or if the list of statements changes without plausible explanation.
 
 10. We have not been contacted by any government agnencies regarding any aspect of our operations.
 
-## Feb 16th, 2020
+# Feb 16th, 2020
 
 Statements
-~~~~~~~~~~~~~
 
 1. All our infrastructure is in our control, the integrity of our
 entire system is sound.
