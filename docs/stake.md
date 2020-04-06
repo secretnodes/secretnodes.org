@@ -13,5 +13,5 @@ enigmacli tx staking delegate enigmavaloper1hjd20hjvkx06y8p42xl0uzr3gr3ue3nkm7wj
 You can redelagate from another validator to secretnodes.org by running the following command from a full node.
 
 ```bash
-enigmacli tx staking redelegate <current-validator-address> enigmavaloper1hjd20hjvkx06y8p42xl0uzr3gr3ue3nkm7wj8z <amount>uscrt --from <delegator-Ley-Name>
+enigmacli tx staking redelegate <current-validator-enigmavaloper-address> enigmavaloper1hjd20hjvkx06y8p42xl0uzr3gr3ue3nkm7wj8z <amount>uscrt --from <delegator-Key-Name> --gas auto
 ```
