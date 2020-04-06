@@ -9,7 +9,7 @@ There is not a specific date yet for the token swap but the process is moving fo
 
 ## What will block rewards and network fees look like on Enigma?
 
-Currently network rewards on the Enigma mainnet are split as follows, 25% goes to Validators and 75% goes into the community pool to fund community projects.
+*Currently network rewards on the Enigma mainnet are split as follows, 25% goes to Validators and 75% goes into the community pool to fund community projects.*
 
 ## How will nodes increase over time?
 
