@@ -4,9 +4,6 @@
 
 There is not a specific date yet for the token swap but the process is moving forward. As of 4/6/2020 the most up to date infomration on the swap plans can be found [here](https://explorer.scrt.cashmaney.com/proposals/4). More updates will come in the month of April 2020.
 
-## How does enigma use Ethereum?
-Enigma uses the Ethereum blockchain as a verification layer. Each private computation records a hash on the blockchain. The hash merely verifies that the computation executed successfully without anyone interfering.
-
 ## What is the minimum SCRT stake required for Enigma?
 *The only stake requirement to run one of the 50 nodes on mainnet is you must be in the top 50 nodes stake wise*.
 
