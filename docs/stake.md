@@ -7,7 +7,7 @@ To stake into the secretnodes.org community pool, all you must do is delegate to
 You can delegate to secretnodes.org by running the following command from a full node.
 
 ```bash
-enigmacli tx staking delegate enigmavaloper1hjd20hjvkx06y8p42xl0uzr3gr3ue3nkm7wj8z <amountToBond>uscrt --from <delegator-Key-Name>
+enigmacli tx staking delegate enigmavaloper1hjd20hjvkx06y8p42xl0uzr3gr3ue3nkm7wj8z <amountToBond>uscrt --from <delegator-Key-Name>  --gas auto
 ```
 
 You can redelagate from another validator to secretnodes.org by running the following command from a full node.

@@ -107,8 +107,8 @@ After you have a private node up and running, run the following command:
 kamutcli tx staking create-validator \
   --amount=100000uscrt \ # This is the amount of coins you put at stake. i.e. 100000uscrt
   --pubkey=$(kamutd tendermint show-validator) \
-  --moniker="<name-of-your-moniker>" \
-  --chain-id=kamut-testnet-1 \
+  --moniker="<change-to-name-of-your-moniker>" \
+  --chain-id=kamut-1 \
   --commission-rate="0.10" \
   --commission-max-rate="0.20" \
   --commission-max-change-rate="0.01" \
