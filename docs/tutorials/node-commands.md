@@ -4,7 +4,7 @@
 
 `enigmacli` is the command-line tool that enables you to interact with a node that runs on the Enigma Blockchain.
 
-[How to install and use `enigmacli`](/docs/light-client-mainnet.md).
+[How to install and use enigmacli](/tutorials/light-client-mainnet.md).
 
 ## `enigmacli` Guide
 
@@ -202,7 +202,7 @@ The following command could be used to send coins from one account to another:
 ```bash
 enigmacli tx send <sender-key-alias-or-address> <recipient-address> 10uscrt \
 	--memo <tx-memo> \
-	--chain-id=<chain-id>
+	--chain-id=enigma-1
 ```
 
 ::: warning Note
@@ -235,7 +235,7 @@ You can simulate a transaction without actually broadcasting it by appending the
 
 ```bash
 enigmacli tx send <sender-key-alias-or-address> <recipient-address> 10uscrt \
-  --chain-id=<chain-id> \
+  --chain-id=enigma-1 \
   --dry-run
 ```
 
@@ -244,13 +244,13 @@ appending `--generate-only` to the list of the command line arguments:
 
 ```bash
 enigmacli tx send <sender-key-alias-or-address> <recipient-address> 10uscrt \
-  --chain-id=<chain-id> \
+  --chain-id=enigma-1 \
   --generate-only > unsignedSendTx.json
 ```
 
 ```bash
 enigmacli tx sign \
-  --chain-id=<chain-id> \
+  --chain-id=enigma-1 \
   --from=<key-alias> \
   unsignedSendTx.json > signedSendTx.json
 ```
@@ -509,7 +509,7 @@ enigmacli tx staking unbond \
   <validator-address> \
   10uscrt \
   --from=<key-alias> \
-  --chain-id=<chain-id>
+  --chain-id=enigma-1
 ```
 
 The unbonding will be automatically completed when the unbonding period has passed.
@@ -544,7 +544,7 @@ enigmacli tx staking redelegate \
   <dst-validator-operator-address> \
   10uscrt \
   --from=<key-alias> \
-  --chain-id=<chain-id>
+  --chain-id=enigma-1
 ```
 
 Here you can also redelegate a specific `shares-amount` or a `shares-fraction` with the corresponding flags.
