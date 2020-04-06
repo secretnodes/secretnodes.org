@@ -7,8 +7,8 @@ There is not a specific date yet for the token swap but the process is moving fo
 ## How does enigma use Ethereum?
 Enigma uses the Ethereum blockchain as a verification layer. Each private computation records a hash on the blockchain. The hash merely verifies that the computation executed successfully without anyone interfering.
 
-## What is the minimum ENG stake required for Enigma?
-The minimum ENG stake required for a mainnet secret node is *25,000 ENG*. This number was selected based on our study of many other networks, internal modeling based on the current distribution of ENG, and balancing our desire for decentralization with network sustainability and having meaningful stakes for node operators. This minimum threshold will however be reduced over the life of the network.
+## What is the minimum SCRT stake required for Enigma?
+*The only stake requirement to run one of the 50 nodes on mainnet is you must be in the top 50 nodes stake wise*.
 
 ## What will block rewards and network fees look like on Enigma?
 
@@ -20,7 +20,10 @@ Currently network rewards on the Enigma mainnet are split as follows, 25% goes t
 
 ## Is there slashing on mainnet?
 
-Slashing was live day one on the Enigma mainnet. As of 4/6/2020 slashing for double signing is 5% and slashing for downtime is 1%.
+Slashing was live day one on the Enigma mainnet.
+As of 4/6/2020 slashing parameters are
+* Double signing results in a 5% slash.
+* Downtime results in a 1% slash.
 
 ## What are hardware and software requirements?
 
