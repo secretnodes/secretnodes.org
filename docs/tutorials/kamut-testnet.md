@@ -123,4 +123,6 @@ To check if you got added to the validator-set by running:
 kamutcli q tendermint-validator-set
 ```
 
+For support on the Kamut Testnet please visit [Kamut Enigma Testnet](https://t.me/enigmatestnet)
+
 [Original Source](https://raw.githubusercontent.com/chainofsecrets/kamut-testnet/master/docs/validators-and-full-nodes.md)

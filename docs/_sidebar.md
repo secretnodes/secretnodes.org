@@ -16,7 +16,7 @@
   - [Prepare your host machine](tutorials/prepare-your-host-machine.md "Prepare your host machine")
   - [Deploy an Enigma Full Node](tutorials/deploy-enigma-fullnode.md "Deploy an Enigma Full Node")
   - [Deploy a Validator on Mainnet](tutorials/deploy-validator.md "Deploy a Secret Node on Mainnet")
-  - [Deploy a Validator on Enigma-Kamut Testnet](tutorials/kamut-testnet.md "How to join Kamut Testnet")
+  - [Deploy to Enigma-Kamut Testnet](tutorials/kamut-testnet.md "How to join Kamut Testnet")
 
 - Guides
   <!-- - [Contributing Guidelines](tutorials/contributing.md) -->
