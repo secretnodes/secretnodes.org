@@ -2,7 +2,7 @@
 
 ## When is the Token Swap?
 
-There is not a specific date yet for the token swap but the process is moving forward. As of 4/6/2020 the most up to date infomration on the swap plans can be found [here](https://explorer.scrt.cashmaney.com/proposals/4). More updates will come in the month of April 2020.
+There is not a specific date yet for the token swap but the process is moving forward. As of 4/6/2020 the most up to date information on the swap plans can be found [here](https://explorer.scrt.cashmaney.com/proposals/4). More updates will come in the month of April 2020.
 
 ## What is the minimum SCRT stake required for Enigma?
 *The only stake requirement to run one of the 50 nodes on mainnet is you must be in the top 50 nodes stake wise*.

@@ -38,4 +38,3 @@
 - Other
   - [Community Rules](rules.md)
   - [Privacy Policy](privacy-policy.md)
-  - [Collective](https://collective.secretnodes.org)
