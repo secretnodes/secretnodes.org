@@ -3,7 +3,7 @@
 
   - [Enigma Overview](enigma-quickstart.md "What is Enigma?")
   - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
-  - [Swap FAQ](swap.md "When swap?")
+  - [Swap](swap.md "When swap?")
   <!-- - [The Genesis Games](genesisgames-overview.md "Genesis Games Overview") -->
   <!-- - [Testnet Info](testnet.md "Enigma Testnet Information") -->
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
