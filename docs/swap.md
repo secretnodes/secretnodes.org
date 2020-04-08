@@ -10,6 +10,8 @@ As can be seen in the comment thread there is overwhelming support by the commun
 
 On March 7th 2020 Secretnodes org put out a high level plan for ["Burn ENG for SCRT!"](https://explorer.scrt.cashmaney.com/proposals/4) SCRT (“Secret”) is used for staking, governance, and transaction fees within the Enigma network which is now LIVE based on Cosmos SDK/Tendermint. It is critical to the future of the Enigma protocol that the broader community that currently holds ENG tokens to be able to burn their tokens in exchange for SCRT being minted to participate in staking, governance, and transaction fees. This proposal outlines a brief background, technical approach, and detailed milestones to achieving an expeditious, straightforward and secure Burn ENG for SCRT!
 
+## Swap FAQ
+
 ## When is the Token Swap?
 
 There is not a specific date yet for the token swap but the process is moving forward. As of 4/6/2020 the most up to date information on the swap plans can be found [here](https://explorer.scrt.cashmaney.com/proposals/4). More updates will come in the month of April 2020.
