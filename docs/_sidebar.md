@@ -11,6 +11,13 @@
   - [Governance](https://explorer.mainnet.enigma.co/proposals "Proposals on the Enigma Blockhain Mainnet")
   - [Warrant Cannary](secret-warrant-canary.md "Warrant Canary")
 
+- Secret Projects
+  - [SafeTrace](https://github.com/enigmampc/safetrace)
+  - [Salad](https://github.com/enigmampc/salad)
+  - [Stake](stake.md)
+  <!-- - [SecretDAO](https://secretdao.org) Placeholder for launch of SecretDAO -->
+  <!-- - [Secret Testnet](https://secrettestnet.org) Placeholder for launch of Secret Testnet. -->
+
 - Deploy
 
   - [Prepare your host machine](tutorials/prepare-your-host-machine.md "Prepare your host machine")
@@ -30,10 +37,6 @@
   <!-- - [Tips & Troubleshooting](tutorials/sn-tips-troubleshooting.md "Deploy a Secret Node on your NUC") -->
   - [Node Commands](tutorials/node-commands.md "Commands to run on your Enigma Blockchain Node.")
   - [Verify Releases](tutorials/verify-releases.md "Verify new releases.")
-
-- Resources
-  - [Stake](stake.md)
-  <!-- - [NUC Hosting](nuc-hosting.md) -->
 
 - Other
   - [Community Rules](rules.md)

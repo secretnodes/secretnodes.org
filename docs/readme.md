@@ -5,9 +5,9 @@
 
 ## About Secretnodes.org
 
-We’re a community-led group of individuals who care about privacy, data ownership, and are committed to supporting the enigma ecosystem.
+Established in 2018, secretnodes.org is a grasssrouts organization with a focus on data privacy, data ownership, and a primary committment to supporting the Secret ecosystem being developed by [enigma](https://enigma.co). We ❤️ Privacy Projects.
 
-If you want to learn more about the people who maintain and contribute to secretnodes.org check out the [Secret Nodes Collective](https://collective.secretnodes.org) or if you'd like to contribute reach out to us by emailing us at collective@secretnodes.org
+Interested in staking your SCRT with us? [Stake!](https://secretnodes.org/#/stake).
 
 [Jump right in and start learning!](https://secretnodes.org/#/enigma-quickstart).
 
@@ -31,7 +31,3 @@ If you want to learn more about the people who maintain and contribute to secret
 ## Community
 
 For support on running your Enigma Secret Node please visit the [enigma forums](https://forum.enigma.co/c/enigma-nodes/8).
-
-## Donate
-
-Please consider donating if you think Secret Nodes is helpful to you or that our work is valuable. [Send ETH](https://etherscan.io/address/donations.secretnodes.eth) :heart:

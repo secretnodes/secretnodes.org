@@ -6,7 +6,7 @@
 
 [How to install and use enigmacli](/tutorials/light-client-mainnet.md).
 
-## `enigmacli` Guide
+## enigmacli Guide
 
 ### Keys
 

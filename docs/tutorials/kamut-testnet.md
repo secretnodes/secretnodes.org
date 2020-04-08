@@ -1,5 +1,7 @@
 # How to join Kamut Enigma Blockchain Testnet as a Validator or Fullnode
 
+Note : The Kamut Testnet is a community run testnet.
+
 This document details how to join the Kamut Enigma Blockchain `Testnet` as a validator.
 
 ## Requirements
