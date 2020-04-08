@@ -36,6 +36,14 @@ No. This was designed to be a one way process and as such cannot be reversed.
 
 The only use of the ENG token going forward is through the Burn ENG for SCRT! There is no other use for ENG now and there will not be utility added in the future. [The Enigma team has stated they are committed to developing the enigma protocol powered by SCRT](https://blog.enigma.co/the-enigma-mainnet-has-launched-3bd0d40fe80d).
 
+## Will exchanges automatically swap my ENG for SCRT?
+
+secretnodes.org cannot make promises on behalf of any exchanges in regards to what they will do.
+
+## Will there be a user interface that I can use to swap my tokens?
+
+Yes.
+
 ## Feedback
 Here are the locations we are tracking feedback on the proposals related to the swap.
 
