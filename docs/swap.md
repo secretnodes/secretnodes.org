@@ -24,6 +24,18 @@ There is not a specific date yet for the token swap but the process is moving fo
 
 The token swap requires ongoing efforts / coordination to ensure it runs smoothly. For this reason it doesn't seem reasonble to expect it to continue forever, everyone is committed to running the swap for a reasonable amount of time so everyone is assured to get a minimum of 90 days to swap once the process officially starts.
 
+## What happens to my burned ENG?
+
+The ENG is provably sent to an address no one has control over by the end user or participating exchange. More details on the specifics will released as the process continues. A 3rd party overview on industry best practices can be found [here](https://cointelegraph.com/explained/token-burning-explained).
+
+## Can I convert my SCRT back to ENG if I change my mind?
+
+No. This was designed to be a one way process and as such cannot be reversed.
+
+## What will happen to the ENG token?
+
+The only use of the ENG token going forward is through the Burn ENG for SCRT! There is no other use for ENG now and there will not be utility added in the future. [The Enigma team has stated they are committed to developing the enigma protocol powered by SCRT](https://blog.enigma.co/the-enigma-mainnet-has-launched-3bd0d40fe80d).
+
 ## Feedback
 Here are the locations we are tracking feedback on the proposals related to the swap.
 
