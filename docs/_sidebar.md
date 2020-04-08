@@ -15,7 +15,7 @@
   - [SafeTrace](https://github.com/enigmampc/safetrace)
   - [Salad](https://github.com/enigmampc/salad)
   - [Stake](stake.md)
-  <!-- - [SecretDAO](https://secretdao.org) Placeholder for launch of SecretDAO -->
+  - [Puzzle](https://github.com/secretnodes/puzzle)
   <!-- - [Secret Testnet](https://secrettestnet.org) Placeholder for launch of Secret Testnet. -->
 
 - Deploy
