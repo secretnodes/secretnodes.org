@@ -39,6 +39,6 @@ The only use of the ENG token going forward is through the Burn ENG for SCRT! Th
 ## Feedback
 Here are the locations we are tracking feedback on the proposals related to the swap.
 
-(Enigma Forums Swap Thread)[https://forum.enigma.co/t/token-swap-proposal/1364]
+[Enigma Forums Swap Thread](https://forum.enigma.co/t/token-swap-proposal/1364)
 
 To participate in real time discussions around proposals made on the Enigma Blockchain join us in [SecretDAO](https://t.me/secretdao)
