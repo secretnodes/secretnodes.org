@@ -5,7 +5,7 @@
 
 ## About Secretnodes.org
 
-Established in 2018, secretnodes.org is a grasssrouts organization with a focus on data privacy, data ownership, and a primary commitment to supporting the Secret ecosystem being developed by [enigma](https://enigma.co). We ❤️ Privacy Projects.
+Established in 2018, secretnodes.org is a grasssroots organization with a focus on privacy, data ownership, and a commitment to supporting the [enigma](https://enigma.co) ecosystem. We ❤️ Privacy Projects.
 
 Interested in staking your SCRT with us? [Stake!](https://secretnodes.org/#/stake).
 
