@@ -3,17 +3,19 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/secretnodes/learn)](https://github.com/secretnodes/learn/commits/master)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/secretnodes/learn)](https://github.com/secretnodes/learn/issues)
 
-## About Secretnodes.org
+## Secretnodes.org About & Mission
 
-Established in 2018, secretnodes.org is a grassroots organization with a focus on privacy, data ownership, and a commitment to supporting the [enigma](https://enigma.co) ecosystem through the creation of educational resources and open source tools that empower stakeholders and node runners alike.
+Established in 2018, we're a grassroots organization that believes society is facing a fork in the road in regards to privacy, security, data rights and their trend towards further degradation. We aim to be a refuge at the impasse, and are committed to supporting the [enigma](https://enigma.co) ecosystem by helping to empower its stakeholders. Escape the clutch of data monopolies; Stake the Future.
 
-If you want to learn more about the people who maintain and contribute to secretnodes.org check out the [Secret Nodes Collective](https://collective.secretnodes.org) or if you'd like to contribute reach out to us by emailing us at collective@secretnodes.org
+Interested in staking your SCRT with us? [Stake!](https://secretnodes.org/#/stake).
 
 [Jump right in and start learning!](https://secretnodes.org/#/enigma-quickstart).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1NydoKd_Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Announcements
 
-- enigma.co Dec 2019 Dev Update [@enigma.co Dec 2019 Dev Update](https://blog.enigma.co/enigma-development-update-december-2019-6a3911311642) ~ Jan 8th 2020
+- enigma.co Mainnet Launch [@enigma.co Blog Announement](https://blog.enigma.co/the-enigma-mainnet-has-launched-3bd0d40fe80d) ~ Feb 19, 2020
 - enigma.co testnet launch [@enigma.co Blog Announcement](https://blog.enigma.co/announcing-the-launch-of-enigmas-first-networked-testnet-359fd816cb69) ~ Dec 23rd 2019
 - secretnodes.org Pool Staking Information [@forum.enigma.co Announcement](https://forum.enigma.co/t/secretnodes-org-pool-staking-information/1167) ~ Nov 25th 2019
 - Secret Nodes: Everything You Need to Know [@enigma.co](https://blog.enigma.co/secret-nodes-everything-you-need-to-know-2c75c72046e2) ~ Nov 19th 2019
@@ -29,7 +31,3 @@ If you want to learn more about the people who maintain and contribute to secret
 ## Community
 
 For support on running your Enigma Secret Node please visit the [enigma forums](https://forum.enigma.co/c/enigma-nodes/8).
-
-## Donate
-
-Please consider donating if you think Secret Nodes is helpful to you or that our work is valuable. [Send ETH](https://etherscan.io/address/donations.secretnodes.eth) :heart:

@@ -3,9 +3,9 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/secretnodes/learn)](https://github.com/secretnodes/learn/commits/master)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/secretnodes/learn)](https://github.com/secretnodes/learn/issues)
 
-## About Secretnodes.org
+## Secretnodes.org About & Mission
 
-Established in 2018, secretnodes.org is a grassroots organization with a focus on privacy, data ownership, and a commitment to supporting the [enigma](https://enigma.co) ecosystem through the creation of educational resources and open source tools that empower stakeholders and node runners alike. We ❤️ Privacy Projects.
+Established in 2018, we're a grassroots organization that believes society is facing a fork in the road in regards to privacy, security, data rights and their trend towards further degradation. We aim to be a refuge at the impasse, and are committed to supporting the [enigma](https://enigma.co) ecosystem by helping to empower its stakeholders. Escape the clutch of data monopolies; Stake the Future.
 
 Interested in staking your SCRT with us? [Stake!](https://secretnodes.org/#/stake).
 
