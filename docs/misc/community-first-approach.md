@@ -18,9 +18,17 @@ To be clear, Secretnodes.org does not view the Community Pool as a VC faucet. By
 
 The budgets we put together will be based on nominal/modest amounts and exclusively focus on things that can be delivered within 6 months. In regards to higher cost things such as audits (when they are needed), there will likely be no choice but to pay full price, but outside of that, this approach is one more similar to open-source grant-based funding than VC funding.
 
+**Clear value to the Community**
+
+Our view is that the community must signal its general recognition of the value any community spend proposal would create. This can be achived through various means but they all start with the off-chain discussions and never become fully confirmed until a community spend proposal passes on the Enigma Blockchain. 
+
 **Off-chain then On-chain**
 
-Ideally we will always do proposals in 2 main stages. Stage one is the off-chain conversations. This would be sharing details about the proposal for feedback and comment from the public. Once we get general approval from the community we will begin working on developing the concept and once we are comfortable with the progress we will move to stage 2. Stage 2 is putting the corresponding proposals on chain for the network to vote.
+Ideally we will always do proposals in 2 main stages.
+
+Stage one is the off-chain conversations. This would be sharing details about the proposal for feedback and comment from the public. Once we get general approval from the community we will begin working on developing the concept.
+
+Stage two is the on-chain conversations. Once we are comfortable with the progress we have made, we will move continue towards implimentation and allocation as we put any corresponding proposals on chain for the network to vote on.
 
 **Reasoning** 
 
