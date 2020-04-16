@@ -14,6 +14,28 @@ On March 7th 2020 Secretnodes org put out a high level plan for ["Burn ENG for S
 
 [Proposal 5](https://explorer.scrt.cashmaney.com/proposals/5) was a proposed change to block rewards. With this change the Community Pool recives 75% of the block rewards and the Validators recieve 25%. The initial parameters had the Community Pool set to get 2% of block rewards with Validators getting 98%. This change was ultimately needed to successfully fund [Proposal #4](https://explorer.scrt.cashmaney.com/proposals/4). In [Proposal 5](https://explorer.scrt.cashmaney.com/proposals/5) we say "Once the community pool has enough funding to complete several existing/upcoming community spend based proposals, we will propose new fee/inflation settings for the Enigma Mainnet." but ultimately we take the position that any changes to this are likely better made after the token swap.
 
+## Burn ENG for SCRT! Allocation Multisig
+
+>! In draft from 4/16/2020 untill 4/21/2020
+
+This proposal is merely intended to solve the issue of how to efficiently pay out the parties doing work for the approved proposal 4.
+
+In proposal 4 the initial budget was 422k SCRT. Through a draft period we opted to remove a proposed 2% minting fee. In this final budget we are keeping everything the same other than increasing the audit budget in order to make sure we cover the full costs of the audit.
+
+Due to the risks of not knowing what SCRT will be worth when it goes to reimburse those who pay for the audit, not knowing when SCRT will be liquid / listed, and the need for audit costs to be covered up front we have determined the final amount we need allocated for audit is 163k SCRT and the total allocation for Burn ENG for SCRT! is 285k SCRT.
+
+Timeline
+
+With this allocation we are ready to commit to starting the Burn ENG for SCRT process by the end of May 2020. With the progress we have made so far the only things left is to reach code completion, test everything works, audit the code, then deploy.
+
+[Full Draft Document & Details](https://github.com/secretnodes/secretnodes.org/blob/master/docs/papers/Secretnodes.org%20ENG%20Burn%20for%20SCRT!%20-%20Draft%20Allocation%20Multisig.pdf)
+
+[Burn ENG for SCRT! Draft Allocation Multisig Enigma Forum discussion](https://forum.enigma.co/t/approaches-to-community-spend-proposals/1517)
+
+[Burn ENG for SCRT! Draft Allocation Multisig github discussion](https://github.com/secretnodes/secretnodes.org/issues/16)
+
+Please discuss and provide feedback. Comments will be open for a minimum of 5 days.
+
 ## Swap FAQ
 
 ## When is the Token Swap?

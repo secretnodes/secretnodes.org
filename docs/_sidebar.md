@@ -3,7 +3,7 @@
 
   - [Enigma Overview](enigma-quickstart.md "What is Enigma?")
   - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
-  - [Swap](swap.md "When swap?")
+  - [Swap](misc/swap.md "When swap?")
   <!-- - [The Genesis Games](genesisgames-overview.md "Genesis Games Overview") -->
   <!-- - [Testnet Info](testnet.md "Enigma Testnet Information") -->
   <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
@@ -15,7 +15,7 @@
 - Secret Projects
   - [SafeTrace](https://github.com/enigmampc/safetrace)
   - [Salad](https://github.com/enigmampc/salad)
-  - [Stake](stake.md)
+  - [Stake](misc/stake.md)
   - [Puzzle](https://github.com/secretnodes/puzzle)
   <!-- - [Secret Testnet](https://secrettestnet.org) Placeholder for launch of Secret Testnet. -->
 
