@@ -16,7 +16,7 @@ On March 7th 2020 Secretnodes org put out a high level plan for ["Burn ENG for S
 
 ## Burn ENG for SCRT! Allocation Multisig
 
->! In draft from 4/16/2020 untill 4/21/2020
+> In draft from 4/16/2020 untill 4/21/2020
 
 This proposal is merely intended to solve the issue of how to efficiently pay out the parties doing work for the approved proposal 4.
 
