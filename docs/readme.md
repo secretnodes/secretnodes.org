@@ -5,7 +5,7 @@
 
 ## Secretnodes.org About & Mission
 
-Established in 2018, we're a grassroots organization that believes society is facing a fork in the road in regards to privacy, security, data rights and their trend towards further degradation. We aim to be a refuge at this impasse, and are committed to supporting the [enigma](https://enigma.co) ecosystem by helping to empower its stakeholders. Escape the clutch of data monopolies; Stake the Future. If you want to find out more about how we approach the work we do at Secretnodes.org [you can learn more about our community first approach here](misc/our-approach.md).
+Established in 2018, we're a grassroots organization that believes society is facing a fork in the road in regards to privacy, security, data rights and their trend towards further degradation. We aim to be a refuge at this impasse, and are committed to supporting the [enigma](https://enigma.co) ecosystem by helping to empower its stakeholders. Escape the clutch of data monopolies; Stake the Future. If you want to find out more about how we approach the work we do at Secretnodes.org [you can learn more about our community first approach here](misc/community-first-approach.md).
 
 Interested in staking your SCRT with us? [Stake!](https://secretnodes.org/#/stake).
 

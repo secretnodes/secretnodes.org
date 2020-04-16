@@ -40,6 +40,6 @@
   - [Verify Releases](tutorials/verify-releases.md "Verify new releases.")
 
 - Other
-  - [Our Approach](misc/our-approach.md)
+  - [Our Approach](misc/community-first-approach.md)
   - [Community Rules](rules.md)
   - [Privacy Policy](privacy-policy.md)

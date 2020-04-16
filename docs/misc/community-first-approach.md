@@ -19,9 +19,11 @@ To be clear, Secretnodes.org does not view the Community Pool as a VC faucet. By
 The budgets we put together will be based on nominal/modest amounts and exclusively focus on things that can be delivered within 6 months. In regards to higher cost things such as audits (when they are needed), there will likely be no choice but to pay full price, but outside of that, this approach is one more similar to open-source grant-based funding than VC funding.
 
 **Off-chain then On-chain**
+
 Ideally we will always do proposals in 2 main stages. Stage one is the off-chain conversations. This would be sharing details about the proposal for feedback and comment from the public. Once we get general approval from the community we will begin working on developing the concept and once we are comfortable with the progress we will move to stage 2. Stage 2 is putting the corresponding proposals on chain for the network to vote.
 
 **Reasoning** 
+
 The reason we are taking this approach is because we do not agree with letting the community pool fund expensive / risky ideas from scratch at this stage. For this reason, we will always have substantial skin in the game before we ask for allocations related to proposals, in relation to time and money already invested. We hope others follow suit and start working on proposals that put the community first and are excited to see and support ideas proposed as we get closer to unifying as a community.
 
 *Note: While I hope others follow suit with this approach you are all free to determine how to approach your proposals. There are no **rules** being set or asserted that you must follow.*
