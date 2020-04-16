@@ -40,7 +40,7 @@ Please discuss and provide feedback. Comments will be open for a minimum of 5 da
 
 ## When is the Token Swap?
 
-There is not a specific date yet for the token swap but the process is moving forward. As of 4/6/2020 the most up to date information on the swap plans can be found [here](https://explorer.scrt.cashmaney.com/proposals/4). More updates will come in the month of April 2020.
+Contingent on the approval of the Draft Proposal "Burn ENG for SCRT! Allocation Multisig" we are committing to starting the whole process on mainnet by the end of May 2020. We will be sure to keep everyone informed if we believe this can no longer be reached.
 
 ## Can I swap my tokens even if I didn't participate in the ICO?
 
