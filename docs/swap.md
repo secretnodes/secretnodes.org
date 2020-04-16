@@ -2,7 +2,7 @@
 
 On Feb 17th 2020 Secretnodes.org submitted [Proposal #2](https://explorer.scrt.cashmaney.com/proposals/2), stating, “I propose we collectively find a way to achieve a token swap so we can unify the Enigma Community. We already have a diverse set of people ready to build on enigma, participate in governance, stake, and run nodes from all around the world. I welcome everyone interested in this to further discuss how it can be achieved here.”
 
-The initial proposal served as a signal to solicit community feedback regarding a token swap, and was posted to Secretnodes.org’s GitHub to solicit comments on [This github issue](https://github.com/secretnodes/secretnodes.org/issues/13)
+The initial proposal served as a signal to solicit community feedback regarding a token swap, and was reposted to Secretnodes.org’s GitHub to solicit comments on [This github issue](https://github.com/secretnodes/secretnodes.org/issues/13)
 
 As can be seen in the comment thread there is overwhelming support by the community for a 1:1 ENG to SCRT burn to mint ratio. The scope of [Proposal #4](https://explorer.scrt.cashmaney.com/proposals/4), the followup proposal to [Proposal #2](https://explorer.scrt.cashmaney.com/proposals/2), is not to get into arguments regarding token supply, or details surrounding future supply (i.e. inflation). Secretnodes.org believes decisions regarding future token supply are best left to later proposals when the network has more stability and active participation in governance. Furthermore, given the time sensitive nature of executing Burn ENG for SCRT! for the health of the network and community it’s best not to make the proposal terms herein any more complicated than they already are.
 
