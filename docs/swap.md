@@ -70,6 +70,10 @@ secretnodes.org cannot make promises on behalf of any exchanges in regards to wh
 
 Yes.
 
+## What will the ratio be for the token swap?
+
+Any proposal, swap, burn, or token migration that secretnodes.org is involed in will be a 1:1 swap from ENG to SCRT. After getting an overwhelming amount of feedback and considering the long term implications there is simply no other rate we will support.
+
 ## Feedback
 Here are the locations we are tracking feedback on the proposals related to the swap.
 
