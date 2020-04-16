@@ -28,7 +28,7 @@ Ideally we will always do proposals in 2 main stages.
 
 Stage one is the off-chain conversations. This would be sharing details about the proposal for feedback and comment from the public. Once we get general approval from the community we will begin working on developing the concept.
 
-Stage two is the on-chain conversations. Once we are comfortable with the progress we have made, we will move continue towards implimentation and allocation as we put any corresponding proposals on chain for the network to vote on.
+Stage two is the on-chain conversations. Once we are comfortable with the progress we have made, we will continue towards implementation and allocation as we put any corresponding proposals on chain for the network to vote on.
 
 **Reasoning** 
 
