@@ -1,7 +1,7 @@
 Our Approach to Community Proposals at [Secretnodes.org ](https://secretnodes.org)
 
 **Summary**
-Going forward Secretnodes.org intends to follow this process for releasing proposals on the Enigma Blockchain. Each proposal will include the following sections: Summary, who is submitting, background/problem, solution, feedback, disclosures. On top of having a structure, we also intend to continue to refine a community first proposal approach.
+Going forward Secretnodes.org intends to follow this process for releasing proposals on the Enigma Blockchain. Each proposal will include the following sections: Summary, Value to Community, who is submitting, background/problem, solution, feedback, disclosures. On top of having a structure, we also intend to continue to refine a community first proposal approach.
 
 **Background**
 
@@ -20,7 +20,7 @@ The budgets we put together will be based on nominal/modest amounts and exclusiv
 
 **Clear value to the Community**
 
-Our view is that the community must signal its general recognition of the value any community spend proposal would create. This can be achived through various means but they all start with the off-chain discussions and never become fully confirmed until a community spend proposal passes on the Enigma Blockchain. 
+Our view is that the community must first signal its general recognition to confirm the value any community spend proposal will create. This can be achieved through various means but they all start with the off-chain discussions and never become fully confirmed until a community spend proposal passes on the Enigma Blockchain.
 
 **Off-chain then On-chain**
 
