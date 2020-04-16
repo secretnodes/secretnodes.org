@@ -3,7 +3,7 @@ Our Approach to Community Proposals at [Secretnodes.org ](https://secretnodes.or
 **Summary**
 Going forward Secretnodes.org intends to follow this process for releasing proposals on the Enigma Blockchain. Each proposal will include the following sections: Summary, Value to Community, who is submitting, background/problem, solution, feedback, disclosures. On top of having a structure, we also intend to continue to refine a community first proposal approach.
 
-**Background**
+**Overview**
 
 Since the launch of the Enigma mainnet, there have been various discussions regarding what the Community Spend pool funds should be used for.
 
@@ -15,6 +15,8 @@ Obvious Choices and Approaches
 **Our Approach**
 
 To be clear, Secretnodes.org does not view the Community Pool as a VC faucet. By this I mean to say it is not a substitute for SEED / VC funding which is usually given in exchange for equity. As such our approach to Community Spend based proposals **at this stage of the network and for the foreseeable future will be based around subsidizing the development of projects where the Enigma Community gets the primary benefit of the work done and all work is open source.**
+
+**Budgets & Timelines**
 
 The budgets we put together will be based on nominal/modest amounts and exclusively focus on things that can be delivered within 6 months. In regards to higher cost things such as audits (when they are needed), there will likely be no choice but to pay full price, but outside of that, this approach is one more similar to open-source grant-based funding than VC funding.
 
