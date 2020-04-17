@@ -38,7 +38,7 @@ Stage two is the on-chain conversations. Once we are comfortable with the progre
 
 **Collaborative vs Transactional**
 
-When submitting proposals that include allocation requests we intend to release all information (including budgets) during the off-chain discussions. After collaborating with the community to make any relevant or needed changes from feedback, we will put the final proposal on chain. The intnet of this is to ensure the process remains a collaborative effort with the community vs merely being a request for payment.
+When submitting proposals we intend to release all information (including budgets) during the off-chain discussions. After collaborating with the community to make any relevant or needed changes from feedback, we will put the final proposal on-chain. The intent of this is to ensure the process remains a collaborative effort with the community vs a transactional experience.
 
 **Reasoning** 
 
