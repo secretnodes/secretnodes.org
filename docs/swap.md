@@ -79,4 +79,4 @@ Here are the locations we are tracking feedback on the proposals related to the 
 
 [Enigma Forums Swap Thread](https://forum.enigma.co/t/token-swap-proposal/1364)
 
-To participate in real time discussions around proposals made on the Enigma Blockchain join us in [Secret.Foundation](https://t.me/secretfoundation)
+To participate in real time discussions around proposals made on the Enigma Blockchain join us in [Secret.Foundation](https://go.rocket.chat/invite?host=chat.secret.foundation&path=invite%2Fo8XZyM)

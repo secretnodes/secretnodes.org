@@ -8,8 +8,8 @@
 - 📶 Censorship Resistant Node Network
 
 <div class="buttons">
-  <a href="https://t.me/secretnodes" target="_blank"><span>Join</span></a>
+  <a href="https://go.rocket.chat/invite?host=chat.secret.foundation&path=invite%2FHZajRb" target="_blank"><span>Join</span></a>
   <a href="#/readme"><span>Learn</span></a>
   <a href="#/stake"><span>Stake</span></a>
-  <a href="#/swap"><span>SWAP?!</span></a>
+  <a href=""><span>SWAP?!</span></a>
 </div>
