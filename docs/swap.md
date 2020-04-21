@@ -40,7 +40,7 @@ Please discuss and provide feedback. Comments will be open for a minimum of 5 da
 
 ## When is the Token Swap?
 
-Contingent on the approval of the Draft Proposal "Burn ENG for SCRT! Allocation Multisig" we are committing to starting the whole process on mainnet by the end of May 2020. We will be sure to keep everyone informed if we believe this can no longer be reached.
+Contingent on the approval of the Draft Proposal "Burn ENG for SCRT! Allocation Multisig" we are committed to starting the whole process on mainnet by the end of May 2020 unless any issues arise that prevent us from doing so. We will be sure to keep everyone informed if we believe this can no longer be reached.
 
 ## Can I swap my tokens even if I didn't participate in the ICO?
 
@@ -79,4 +79,4 @@ Here are the locations we are tracking feedback on the proposals related to the 
 
 [Enigma Forums Swap Thread](https://forum.enigma.co/t/token-swap-proposal/1364)
 
-To participate in real time discussions around proposals made on the Enigma Blockchain join us in [Secret.Foundation](https://go.rocket.chat/invite?host=chat.secret.foundation&path=invite%2Fo8XZyM)
+To participate in real time discussions around proposals made on the Enigma Blockchain join us in [Secret.Foundation](https://t.me/secretfoundation)
