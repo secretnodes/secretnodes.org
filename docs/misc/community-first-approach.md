@@ -1,6 +1,7 @@
 Our Approach to Community Proposals at [Secretnodes.org ](https://secretnodes.org)
 
 **Summary**
+
 Going forward Secretnodes.org intends to follow this process for releasing proposals on the Enigma Blockchain. Each proposal will include the following sections: Summary, Value to Community, who is submitting, background/problem, solution, feedback, disclosures. On top of having a structure, we also intend to continue to refine a community first proposal approach.
 
 **Overview**
