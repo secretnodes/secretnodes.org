@@ -41,6 +41,10 @@ Stage two is the on-chain conversations. Once we are comfortable with the progre
 
 When submitting proposals we intend to release all information (including budgets) during the off-chain discussions. After collaborating with the community to make any relevant or needed changes from feedback, we will put the final proposal on-chain. The intent of this is to ensure the process remains a collaborative effort with the community vs a transactional experience.
 
+**Disclosures**
+
+Bugs/Delays: Disclosures regarding bugs or any other obstacles that can potentially cause a delay of a deliverable will be made before allocations are requested. If funds are already allocated then disclosures will be made within 72 hours of discovery.
+
 **Reasoning** 
 
 The reason we are taking this approach is because we do not agree with letting the community pool fund expensive / risky ideas from scratch at this stage. For this reason, we will always have substantial skin in the game before we ask for allocations related to proposals, in relation to time and money already invested. We hope others follow suit and start working on proposals that put the community first and are excited to see and support ideas proposed as we get closer to unifying as a community.
