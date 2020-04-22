@@ -30,7 +30,7 @@ With this allocation we are ready to commit to starting the Burn ENG for SCRT pr
 
 [Full Draft Document & Details](https://github.com/secretnodes/secretnodes.org/blob/master/docs/papers/Secretnodes.org%20ENG%20Burn%20for%20SCRT!%20-%20Draft%20Allocation%20Multisig.pdf)
 
-[Burn ENG for SCRT! Draft Allocation Multisig Enigma Forum discussion](https://forum.enigma.co/t/approaches-to-community-spend-proposals/1517)
+[Burn ENG for SCRT! Draft Allocation Multisig Enigma Forum discussion](https://forum.enigma.co/t/token-swap-proposal/1364/84?u=moonstash)
 
 [Burn ENG for SCRT! Draft Allocation Multisig github discussion](https://github.com/secretnodes/secretnodes.org/issues/16)
 
