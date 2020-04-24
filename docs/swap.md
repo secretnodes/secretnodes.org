@@ -48,11 +48,15 @@ You can swap any tokens that you have control over. It does not matter if you pa
 
 ## Why will the Token Swap only be open for a limited window?
 
-The token swap requires ongoing efforts / coordination to ensure it runs smoothly. For this reason it doesn't seem reasonble to expect it to continue forever, everyone is committed to running the swap for a reasonable amount of time so everyone is assured to get a minimum of 90 days to swap once the process officially starts.
+The token swap requires ongoing efforts / coordination to ensure it runs smoothly. For this reason it doesn't seem reasonble to expect it to continue forever, everyone is committed to running the swap for a reasonable amount of time so everyone is assured to get a **minimum of 90 days** to swap once the process officially starts.
 
 ## What happens to my burned ENG?
 
 The ENG is provably sent to an address no one has control over by the end user or participating exchange. More details on the specifics will released as the process continues. A 3rd party overview on industry best practices can be found [here](https://cointelegraph.com/explained/token-burning-explained).
+
+## Will SCRT be listed on an exchange?
+
+As of 4/24/2020 SCRT is not listed on any exchanges. The only parties that can confirm a listing are exchanges, neither secretnodes.org or anyone else working on the community swap is making any assurances in regards to listing. Be sure to show your interest in a listing to exchanges.
 
 ## Can I convert my SCRT back to ENG if I change my mind?
 
