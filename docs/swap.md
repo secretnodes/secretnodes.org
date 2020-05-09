@@ -36,7 +36,7 @@ With this allocation we are ready to commit to starting the Burn ENG for SCRT pr
 
 ## Successful Testnet Burn ENG for SCRT Swap
 
-on 5/9/2020 the team of people working on "Burn ENG for SCRT!" successfully tested the swap on the Kamut testnet. [As seen here](https://puzzle-staging.secretnodes.org/enigma/chains/kamut-2/governance/proposals/1).
+On 5/9/2020 the team of people working on "Burn ENG for SCRT!" successfully tested the swap on the Kamut testnet. [As seen here](https://puzzle-staging.secretnodes.org/enigma/chains/kamut-2/governance/proposals/1).
 
 ## Swap FAQ
 
