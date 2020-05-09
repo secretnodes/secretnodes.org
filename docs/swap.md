@@ -34,7 +34,9 @@ With this allocation we are ready to commit to starting the Burn ENG for SCRT pr
 
 [Burn ENG for SCRT! Draft Allocation Multisig github discussion](https://github.com/secretnodes/secretnodes.org/issues/16)
 
-Please discuss and provide feedback. Comments will be open for a minimum of 5 days.
+## Successful Testnet Burn ENG for SCRT Swap
+
+on 5/9/2020 the team of people working on "Burn ENG for SCRT!" successfully tested the swap on the Kamut testnet. [As seen here](https://puzzle-staging.secretnodes.org/enigma/chains/kamut-2/governance/proposals/1).
 
 ## Swap FAQ
 
