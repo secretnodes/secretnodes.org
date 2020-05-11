@@ -64,6 +64,10 @@ As of 4/24/2020 SCRT is not listed on any exchanges. The only parties that can c
 
 No. This was designed to be a one way process and as such cannot be reversed.
 
+## Where can SCRT be stored?
+
+Secret (SCRT) can be stored on a [ledger hardware wallet](https://secretnodes.org/#/tutorials/ledger-nano-s) or on [mathwallet.org](http://blog.mathwallet.org/?p=1365). You will need to create a SCRT address in order to successfully complete the swap.
+
 ## What will happen to the ENG token?
 
 The only use of the ENG token going forward is through the Burn ENG for SCRT! There is no other use for ENG now and there will not be utility added in the future. [The Enigma team has stated they are committed to developing the enigma protocol powered by SCRT.](https://blog.enigma.co/the-enigma-mainnet-has-launched-3bd0d40fe80d)
