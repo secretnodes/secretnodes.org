@@ -11,6 +11,8 @@ Interested in staking your SCRT with us? [Stake!](https://secretnodes.org/#/stak
 
 [Jump right in and start learning!](https://secretnodes.org/#/enigma-quickstart).
 
+Looking for a telegram price channel? Look no further! [SCRT Community (Unofficial)](https://t.me/SCRTCommunity).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1NydoKd_Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Announcements
