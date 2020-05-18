@@ -1,6 +1,17 @@
-# HOWTO Rebranding
+# The Purple Haze Upgrade Proposal
 
-The [rebranding proposal](https://explorer.cashmaney.com/proposals/7) passed on-chain, and this mandates a hard fork.
+This proposal must specify perfectly:
+- Block number to fork from (can roughly be calculated)
+- Exactly what binaries are going to be used... how to compile or acquire them
+- What commands each validator must execute, in which order, and how to verify that each command was successfully executed
+- How to backup important files (like private keys) and how to revert to the old chain in case of a hard fork failure
+- Where and when can all validators coordinate the hard fork (preferably a single location to prevent fragmented coordination)
+
+
+
+### 0. How to Rebranding
+
+The [rebranding proposal](https://explorer.cashmaney.com/proposals/7) passed on-chain, and required changes are inlcluded on this hard fork.
 
 The network needs to decide on a block number to fork from.
 Since most nodes use `--pruning syncable` configuration, the node prunes most of the blocks, so state should be exported from a height that is a multiple of 100 (e.g. 100, 500, 131400, ...).
@@ -101,5 +112,6 @@ secretcli import <key_name> key.export
 
 
 ### number. Listen to Purple Haze.
+(This step is *required* for the upgrade to activate.)
 
 <iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/WGoDaYjdfSg?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</iframe>
