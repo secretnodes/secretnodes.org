@@ -308,21 +308,16 @@ single parameter, `max_validators`, that we're upgrading based on [proposal 10](
 
 ## Notes for Service Providers
 
-1. The transition from `cosmoshub-2` to `cosmoshub-3` contains an unusual amount of API breakage.
-   After this upgrade will maintain the CosmosSDK API stability guarantee to avoid breaking APIs for at
-   least 6 months and hopefully long.
-2. Anyone running signing infrastructure(wallets and exchanges) should be conscious that the `type:`
-   field on `StdTx` will have changed from `"type":"auth/StdTx","value":...` to  `"type":"cosmos-sdk/StdTx","value":...`
-3. As mentioned in the notes and SDK CHANGELOG, many queries to cosmos cli are wrapped with `height` fields now.
-4. We highly recommend standing up a [testnet](https://github.com/cosmos/gaia/blob/master/docs/deploy-testnet.md)
+1. The transition from `enigma` to `secret` causes both the prefix and tail end of the address change due to a checksum change.
+2. (change) We highly recommend standing up a [testnet](https://github.com/cosmos/gaia/blob/master/docs/deploy-testnet.md)
    with the `gaia-2.0` release or joining the gaia-13006 testnet. More info for joining the testnet can be
    found in the [riot validator room](https://riot.im/app/#/room/#cosmos-validators:matrix.org).
-5. We expect that developers with iOS or Android based apps may have to notify their users of downtime
+5. (change) We expect that developers with iOS or Android based apps may have to notify their users of downtime
    and ship an upgrade for cosmoshub-3 compatibility unless they have some kind of switch they can throw
    for the new tx formats. Server side applications should experience briefer service interruptions and
    be able to just spin up new nodes and migrate to the new apis.
 
-### number. Listen to Purple Haze.
+### Final Step Listen to Purple Haze.
 (This step is *required* for the upgrade to activate.)
 
 <iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/WGoDaYjdfSg?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</iframe>
