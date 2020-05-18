@@ -102,4 +102,4 @@ secretcli import <key_name> key.export
 
 ### number. Listen to Purple Haze.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WGoDaYjdfSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/WGoDaYjdfSg?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</iframe>
