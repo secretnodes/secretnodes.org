@@ -1,6 +1,10 @@
 # How to join the Enigma Blockhain as a mainnet validator
 
-### 1. [Run a new full node](https://secretnodes.org/#/tutorials/deploy-enigma-fullnode) on a new machine.
+### 1. Run a new full node
+
+[Setup a fullnode](https://secretnodes.org/#/tutorials/deploy-enigma-fullnode) on a new machine.
+
+Be sure to wait for the node to be fully syncd before continuing. This may take several hours. In the future there will be a quicksync service available for use.
 
 ### 2. Generate a new key pair for yourself (change `<key-alias>` with any word of your choice, this is just for your internal/personal reference):
 
