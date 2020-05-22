@@ -1,6 +1,6 @@
 # Purple Haze Upgrade Proposal
 
-![logo](https://docsify.js.org/_media/icon.svg ':size=50x100')
+![logo](_media/swap-kamut.png ':size=50x100')
 
 The following document describes the necessary steps involved that full-node operators
 must take in order to upgrade from `enigma` to `secret`. The Tendermint team
