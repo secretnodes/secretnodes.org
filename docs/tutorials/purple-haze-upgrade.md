@@ -2,6 +2,8 @@
 
 ![logo](_media/swap-kamut.png ':size=50x100')
 
+<img src="_media/swap-kamut.png" alt="swap test.>
+
 The following document describes the necessary steps involved that full-node operators
 must take in order to upgrade from `enigma` to `secret`. The Tendermint team
 will post an official updated genesis file, but it is recommended that validators
