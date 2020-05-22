@@ -1,0 +1,17 @@
+{
+    "title": "The Puzzle Proposal",
+    "description": "We aim to radically improve the ability of end-users to stay up to date on events that occur on the Secret Network. This proposal lays out our approach to solving for the biggest pain points around governance, assessing network performance, and tracking updates from projects in the ecosystem through the creation of Puzzle. \n\n IPFS copy of full proposal : https://gateway.pinata.cloud/ipfs/QmZqsiKb546BEcHGHVdwgeDyfJenFw7qQ36GRuqvr3XCVR\n\n Link to the Puzzle github https://github.com/secretnodes/puzzle",
+    "recipient": "enigma1irwrn2oi34jo2i42oi3h4o2i3h4o2i34o2ihio2",
+    "amount": [
+      {
+        "denom": "uscrt",
+        "amount": "1000000"
+      }
+    ],
+    "deposit": [
+      {
+        "denom": "uscrt",
+        "amount": "500000000"
+      }
+    ]
+  }
