@@ -1,6 +1,6 @@
 # The Romulus Upgrade Proposal
 
-![logo](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/swap-kamut.png ':size=350x220')
+![logo](https://vignette.wikia.nocookie.net/memoryalpha/images/6/61/Romulus%2C_The_Aenar.jpg ':size=350x220')
 
 The following document describes the necessary steps involved that full-node operators
 must take in order to upgrade from `enigma` to `secret`. The Tendermint team
