@@ -1,4 +1,4 @@
-# Purple Haze Upgrade Proposal
+# The Romulus Upgrade Proposal
 
 ![logo](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/swap-kamut.png ':size=350x220')
 
@@ -319,9 +319,5 @@ single parameter, `max_validators`, that we're upgrading based on [proposal 10](
    for the new tx formats. Server side applications should experience briefer service interruptions and
    be able to just spin up new nodes and migrate to the new apis.
 
-### Final Step Listen to Purple Haze.
-(This step is *required* for the upgrade to activate.)
-
-<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/WGoDaYjdfSg?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</iframe>
 
 Adapting from the [Cosmos Hub Upgrade Instructions 2](https://raw.githubusercontent.com/cosmos/gaia/master/docs/migration/cosmoshub-2.md) and the [EnigaBlockchain Secret Rebranding Readme](https://github.com/enigmampc/EnigmaBlockchain/tree/secret-rebranding).

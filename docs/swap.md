@@ -36,11 +36,11 @@ With this allocation we are ready to commit to starting the Burn ENG for SCRT pr
 
 On 5/9/2020 the team of people working on "Burn ENG for SCRT!" successfully tested the swap on the Kamut testnet. [As seen here](https://puzzle-staging.secretnodes.org/enigma/chains/kamut-2/governance/proposals/1).
 
-## Purple Haze Upgrade
+## The Romulus Upgrade
 
 Update 5/21/2020
 
-Before the swap can occure we will need to perform a network upgrade. This upgrade is being referred to as 'The Purple Haze Upgrade'. We aim to start the process to upgrade the network this month. We are now expecting the swap to occur towards mid June. There are still no issues that would prevent the swap from occuring, we will keep everyone informed of the progress of the network upgrade.
+Before the swap can occure we will need to perform a network upgrade. This upgrade is being referred to as 'The Romulus Upgrade'. We aim to start the process to upgrade the network this month. We are now expecting the swap to occur towards mid June. There are still no issues that would prevent the swap from occuring, we will keep everyone informed of the progress of the network upgrade.
 
 ## Swap FAQ
 
