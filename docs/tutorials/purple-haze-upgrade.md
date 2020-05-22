@@ -1,6 +1,6 @@
 # Purple Haze Upgrade Proposal
 
-![logo](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/swap-kamut.png ':size=120x250')
+![logo](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/swap-kamut.png ':size=250x120')
 
 The following document describes the necessary steps involved that full-node operators
 must take in order to upgrade from `enigma` to `secret`. The Tendermint team
