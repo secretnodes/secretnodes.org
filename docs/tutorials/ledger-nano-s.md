@@ -1,8 +1,10 @@
-# Use your Ledger with Enigma chain!
+# Use your Ledger with the Secret Network
+
+Note: This guide is for Ledger Nano S or Ledger Nano X.
 
 ## Prerequisites
 
-- This guide assumes you have a verified, genuine Ledger Nano S device.
+- This guide assumes you have a verified, genuine Ledger Nano S or X device.
 - If you don't, or you using your Ledger device for the first time, you should check Ledger's [Getting Started](https://support.ledger.com/hc/en-us/sections/360001415213-Getting-started) guide.
 - We also advise you to check your Ledger's genuineness and upgrade your firmware to the newest one available (`v1.6.0+`).
 - Have a machine with [Ledger Live](https://www.ledger.com/ledger-live) installed.
@@ -33,45 +35,47 @@ These are some basic examples of commands you can use with your Ledger. You may 
 ![](https://miro.medium.com/max/1536/1*Xfi5_ScAiFn6rr9YBjgFFw.jpeg)
 _Ref: https://medium.com/cryptium-cosmos/how-to-store-your-cosmos-atoms-on-your-ledger-and-delegate-with-the-command-line-929eb29705f_
 
-### Prepare your Linux host to work with ledger
+# Install the `enigmacli` Secret Network light client
 
-Some users may not have their ledger recognized by their Linux host. To fix this issue implement the fix for connection issues on Linux from the [ledger support page](https://support.ledger.com/hc/en-us/articles/115005165269-Connection-issues-with-Windows-or-Linux)
+1. Get the latest release of `enigmacli` for your OS: https://github.com/enigmampc/EnigmaBlockchain/releases/latest.
 
-```bash
-wget -q -O - https://raw.githubusercontent.com/LedgerHQ/udev-rules/master/add_udev_rules.sh | sudo bash
-```
+   ([How to verify releases](/docs/verify-releases.md))
 
-### Create an account
+2) Install:
 
-> Note: You can use any number you'd like for your account number. Be sure to remember the number you used, so you can recover if needed.
+   - Mac/Windows: Rename it from `enigmacli-${VERSION}-${OS}` to `enigmacli` or `enigmacli.exe` and put it in your path.
+   - Ubuntu/Debian: `sudo dpkg -i enigma*.deb`
 
-```bash
-enigmacli keys add <account name> --ledger --account <account number on your Ledger>
-```
+3) Configure:
 
-**:warning:Note:warning:: Please backup the mnemonics!**
+   ```bash
+   # Set the mainnet chain-id
+   enigmacli config chain-id enigma-1
+   ```
 
-### Display your account address
+   ```bash
+   enigmacli config output json
+   ```
 
-```bash
-enigmacli keys show -a <account name>
-```
+   ```bash
+   enigmacli config indent true
+   ```
 
-### Add an account to `enigmacli` that already exists on your Ledger
+   ```bash
+   # Set the full node address
+   enigmacli config node tcp://client.secretnodes.org:26657
+   ```
 
-_You'll use this when you, say, using a different machine._
+   ```bash
+   # Verify everything you receive from the full node
+   enigmacli config trust-node false
+   ```
 
-```bash
-enigmacli keys add <account name> --ledger --account <account number on your Ledger> --recover
-```
+4) Check the installation:
 
-**Note! If you run the above command without the `--ledger` flag, the CLI will prompt you to enter your BIP39 mnemonic, which is your Ledger recovery phrase. YOU DO NOT WANT TO DO THIS. This will essentially save your private key locally.**
-
-_Note: the commands below assume that you run them on the same machine where you have an Enigma Blockchain node running. However, if you need to connect to a remote Enigma Blockchain node (on the cloud) while you interact with your Ledger wallet locally, you will need to append the following to each command below:_
-
-```bash
---node http://node.domain:26657
-```
+   ```bash
+   enigmacli status
+   ```
 
 ### Send tokens
 
