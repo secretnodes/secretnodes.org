@@ -46,7 +46,7 @@ Before the swap can occure we will need to perform a network upgrade. This upgra
 
 ## When is the Token Swap?
 
-Contingent on the approval of the Draft Proposal "Burn ENG for SCRT! Allocation Multisig" we are committed to starting the whole process on mainnet by the end of May 2020 unless any issues arise that prevent us from doing so. We will be sure to keep everyone informed if we believe this can no longer be reached.
+The swap is expected to occur mid June 2020, after a network upgrade is completed.
 
 ## Can I swap my tokens even if I didn't participate in the ICO?
 

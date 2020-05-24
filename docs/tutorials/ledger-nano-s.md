@@ -39,8 +39,6 @@ _Ref: https://medium.com/cryptium-cosmos/how-to-store-your-cosmos-atoms-on-your-
 
 1. Get the latest release of `enigmacli` for your OS: https://github.com/enigmampc/EnigmaBlockchain/releases/latest.
 
-   ([How to verify releases](/docs/verify-releases.md))
-
 2) Install:
 
    - Mac/Windows: Rename it from `enigmacli-${VERSION}-${OS}` to `enigmacli` or `enigmacli.exe` and put it in your path.
