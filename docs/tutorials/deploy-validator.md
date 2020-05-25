@@ -107,4 +107,11 @@ enigmacli tx distribution withdraw-rewards $(enigmacli keys show --bech=val -a <
 
 Currently deleting a validator is not possible. If you redelegate or unbond your self-delegations then your validator will become offline and all your delegators will start to unbond.
 
+## Unjailing your validator
+
+Using the following command you can unjail your node.
+
+```bash
+enigmacli tx slashing unjail --from =<key-alias>
+```
 [Original Source](https://github.com/enigmampc/EnigmaBlockchain/blob/master/docs/validators-and-full-nodes/join-validator-mainnet.md)
