@@ -40,7 +40,7 @@ On 5/9/2020 the team of people working on "Burn ENG for SCRT!" successfully test
 
 Update 5/21/2020
 
-Before the swap can occure we will need to perform a network upgrade. This upgrade is being referred to as 'The Romulus Upgrade'. We aim to start the process to upgrade the network this month. We are now expecting the swap to occur towards mid June. There are still no issues that would prevent the swap from occuring, we will keep everyone informed of the progress of the network upgrade.
+Before the swap can occure we will need to perform a network upgrade. This upgrade is being referred to as 'The Romulus Upgrade'. We aim to start the process to upgrade the network May 2020. We are now expecting the swap to occur towards mid June. There are still no issues that would prevent the swap from occuring, we will keep everyone informed of the progress of the network upgrade.
 
 ## Swap FAQ
 
