@@ -15,3 +15,9 @@ You can redelagate from another validator to secretnodes.org by running the foll
 ```bash
 enigmacli tx staking redelegate <current-validator-enigmavaloper-address> enigmavaloper1hjd20hjvkx06y8p42xl0uzr3gr3ue3nkm7wj8z <amount>uscrt --from <delegator-Key-Name> --gas auto
 ```
+
+You can withdraw your staking rewards by running the following command with the CLI.
+
+```bash
+enigmacli tx distribution withdraw-all-rewards --from <delegator-Key-Name> --gas auto
+```
