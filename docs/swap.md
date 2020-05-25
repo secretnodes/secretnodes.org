@@ -24,7 +24,7 @@ Due to the risks of not knowing what SCRT will be worth when it goes to reimburs
 
 Timeline
 
-With this allocation we are ready to commit to starting the Burn ENG for SCRT process by the end of May 2020. With the progress we have made so far the only things left is to reach code completion, test everything works, audit the code, then deploy.
+With this allocation we are ready to commit to starting the Burn ENG for SCRT process by the end of May 2020. With the progress we have made so far the only things left is to reach code completion, test everything works, then deploy.
 
 [Full Draft Document & Details](https://github.com/secretnodes/secretnodes.org/blob/master/docs/papers/Secretnodes.org%20ENG%20Burn%20for%20SCRT!%20-%20Draft%20Allocation%20Multisig.pdf)
 
