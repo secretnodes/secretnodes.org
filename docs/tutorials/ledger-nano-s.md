@@ -125,4 +125,6 @@ enigmacli tx distribution withdraw-all-rewards --from <account name> --gas auto 
 enigmacli tx gov vote <proposal-id> <vote> --from <account name> --ledger
 ```
 
+Note : If you query your account balance and do not have any SCRT in your wallet, you will likely see errors. You can confirm you set things up correctly by trying to run "enigmacli status".
+
 [Original Source](https://github.com/enigmampc/EnigmaBlockchain/blob/master/docs/ledger-nano-s.md)
