@@ -35,14 +35,28 @@ These are some basic examples of commands you can use with your Ledger. You may 
 ![](https://miro.medium.com/max/1536/1*Xfi5_ScAiFn6rr9YBjgFFw.jpeg)
 _Ref: https://medium.com/cryptium-cosmos/how-to-store-your-cosmos-atoms-on-your-ledger-and-delegate-with-the-command-line-929eb29705f_
 
-# Install the `enigmacli` Secret Network light client
+# Install the enigmacli Secret Network light client
 
-1. Get the latest release of `enigmacli` for your OS: https://github.com/enigmampc/EnigmaBlockchain/releases/latest.
+Get the latest release of `enigmacli` for your OS: https://github.com/enigmampc/EnigmaBlockchain/releases/latest.
 
 2) Install:
 
    - Mac/Windows: Rename it from `enigmacli-${VERSION}-${OS}` to `enigmacli` or `enigmacli.exe` and put it in your path.
    - Ubuntu/Debian: `sudo dpkg -i enigma*.deb`
+
+2) Setup
+
+On OSX : Open terminal, and navigate to the directory with the binary you downloaded. You can do this by running the following command.
+
+```bash
+cd <type directory where binary is located>
+```
+
+On Windows : Open CMD, and navigate to the directory with the exe you downloaded. You can do this by running the following command.
+
+```bash
+cd <type directory where binary is located>
+```
 
 3) Configure:
 
