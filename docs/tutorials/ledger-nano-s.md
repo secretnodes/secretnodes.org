@@ -60,6 +60,18 @@ cd <type directory where binary is located>
 
 3) Configure:
 
+Note: On OSX add the following before "enigmacli"
+
+```bash
+./
+```
+
+The result should appear as such.
+
+```bash
+./enigmacli status
+```
+
    ```bash
    # Set the mainnet chain-id
    enigmacli config chain-id enigma-1
