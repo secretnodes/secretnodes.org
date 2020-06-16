@@ -44,6 +44,10 @@ Before the swap can occure we will need to perform a network upgrade. This upgra
 
 ## Swap FAQ
 
+## Why was the upgrade & swap delayed past May?
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TnlPtaPxXfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## When is the Token Swap?
 
 The swap is expected to occur mid June 2020, after a network upgrade is completed.
