@@ -50,7 +50,7 @@ Before the swap can occure we will need to perform a network upgrade. This upgra
 
 ## When is the Token Swap?
 
-The swap is expected to occur mid June 2020, after a network upgrade is completed.
+The swap is expected to occur late June 2020 and possibly early July, schedule revovles around the network upgrade.
 
 ## Can I swap my tokens even if I didn't participate in the ICO?
 
