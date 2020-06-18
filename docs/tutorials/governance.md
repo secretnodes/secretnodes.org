@@ -29,7 +29,7 @@ Various modules outside of governance may implement their own proposal types and
 To submit a `Text` proposal:
 
 ```bash
-enigmacli tx gov submit-proposal \
+secretcli tx gov submit-proposal \
   --title <title> \
   --description <description> \
   --type Text \
@@ -40,7 +40,7 @@ enigmacli tx gov submit-proposal \
 You may also provide the proposal directly through the `--proposal` flag which points to a JSON file containing the proposal:
 
 ```bash
-enigmacli tx gov submit-proposal \
+secretcli tx gov submit-proposal \
   --type Text \
   --proposal <path/to/proposal.json> \
   --from <key_alias>
@@ -64,7 +64,7 @@ Where `proposal.json` is:
 To submit a parameter change proposal, you must provide a proposal file as its contents are less friendly to CLI input:
 
 ```bash
-enigmacli tx gov submit-proposal param-change <path/to/proposal.json> --from <key_alias>
+secretcli tx gov submit-proposal param-change <path/to/proposal.json> --from <key_alias>
 ```
 
 Where `proposal.json` is:
@@ -102,13 +102,13 @@ The `SoftwareUpgrade` is currently not supported as it's not implemented and cur
 Once created, you can now query information of the proposal:
 
 ```bash
-enigmacli query gov proposal <proposal_id>
+secretcli query gov proposal <proposal_id>
 ```
 
 Or query all available proposals:
 
 ```bash
-enigmacli query gov proposals
+secretcli query gov proposals
 ```
 
 You can also query proposals filtered by `voter` or `depositor` by using the corresponding flags.
@@ -116,7 +116,7 @@ You can also query proposals filtered by `voter` or `depositor` by using the cor
 To query for the proposer of a given governance proposal:
 
 ```bash
-enigmacli query gov proposer <proposal_id>
+secretcli query gov proposer <proposal_id>
 ```
 
 ## Increase Deposit
@@ -124,7 +124,7 @@ enigmacli query gov proposer <proposal_id>
 If the proposal you previously created didn't meet the `MinDeposit` requirement, you can still increase the total amount deposited to activate it. Once the minimum deposit is reached, the proposal enters voting period:
 
 ```bash
-enigmacli tx gov deposit <proposal_id> "10000000uscrt" --from <key_alias>
+secretcli tx gov deposit <proposal_id> "10000000uscrt" --from <key_alias>
 ```
 
 _NOTE_: Proposals that don't meet this requirement will be deleted after `MaxDepositPeriod` is reached.
@@ -141,13 +141,13 @@ Anyone can deposit for a proposal, even if you have 0 `SCRT` tokens staked/deleg
 Once a new proposal is created, you can query all the deposits submitted to it:
 
 ```bash
-enigmacli query gov deposits <proposal_id>
+secretcli query gov deposits <proposal_id>
 ```
 
 You can also query a deposit submitted by a specific address:
 
 ```bash
-enigmacli query gov deposit <proposal_id> <depositor_address>
+secretcli query gov deposit <proposal_id> <depositor_address>
 ```
 
 ## Vote on a Proposal
@@ -155,7 +155,7 @@ enigmacli query gov deposit <proposal_id> <depositor_address>
 After a proposal's deposit reaches the `MinDeposit` value, the voting period opens. Bonded `SCRT` holders can then cast vote on it:
 
 ```bash
-enigmacli tx gov vote <proposal_id> <Yes/No/NoWithVeto/Abstain> --from <key_alias>
+secretcli tx gov vote <proposal_id> <Yes/No/NoWithVeto/Abstain> --from <key_alias>
 ```
 
 ## Query Votes
@@ -163,13 +163,13 @@ enigmacli tx gov vote <proposal_id> <Yes/No/NoWithVeto/Abstain> --from <key_alia
 Check the vote with the option you just submitted:
 
 ```bash
-enigmacli query gov vote <proposal_id> <voter_address>
+secretcli query gov vote <proposal_id> <voter_address>
 ```
 
 You can also get all the previous votes submitted to the proposal with:
 
 ```bash
-enigmacli query gov votes <proposal_id>
+secretcli query gov votes <proposal_id>
 ```
 
 ## Query proposal tally results
@@ -177,7 +177,7 @@ enigmacli query gov votes <proposal_id>
 To check the current tally of a given proposal you can use the `tally` command:
 
 ```bash
-enigmacli query gov tally <proposal_id>
+secretcli query gov tally <proposal_id>
 ```
 
 ## Query Governance Parameters
@@ -185,21 +185,21 @@ enigmacli query gov tally <proposal_id>
 To check the current governance parameters run:
 
 ```bash
-enigmacli query gov params
+secretcli query gov params
 ```
 
 To query subsets of the governance parameters run:
 
 ```bash
-enigmacli query gov param voting
+secretcli query gov param voting
 ```
 
 ```bash
-enigmacli query gov param tallying
+secretcli query gov param tallying
 ```
 
 ```bash
-enigmacli query gov param deposit
+secretcli query gov param deposit
 ```
 
 [Original Source](https://github.com/enigmampc/EnigmaBlockchain/blob/master/docs/using-governance.md)

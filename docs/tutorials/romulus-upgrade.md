@@ -145,14 +145,14 @@ Once more than 2/3 of voting power comes online you'll start seeing blocks strea
 journalctl -u secret-node -f
 ```
 
-If something goes wrong the network can relaunch the `enigma-node`, therefore it's not advisable to delete `~/.enigmad` & `~/.enigmacli` until the new chain is live and stable.
+If something goes wrong the network can relaunch the `enigma-node`, therefore it's not advisable to delete `~/.enigmad` & `~/.secretcli` until the new chain is live and stable.
 
 ### 8. Import wallet keys from the old chain to the new chain:
 
 (Ledger Nano S/X users shouldn't do anything, just use the new CLI with `--ledger --account <number>` as usual)
 
 ```bash
-enigmacli keys export <key_name>
+secretcli keys export <key_name>
 # this^ outputs stuff to stderr and also exports the key to stderr,
 # so copy only the private key output to a file named `key.export`
 
@@ -162,7 +162,7 @@ secretcli import <key_name> key.export
 ### 9. When the new chain is live and everything works well, you can delete the files of the old chain:
 
 - `rm -rf ~/.enigmad`
-- `rm -rf ~/.enigmacli`
+- `rm -rf ~/.secretcli`
 - `sudo dpkg -r enigma-blockchain`
 
 ## Risks

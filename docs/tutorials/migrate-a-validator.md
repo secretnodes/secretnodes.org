@@ -11,7 +11,7 @@ You can also back it up with:
 
 ```bash
 # On the validator node on the old machine:
-enigmacli keys export mykey > mykey.backup
+secretcli keys export mykey > mykey.backup
 ```
 
 ### 3. Recover the active key of the old machine on the new machine
@@ -20,14 +20,14 @@ This can be done with the mnemonics:
 
 ```bash
 # On the full node on the new machine:
-enigmacli keys add mykey --recover
+secretcli keys add mykey --recover
 ```
 
 Or with the backup file `mykey.backup` from the previous step:
 
 ```bash
 # On the full node on the new machine:
-enigmacli keys import mykey mykey.backup
+secretcli keys import mykey mykey.backup
 ```
 
 ### 4. Wait for the new full node on the new machine to finish catching-up.
@@ -36,7 +36,7 @@ To check on the new full node if it finished catching-up:
 
 ```bash
 # On the full node on the new machine:
-enigmacli status | jq .sync_info
+secretcli status | jq .sync_info
 ```
 
 (`catching_up` should equal `false`)
