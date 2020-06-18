@@ -44,7 +44,7 @@ ERROR: unknown address: account enigmaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx do
 ```bash
 secretcli tx staking create-validator \
   --amount=100000000000uscrt \
-  --pubkey=$(enigmad tendermint show-validator) \
+  --pubkey=$(secretd tendermint show-validator) \
   --commission-rate="0.10" \
   --commission-max-rate="0.20" \
   --commission-max-change-rate="0.01" \

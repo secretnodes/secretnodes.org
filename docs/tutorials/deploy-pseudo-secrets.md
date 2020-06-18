@@ -10,10 +10,10 @@ Sentry nodes can be quickly spun up or change their IP addresses. Because the li
 
 To setup your sentry node architecture you can follow the instructions below:
 
-Validators nodes should edit their .enigmad/config/config.toml:
+Validators nodes should edit their .secretd/config/config.toml:
 
 ```bash
-nano /.enigmad/config/config.toml
+nano /.secretd/config/config.toml
 ```
 
 Proceed to make the following changes.

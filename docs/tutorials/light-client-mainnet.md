@@ -7,13 +7,13 @@
 2) Install:
 
    - Mac/Windows: Rename it from `secretcli-${VERSION}-${OS}` to `secretcli` or `secretcli.exe` and put it in your path.
-   - Ubuntu/Debian: `sudo dpkg -i enigmachain*.deb`
+   - Ubuntu/Debian: `sudo dpkg -i SecretNetwork*.deb`
 
 3) Configure:
 
    ```bash
    # Set the mainnet chain-id
-   secretcli config chain-id enigma-1
+   secretcli config chain-id secret-1
    ```
 
    ```bash

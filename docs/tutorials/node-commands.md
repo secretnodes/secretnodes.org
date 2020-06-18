@@ -29,8 +29,8 @@ There are three types of key representations that are used:
   - e.g. `enigmapub1zcjduc3q7fu03jnlu2xpl75s2nkt7krm6grh4cc5aqth73v0zwmea25wj2hsqhlqzm`
   -
 - `enigmavalconspub`
-  - Generated when the node is created with `enigmad init`.
-  - Get this value with `enigmad tendermint show-validator`
+  - Generated when the node is created with `secretd init`.
+  - Get this value with `secretd tendermint show-validator`
   - e.g. `enigmavalconspub1zcjduepq0ms2738680y72v44tfyqm3c9ppduku8fs6sr73fx7m666sjztznqzp2emf`
 
 #### Generate Keys
@@ -90,7 +90,7 @@ secretcli keys list
 View the validator pubkey for your node by typing:
 
 ```bash
-enigmad tendermint show-validator
+secretd tendermint show-validator
 ```
 
 Note that this is the Tendermint signing key, _not_ the operator key you will use in delegation transactions.
@@ -441,7 +441,7 @@ secretcli q staking validator <validator-address>
 
 ##### Bond Tokens
 
-On the EnigmaChain mainnet, we delegate `uscrt`, where `1scrt = 1000000uscrt`. Here's how you can bond tokens to a validator (_i.e._ delegate):
+On the SecretNetwork mainnet, we delegate `uscrt`, where `1scrt = 1000000uscrt`. Here's how you can bond tokens to a validator (_i.e._ delegate):
 
 ```bash
 secretcli tx staking delegate \
@@ -465,7 +465,7 @@ secretcli tx staking delegate \
 secretcli keys show <key-alias> --bech val
 ```
 
-where `<key-alias>` is the name of the key you specified when you initialized `enigmad`.
+where `<key-alias>` is the name of the key you specified when you initialized `secretd`.
 
 While tokens are bonded, they are pooled with all the other bonded tokens in the network. Validators and delegators obtain a percentage of shares that equal their stake in this pool.
 
@@ -804,19 +804,19 @@ secretcli tx broadcast signedTx.json
 
 Completion scripts for popular UNIX shell interpreters such as `Bash` and `Zsh`
 can be generated through the `completion` command, which is available for both
-`enigmad` and `secretcli`.
+`secretd` and `secretcli`.
 
 If you want to generate `Bash` completion scripts run the following command:
 
 ```bash
-enigmad completion > enigmad_completion
+secretd completion > secretd_completion
 secretcli completion > secretcli_completion
 ```
 
 If you want to generate `Zsh` completion scripts run the following command:
 
 ```bash
-enigmad completion --zsh > enigmad_completion
+secretd completion --zsh > secretd_completion
 secretcli completion --zsh > secretcli_completion
 ```
 
@@ -825,7 +825,7 @@ On most UNIX systems, such scripts may be loaded in `.bashrc` or
 `.bash_profile` to enable Bash autocompletion:
 
 ```bash
-echo '. enigmad_completion' >> ~/.bashrc
+echo '. secretd_completion' >> ~/.bashrc
 echo '. secretcli_completion' >> ~/.bashrc
 ```
 

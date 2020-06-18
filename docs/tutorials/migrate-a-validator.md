@@ -57,13 +57,13 @@ sudo systemctl stop enigma-node
 
 ### 6. Move the validator's private key from the old machine to the new machine.
 
-On the old machine the file is `~/.enigmad/config/priv_validator_key.json`.
+On the old machine the file is `~/.secretd/config/priv_validator_key.json`.
 
 You can copy it manually or for example you can copy the file to the new machine using ssh:
 
 ```bash
 # On the validator node on the old machine:
-scp ~/.enigmad/config/priv_validator_key.json ubuntu@new_machine_ip:~/.enigmad/config/priv_validator_key.json
+scp ~/.secretd/config/priv_validator_key.json ubuntu@new_machine_ip:~/.secretd/config/priv_validator_key.json
 ```
 
 ### 7. On the new server start the new full node which is now your validator node.
