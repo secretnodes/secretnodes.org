@@ -3,7 +3,7 @@
 Hello everyone! It's been a long journey we've had since the [Secret Network launched in Feb 2020](https://blog.enigma.co/the-enigma-mainnet-has-launched-3bd0d40fe80d?source=collection_home---4------0-----------------------). Since then the community has been working tirelessly to achieve a decenteralized token swap from ENG to SCRT. Here is a recap of the chain of events since launch.
 
 
-## Chain Of Events
+## Swap Related Proposals
 
 1. [Unify The Enigma Community](https://puzzle.report/secret/chains/secret-1/governance/proposals/2)
 2. ["Burn ENG for SCRT!"](https://puzzle.report/secret/chains/secret-1/governance/proposals/4)
