@@ -42,6 +42,10 @@ On June 17th, 2020 the Secret Network was succesfully upgraded. Shortly after [T
 
 [independent 3rd Party Verification of Upgrade](https://ipfs.io/ipfs/QmPgHFFia64tEPQm91nV2S4bwW47d3hRMt4rmYyntTCDpA)
 
+## What's next?
+
+https://secretswap.io
+
 ## Swap FAQ
 
 ## Why was the upgrade & swap delayed past May?
