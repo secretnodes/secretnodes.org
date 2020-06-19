@@ -40,6 +40,8 @@ On 5/9/2020 the team of people working on "Burn ENG for SCRT!" successfully test
 
 On June 17th, 2020 the Secret Network was succesfully upgraded. Shortly after [The swap proposal](https://explorer.cashmaney.com/proposals/14) was made on mainnet. With this recent major milestone completed the swap will go live at the end of June. More information around this will follow before the swap begins.
 
+[independent 3rd Party Verification of Upgrade](https://ipfs.io/ipfs/QmPgHFFia64tEPQm91nV2S4bwW47d3hRMt4rmYyntTCDpA)
+
 ## Swap FAQ
 
 ## Why was the upgrade & swap delayed past May?
