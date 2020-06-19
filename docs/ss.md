@@ -17,6 +17,8 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 
 https://secretswap.io will have a swap page that enables end-users to burn their own ENG for SCRT once the proposal successfully passes. We plan to finish the proposal deposit on June 20th, 2020 which will take it into the voting period, then it will take 7 days to pass or fail to make the go-live date June 27th, 2020.
 
+<iframe src="https://giphy.com/embed/tzHn7A5mohSfe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/puppet-soon-lul-tzHn7A5mohSfe"></a></p>
+
 ## What should I do?
 
 If you have ENG you are wishing to burn for SCRT, then please show exchanges your support for the swap by linking them to https://secretswap.io and asking them to support the swap. We've been actively having conversations with exchanges and have gotten good feedback along the way but you can help move things along by showing your support via twitter, email, or other channels for your favorite exchanges. Since we cannot speak on behalf of Binance or other exchanges, all communications regarding if they plan to support or not will have to come directly from the exchange itself.
