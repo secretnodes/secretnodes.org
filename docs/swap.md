@@ -38,9 +38,7 @@ On 5/9/2020 the team of people working on "Burn ENG for SCRT!" successfully test
 
 ## The Romulus Upgrade
 
-Update June 2020
-
-Before the swap can occure we will need to perform a network upgrade. This upgrade is being referred to as 'The Romulus Upgrade'. We aim to perform the network upgrade on June 17th 2020. Provided the upgrade goes well, secretnodes.org will submit the swap proposal on chain following the upgrade on the June 17th. There are still no issues that would prevent the swap from occuring, we will keep everyone informed of the progress of the network upgrade.
+On June 17th, 2020 the Secret Network was succesfully upgraded. Shortly after [The swap proposal](https://explorer.cashmaney.com/proposals/14) was made on mainnet. With this recent major milestone completed the swap will go live at the end of June. More information around this will follow before the swap begins.
 
 ## Swap FAQ
 
