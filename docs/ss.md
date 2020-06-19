@@ -15,7 +15,7 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 
 ## What's next?
 
-https://secretswap.io will have a swap page that enables end users to burn their own ENG for SCRT once the proposal successfully passes. We plan to finish the proposal deposit on June 20th 2020 which will take it into the voting period, then it will take 7 days to pass or fail making the go live date June 27th 2020.
+https://secretswap.io will have a swap page that enables end-users to burn their own ENG for SCRT once the proposal successfully passes. We plan to finish the proposal deposit on June 20th, 2020 which will take it into the voting period, then it will take 7 days to pass or fail to make the go-live date June 27th, 2020.
 
 ## What should I do?
 
@@ -28,3 +28,7 @@ Provided [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secre
 [Enigma Forums Swap Thread](https://forum.enigma.co/t/token-swap-proposal/1364)
 
 To participate in real time discussions around proposals made on the Enigma Blockchain join us in [Secret.Foundation](https://t.me/secretfoundation)
+
+## ⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️
+
+THE ONLY OFFICIAL SITE TO SWAP IS https://secretswap.io NO OTHER SITE WILL BE CONSIDERED FOR ANY REASON. WE WILL COMMUNICATE OFFICIAL EXCHANGE SUPPORT FOR ANY EXCHANGES WHO ANNOUNCE THEIR SUPPORT PUBLICLY.
