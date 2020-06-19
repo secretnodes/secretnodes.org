@@ -23,7 +23,7 @@ If you have ENG you are wishing to burn for SCRT, then please show exchanges you
 
 ## What will go live on the go live date?
 
-Provided [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14) passes, nn June 27th 2020 https://secretswap.io will have a page that allows users to burn their own ENG for SCRT at a 1:1 ratio.
+Provided [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14) passes, then on June 27th 2020 https://secretswap.io will have a page that allows users to burn their own ENG for SCRT at a 1:1 ratio.
 
 [Enigma Forums Swap Thread](https://forum.enigma.co/t/token-swap-proposal/1364)
 
