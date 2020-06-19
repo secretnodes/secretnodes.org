@@ -17,7 +17,7 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 
 https://secretswap.io will have a swap page that enables end-users to burn their own ENG for SCRT once the proposal successfully passes. We plan to finish the proposal deposit on June 20th, 2020 which will take it into the voting period, then it will take 7 days to pass or fail to make the go-live date June 27th, 2020.
 
-<img src="assets/images/soon.jpg" alt="SOON">
+<img src="_media/soon.gif" alt="SOON">
 
 ## What should I do?
 
