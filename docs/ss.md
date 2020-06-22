@@ -18,7 +18,7 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 https://secretswap.io will have a swap page that enables end-users to burn their own ENG for SCRT once the proposal successfully passes. We plan to finish the proposal deposit on June 20th, 2020 which will take it into the voting period, then it will take 7 days to pass or fail to make the go-live date June 27th, 2020.
 
 ## Exchange Support
-Once the swap is active and users can participate, we will be working to support exchanges that are assessing adding exchange support for the token swap. **So far the feedback we've gotten from exchanges is that they need time to assess the swap while it's live before they are able to support it**. Please note that before exchange support is live, users will already be able to independently participate in the swap at http://secretswap.io.
+Once the swap is active and users can participate, we will be working to support exchanges that are assessing adding exchange support for the token swap. **So far the feedback we've gotten is that time is needed to assess the swap while it's live on mainnet before exchanges can support it**. Please note that before exchange support is live, users will already be able to independently participate in the swap at http://secretswap.io.
 
 ## What should I do?
 
