@@ -24,7 +24,7 @@ secretcli keys show <keyalias> --bech=val -a
 
 ## Follow node logs to debug (exit with Ctrl-C)
 ```bash
-journalctl -f -u enigma-node
+journalctl -f -u secret-node
 ```
 
 ## Query account

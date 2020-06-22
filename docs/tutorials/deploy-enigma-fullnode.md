@@ -69,22 +69,22 @@ perl -i -pe 's/persistent_peers = ""/persistent_peers = "201cff36d13c6352acfc4a3
 perl -i -pe 's/laddr = .+?26657"/laddr = "tcp:\/\/0.0.0.0:26657"/' ~/.secretd/config/config.toml
 ```
 
-### 9. Enable `enigma-node` as a system service:
+### 9. Enable `secret-node` as a system service:
 
 ```
-sudo systemctl enable enigma-node
+sudo systemctl enable secret-node
 ```
 
-### 10. Start `enigma-node` as a system service:
+### 10. Start `secret-node` as a system service:
 
 ```
-sudo systemctl start enigma-node
+sudo systemctl start secret-node
 ```
 
 ### 11. If everything above worked correctly, the following command will show your node streaming blocks (this is for debugging purposes only, kill this command anytime with Ctrl-C):
 
 ```bash
-journalctl -f -u enigma-node
+journalctl -f -u secret-node
 ```
 
 ```

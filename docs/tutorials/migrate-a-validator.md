@@ -47,12 +47,12 @@ To prevert double signing, you should stop the validator node and only then stop
 
 ```bash
 # On the validator node on the old machine:
-sudo systemctl stop enigma-node
+sudo systemctl stop secret-node
 ```
 
 ```bash
 # On the full node on the new machine:
-sudo systemctl stop enigma-node
+sudo systemctl stop secret-node
 ```
 
 ### 6. Move the validator's private key from the old machine to the new machine.
@@ -70,7 +70,7 @@ scp ~/.secretd/config/priv_validator_key.json ubuntu@new_machine_ip:~/.secretd/c
 
 ```bash
 # On the new machine:
-sudo systemctl start enigma-node
+sudo systemctl start secret-node
 ```
 
 [Original Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/migrate-a-vlidator.md)
