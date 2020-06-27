@@ -38,6 +38,14 @@ It's already live.
 
 To participate in real time discussions around proposals made on the Enigma Blockchain join us in [Secret.Foundation](https://t.me/secretfoundation)
 
+## How do I connect my ledger to metamask?
+
+[Here is a guide you can use to connect your Ledger to metamask so you can burn ENG stored on your Ledger](https://medium.com/metamask/metamask-now-supports-ledger-hardware-wallets-847f4d51546)
+
+## Is metamask required to burn?
+
+Currently yes.
+
 ## ⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️
 
 THE ONLY OFFICIAL SITE TO SWAP IS https://secretswap.io NO OTHER SITE SHOULD BE CONSIDERED AS OFFICIAL FOR ANY REASON WHATSOEVER. WE WILL COMMUNICATE OFFICIAL EXCHANGE SUPPORT FOR ANY EXCHANGES WHO ANNOUNCE THEIR SUPPORT PUBLICLY.
