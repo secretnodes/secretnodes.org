@@ -1,8 +1,10 @@
-# How to use `secretcli` as an Enigma Blockchain light client
+# How to use secretcli as an Enigma Blockchain light client
 
-1. Get the latest release of `secretcli` for your OS: https://github.com/enigmampc/EnigmaBlockchain/releases/latest.
+1. Download the [Secret Network package installer](https://github.com/secretnodes/TheRomulusUpgrade/releases/download/v0.2.0/secretnetwork_0.2.0_amd64.deb) (Debian/Ubuntu):
 
-   ([How to verify releases](/docs/verify-releases.md))
+```bash
+wget https://github.com/secretnodes/TheRomulusUpgrade/releases/download/v0.2.0/secretnetwork_0.2.0_amd64.deb
+```
 
 2) Install:
 
