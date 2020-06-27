@@ -11,7 +11,6 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 4. [Burn ENG for SCRT Budget Allocation](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/6)
 5. [Romulus Upgrade Signal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/11)
 6. [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14)
-6. [Token Swap Watcher](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/15)
 
 ## How to Burn your ENG for SCRT?!?!?
 
@@ -24,6 +23,10 @@ Once the swap is active and users can participate, we will be working to support
 ## What should I do?
 
 If you have ENG you are wishing to burn for SCRT, then please show exchanges your support for the swap by linking them to https://secretswap.io and asking them to support the swap. We've been actively having conversations with exchanges and have gotten good feedback along the way but you can help move things along by showing your support via twitter, email, or other channels for your favorite exchanges. Since we cannot speak on behalf of Binance or other exchanges, all communications regarding if they plan to support or not will have to come directly from the exchange itself.
+
+## How long do I have to swap?
+
+As stated in [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14), everyone will have until the end of 2020.
 
 ## What will go live on the go live date?
 
