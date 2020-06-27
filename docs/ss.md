@@ -42,6 +42,12 @@ To participate in real time discussions around proposals made on the Enigma Bloc
 
 [Here is a guide you can use to connect your Ledger to metamask so you can burn ENG stored on your Ledger](https://medium.com/metamask/metamask-now-supports-ledger-hardware-wallets-847f4d51546)
 
+## Enable browser support for ledger
+
+1. Connect your Nano S or your Nano X.
+2. Open the Ethereum app on the device itself by pressing both buttons.
+3. Enable the "Browser support" setting.
+
 ## Is metamask required to burn?
 
 Currently yes.
