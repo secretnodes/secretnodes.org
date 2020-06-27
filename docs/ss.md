@@ -13,9 +13,10 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 6. [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14)
 6. [Token Swap Watcher](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/15)
 
-## What's next?
+## How to Burn your ENG for SCRT?!?!?
 
-https://secretswap.io will have a swap page that enables end-users to burn their own ENG for SCRT once the proposal successfully passes. We plan to finish the proposal deposit on June 20th, 2020 which will take it into the voting period, then it will take 7 days to pass or fail to make the go-live date June 27th, 2020.
+<iframe src="https://player.vimeo.com/video/433185106" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/433185106">BURN ENG FOR SCRT?!?!</a> from <a href="https://vimeo.com/secretnodes">Secret Nodes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Exchange Support
 Once the swap is active and users can participate, we will be working to support exchanges that are assessing adding exchange support for the token swap. **So far the feedback we've gotten is that time is needed to assess the swap while it's live on mainnet before exchanges can support it**. Please note that before exchange support is live, users will already be able to independently participate in the swap at http://secretswap.io.
@@ -26,7 +27,7 @@ If you have ENG you are wishing to burn for SCRT, then please show exchanges you
 
 ## What will go live on the go live date?
 
-Provided [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14) passes, then on June 27th 2020 https://secretswap.io will have a page that allows users to burn their own ENG for SCRT at a 1:1 ratio.
+It's already live.
 
 <img src="_media/soon.gif" alt="SOON">
 
