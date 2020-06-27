@@ -42,6 +42,10 @@ To participate in real time discussions around proposals made on the Enigma Bloc
 
 [Here is a guide you can use to connect your Ledger to metamask so you can burn ENG stored on your Ledger](https://medium.com/metamask/metamask-now-supports-ledger-hardware-wallets-847f4d51546)
 
+## How do I add ENG to metamask?
+
+You can store your ENG in metamask for the swap by using [this guide from metamask.](https://metamask.zendesk.com/hc/en-us/articles/360015489031-How-to-View-See-Your-Tokens-in-Metamask)
+
 ## Enable browser support for ledger
 
 1. Connect your Nano S or your Nano X.
