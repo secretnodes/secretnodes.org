@@ -47,4 +47,12 @@ wget https://github.com/secretnodes/TheRomulusUpgrade/releases/download/v0.2.0/s
    secretcli status
    ```
 
+5) Create a SCRT address with the light client.
+
+```
+secretcli keys add <pick-a-key-name>
+```
+
+<iframe src="https://player.vimeo.com/video/433411685" width="640" height="456" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 [Original Source](https://github.com/enigmampc/EnigmaBlockchain/blob/master/docs/ligth-client-mainnet.md)
