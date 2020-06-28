@@ -101,6 +101,13 @@ The result should appear as such.
    secretcli status
    ```
 
+
+### See your SCRT address
+
+```bash
+secretcli keys list
+```
+
 ### Send tokens
 
 ```bash
