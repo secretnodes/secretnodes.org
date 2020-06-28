@@ -132,6 +132,13 @@ secretcli tx distribution withdraw-all-rewards --from <account name> --gas auto 
 secretcli tx gov vote <proposal-id> <vote> --from <account name> --ledger
 ```
 
+## Troubleshooting
+
+If you are on OSX and you get permission errors when trying to use the CLI, then try this.
+```
+sudo chmod +x secretcli
+```
+
 Note : If you query your account balance and do not have any SCRT in your wallet, you will likely see errors. You can confirm you set things up correctly by trying to run "secretcli status".
 
 [Original Source](https://github.com/enigmampc/EnigmaBlockchain/blob/master/docs/ledger-nano-s.md)
