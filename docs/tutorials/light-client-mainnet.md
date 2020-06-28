@@ -13,6 +13,11 @@ wget https://github.com/secretnodes/TheRomulusUpgrade/releases/download/v0.2.0/s
 
 3) Configure:
 
+   If you are on OSX run this to give secretcli permissions to run. Be sure you renamed the downloaded file to secretcli.
+   ```
+   sudo chmod +x secretcli
+   ```
+
    ```bash
    # Set the mainnet chain-id
    secretcli config chain-id secret-1

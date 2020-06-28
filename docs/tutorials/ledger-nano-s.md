@@ -52,6 +52,11 @@ On OSX : Open terminal, and navigate to the directory with the binary you downlo
 cd <type directory where binary is located>
 ```
 
+If you are on OSX run this to give secretcli permissions to run. Be sure you renamed the downloaded file to secretcli.
+```
+sudo chmod +x secretcli
+```
+
 On Windows : Open CMD, and navigate to the directory with the exe you downloaded. You can do this by running the following command.
 
 ```bash
@@ -130,13 +135,6 @@ secretcli tx distribution withdraw-all-rewards --from <account name> --gas auto 
 
 ```bash
 secretcli tx gov vote <proposal-id> <vote> --from <account name> --ledger
-```
-
-## Troubleshooting
-
-If you are on OSX and you get permission errors when trying to use the CLI, then try this.
-```
-sudo chmod +x secretcli
 ```
 
 Note : If you query your account balance and do not have any SCRT in your wallet, you will likely see errors. You can confirm you set things up correctly by trying to run "secretcli status".
