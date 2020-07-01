@@ -52,6 +52,12 @@ You can store your ENG in metamask for the swap by using [this guide from metama
 2. Open the Ethereum app on the device itself by pressing both buttons.
 3. Enable the "Browser support" setting.
 
+## Enable contract support for ledger
+
+1. Connect your Nano S or your Nano X.
+2. Open the Ethereum app on the device itself by pressing both buttons.
+3. Enable the "Contract support" setting.
+
 ## Is metamask required to burn?
 
 Currently yes.
