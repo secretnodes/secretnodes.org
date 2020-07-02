@@ -107,7 +107,16 @@ The result should appear as such.
    ```
 
 
+### Add your Ledger Address
+Remember to save your address once you do this so you know what it is!
+
+```bash
+secretcli keys add <keys-alias> --ledger 
+```
+
 ### See your SCRT address
+
+Note: this will not work if you have a zero balance.
 
 ```bash
 secretcli keys list
@@ -138,5 +147,3 @@ secretcli tx gov vote <proposal-id> <vote> --from <account name> --ledger
 ```
 
 Note : If you query your account balance and do not have any SCRT in your wallet, you will likely see errors. You can confirm you set things up correctly by trying to run "secretcli status".
-
-[Original Source](https://github.com/enigmampc/EnigmaBlockchain/blob/master/docs/ledger-nano-s.md)
