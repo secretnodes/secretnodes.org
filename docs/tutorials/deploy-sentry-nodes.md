@@ -1,4 +1,4 @@
-## Pseudo Secrets (Sentry Nodes)
+## Sentry Nodes
 
 Secret Nodes (Validators) are responsible for ensuring that the network can sustain denial of service attacks.
 
@@ -36,5 +36,3 @@ Sentry Nodes should edit their config.toml:
 # Example ID: 3e16af0cead27979e1fc3dac57d03df3c7a77acc@3.87.179.235:26656
 private_peer_ids = "node_ids_of_private_peers"
 ```
-
-[Source](https://github.com/enigmampc/enigmablockchainblob/master/docs/validators-and-full-nodes/sentry-nodes.md)

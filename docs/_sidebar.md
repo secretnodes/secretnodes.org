@@ -23,14 +23,15 @@
   - [Prepare your host machine](tutorials/prepare-your-host-machine.md "Prepare your host machine")
   - [Deploy an Enigma Full Node](tutorials/deploy-enigma-fullnode.md "Deploy an Enigma Full Node")
   - [Deploy a Validator on Mainnet](tutorials/deploy-validator.md "Deploy a Secret Node on Mainnet")
+  - [Deploy Sentry Nodes](tutorials/deploy-sentry-nodes.md "Deploy Sentry Nodes.")
 
 - Guides
-  - [Participate in Governance](tutorials/governance.md "How to participate in on-chain governance.")
   - [Ledger Hardware Wallet](tutorials/ledger-nano-s.md "Ledger Hardware Wallet Support")
   - [Light client](tutorials/light-client-mainnet.md "Light client setup.")
-  - [Node Commands](tutorials/node-commands.md "Commands to run on your Enigma Blockchain Node.")
+  - [Backup a Validator](tutorials/backup-a-validator.md "Backup a Validator.")
+  - [Participate in Governance](tutorials/governance.md "How to participate in on-chain governance.")
+  
 
 - Other
-  - [Our Approach](misc/community-first-approach.md)
   - [Community Rules](rules.md)
   - [Privacy Policy](privacy-policy.md)
