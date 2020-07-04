@@ -4,18 +4,11 @@
   - [Enigma Overview](enigma-quickstart.md "What is Enigma?")
   - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
   - [Swap](swap.md "When swap?")
-  <!-- - [The Genesis Games](genesisgames-overview.md "Genesis Games Overview") -->
-  <!-- - [Testnet Info](testnet.md "Enigma Testnet Information") -->
-  <!-- - [Rewards Overview](rewards-overview.md "Rewards Overview") -->
-  <!-- - [Utility](utility-overview.md "Utility Overview") -->
   - [FAQ](faq.md "FAQ")
-  - [Governance](https://explorer.mainnet.enigma.co/proposals "Proposals on the Enigma Blockhain Mainnet")
+  - [Governance](https://puzzle.report/secret/chains/secret-1/governance "Proposals on the Enigma Blockhain Mainnet")
   - [Warrant Cannary](secret-warrant-canary.md "Warrant Canary")
 
-- Secret Projects
-  - [SafeTrace](https://github.com/enigmampc/safetrace)
-  - [Salad](https://github.com/enigmampc/salad)
-  - [Stake](stake.md)
+- Projects
   - [Puzzle](https://puzzle.report)
 
 - Deploy
