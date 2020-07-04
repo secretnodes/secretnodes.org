@@ -19,6 +19,7 @@
   - [Deploy Sentry Nodes](tutorials/deploy-sentry-nodes.md "Deploy Sentry Nodes.")
 
 - Guides
+  <!--  - [How to swap with you Ledger](tutorials/ledger-swap.md "Swap ENG for SCRT on your Ledger") ---->
   - [Ledger Hardware Wallet](tutorials/ledger-nano-s.md "Ledger Hardware Wallet Support")
   - [Light client](tutorials/light-client-mainnet.md "Light client setup.")
   - [Backup a Validator](tutorials/backup-a-validator.md "Backup a Validator.")
