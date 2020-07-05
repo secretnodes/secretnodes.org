@@ -17,10 +17,10 @@ This document details how to join the Enigma Blockchain `mainnet` as a validator
 - Open ports `TCP 26656 & 26657` _Note: If you're behind a router or firewall then you'll need to port forward on the network device._
 - Reading https://docs.tendermint.com/master/tendermint-core/running-in-production.html
 
-### 1. Download the [Enigma Blockchain package installer](https://github.com/secretnodes/TheRomulusUpgrade/releases/download/v0.2.0/secretnetwork_0.2.0_amd64.deb) (Debian/Ubuntu):
+### 1. Download the [Secret Network package installer](https://github.com/enigmampc/SecretNetwork/releases/download/v0.2.1/secretnetwork_0.2.1_amd64.deb) (Debian/Ubuntu):
 
 ```bash
-wget https://github.com/secretnodes/TheRomulusUpgrade/releases/download/v0.2.0/secretnetwork_0.2.0_amd64.deb
+wget https://github.com/enigmampc/SecretNetwork/releases/download/v0.2.1/secretnetwork_0.2.1_amd64.deb
 ```
 
 ([How to verify releases](/docs/verify-releases.md))
@@ -28,7 +28,7 @@ wget https://github.com/secretnodes/TheRomulusUpgrade/releases/download/v0.2.0/s
 ### 2. Install the package:
 
 ```bash
-sudo dpkg -i secretnetwork_0.2.0_amd64.deb
+sudo dpkg -i secretnetwork_0.2.1_amd64.deb
 ```
 
 ### 3. Initialize your installation of the Enigma Blockchain. Choose a **moniker** for yourself that will be public, and replace `<MONIKER>` with your moniker below
@@ -40,7 +40,7 @@ secretd init <MONIKER> --chain-id secret-1
 ### 4. Download a copy of the Genesis Block file: `genesis.json`
 
 ```bash
-wget -O ~/.secretd/config/genesis.json "https://raw.githubusercontent.com/secretnodes/TheRomulusUpgrade/romulus-upgrade/secret-1-genesis.json"
+wget -O ~/.secretd/config/genesis.json "https://raw.githubusercontent.com/enigmampc/SecretNetwork/master/secret-1-genesis.json"
 ```
 
 ### 5. Validate the checksum for the `genesis.json` file you have just downloaded in the previous step:

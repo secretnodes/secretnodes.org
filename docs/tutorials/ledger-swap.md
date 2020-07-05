@@ -29,23 +29,7 @@ _Ref: https://github.com/cosmos/ledger-cosmos_
 
 ## Get your Ledger SCRT address.
 
-1. Go to Puzzle and create an account by clicking signup in the top right corner.
-
-<img src="_media/puzzle-1.png">
-
-2. Fill in the information for your account.
-
-<img src="_media/puzzle-2.png">
-
-3. Check your email as instructed.
-
-<img src="_media/puzzle-3.png">
-
-4. Click the link in your email to activate your Puzzle account. Then Get started!
-
-<img src="_media/puzzle-4.png">
-
-5. Now select the Node you would like to stake with.
+1. Go to Puzzle and select the Node you would like to stake with.
 
 <img src="_media/puzzle-5.png">
 
