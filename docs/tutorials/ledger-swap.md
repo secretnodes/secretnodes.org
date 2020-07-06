@@ -55,8 +55,6 @@ Note. If you are stuck on connect, please make sure your ledger has the cosmos a
 
 6. Put an amount of ENG to burn.
 
-Note: Only use full numbers.
-
 <img src="_media/secretswap-3.png">
 
 7. Read the terms of use.
