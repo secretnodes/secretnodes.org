@@ -131,8 +131,6 @@ Shortly after the burn transaction finalizes on the ethereum network, you will b
 
 If you'd like to stake, here is how you can with Puzzle!
 
-Currently secretnodes.org is the largest node by a long shot. **So we are reccomending users stake to "Quiet Monkey Mind". Remember that spreading out stake is extremely important in regards to decentralizing the network.**
-
 1. Go to Puzzle and select the Node you would like to stake with.
 
 Notes when selecting a node
@@ -140,13 +138,9 @@ Notes when selecting a node
 * Voting History
 * Network Decentralization. *It's important all the stake doesn't flow to a single node!*
 
-Currently secretnodes.org is the largest node by a long shot. **So we are reccomending users stake to "Quiet Monkey Mind". Remember that spreading out stake is extremely important in regards to decentralizing the network.**
-
 <img src="_media/puzzle-5.png">
 
 2. Now click the "Stake Now" button.
-
-Currently secretnodes.org is the largest node by a long shot. **So we are reccomending users stake to "Quiet Monkey Mind". Remember that spreading out stake is extremely important in regards to decentralizing the network.**
 
 <img src="_media/puzzle-6.png">
 
