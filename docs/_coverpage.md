@@ -3,7 +3,7 @@
 > Securing the decentralized web!
 
 - 🚀 Nodes & Staking
-- 🌐 Solves for privacy and scalability
+- 🌐 Programmable Privacy
 - 🔒 Compute over encrypted data
 - 📶 Censorship Resistant Node Network
 
