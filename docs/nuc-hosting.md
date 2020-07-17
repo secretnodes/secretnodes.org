@@ -10,4 +10,4 @@ These are the options we're currently discussing.
 We have the capacity to configure these as Secret Nodes using our automated tools, configurations beyond that must be discussed first.
 **Please note, space will be extremely limited and we will only be able to accommodate a handful of NUC's from the community.**
 
-If interested please start a conversation with us by emailing us at nuc@omnistake.com or sending a pm to [Ian](https://t.me/moonstash) or [Brendan](https://t.me/BrendanKitt) on Telegram.
+If interested please start a conversation with us by emailing us at nuc@secretnodes.org or sending a pm to [Ian](https://t.me/moonstash).

@@ -32,7 +32,6 @@ This is a public telegram room. Keep the language, links, and images safe for fa
 
 List of Verified Admins for Node Support
 * [@moonstash](https://t.me/moonstash)
-* [@BrendanKitt](https://t.me/brendankitt)
 
 # Other Notes
 Please remember that this is a community run organization run mostly by volunteers and is not officially apart of Enigma. If you have any security concerns or feedback from your experience in the group or would like to contribute to the project please pm [@moonstash](https://t.me/moonstash) on telegram or if you prefer email hello@secretnodes.org
