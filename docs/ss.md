@@ -9,8 +9,8 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 2. ["Burn ENG for SCRT!"](https://puzzle.report/secret/chains/secret-1/governance/proposals/4)
 3. [Community Fee Param Change](https://puzzle.report/secret/chains/secret-1/governance/proposals/5)
 4. [Burn ENG for SCRT Budget Allocation](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/6)
-5. [Romulus Upgrade Signal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/11)
-6. [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14)
+5. [Romulus Upgrade Signal](https://puzzle.report/secret/chains/secret-1/governance/proposals/11)
+6. [The Token Swap Proposal](https://puzzle.report/secret/chains/secret-1/governance/proposals/14)
 
 ## How to Burn your ENG for SCRT?!?!?
 
