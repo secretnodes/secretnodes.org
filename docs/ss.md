@@ -36,7 +36,7 @@ It's already live.
 
 [Enigma Forums Swap Thread](https://forum.enigma.co/t/token-swap-proposal/1364)
 
-To participate in real time discussions around proposals made on the Enigma Blockchain join us in [Secret.Foundation](https://t.me/secretfoundation)
+To participate in real time discussions around proposals made on the Enigma Blockchain join us in [chat.scrt.network](https://chat.scrt.network), if you prefer telegram you can join [scrtcommunity](https://t.me/scrtcommunity), if you have technical questions and prefer telegram you can join [Secret Nodes](https://t.me/secretnodes)
 
 ## How do I connect my ledger to metamask?
 
