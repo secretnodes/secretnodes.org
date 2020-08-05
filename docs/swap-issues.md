@@ -12,7 +12,7 @@ Causes and resolutions for outages.
 
 2. Swap process failed on leader machine during data center move. When the process was restarted on the replacement machine the nodes endpoint was also down. After discovering the issue the leader machine was reconfigured to avoid the failure point. All swaps from this down time are confirmed completed.
 
-3. It appears that the swap process skipped a swap after a user input an ethereum address instead of a SCRT address for a burn of 10 ENG. Doing this on a burn prevents the swap operator software from understanding where to mint and send SCRT. We've taken down secretswap.io for now until we get a better understanding of how this was done and how to prevent such a mistake by users in the future.
+3. It appears that the swap process skipped a swap after a user input an ethereum address instead of a SCRT address for a burn of 10 ENG. Doing this on a burn prevents the swap operator software from understanding where to mint and send SCRT. We've taken down secretswap.io for now until we get a better understanding of how this was done and how to prevent such a mistake by users in the future. - Working on a longer term solution.
 
 Future plans for improvements
 
