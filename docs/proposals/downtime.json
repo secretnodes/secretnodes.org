@@ -1,0 +1,18 @@
+  
+{
+    "title": "Modification to downtime slashing",
+    "description": " 1.\n\n Sentence 2.\n\n",
+    "changes": [
+      {
+        "subspace": "slashing",
+        "key": "SlashFractionDowntime",
+        "value": "0.000100000000000000"
+      }
+    ],
+    "deposit": [
+      {
+        "denom": "uscrt",
+        "amount": "1000000"
+      }
+    ]
+  }
