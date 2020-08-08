@@ -1,7 +1,7 @@
   
 {
-    "title": "Modification to downtime slashing",
-    "description": " 1.\n\n Sentence 2.\n\n",
+    "title": "Modification to Downtime Slashing",
+    "description": "This proposal is to change the current 1% slashing fee for downtime to 0.01%. \n\n This is being proposed in an attempt to mitigate the impact of downtime slashing on smaller validators, delegators, and node runners in general to further encourage the decentralization of stake. \n\n This change is being made based on conversations on https://chat.scrt.network, multiple governance working group calls, and most recently on the Secret Network forums here https://forum.scrt.network/t/proposal-slashing-rate-reduction-for-downtime/1940?u=moonstash",
     "changes": [
       {
         "subspace": "slashing",
