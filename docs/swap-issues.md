@@ -4,7 +4,7 @@ We've had known outages during the following times.
 
 1. July 16th 2020 2pm PST - July 17th 2020 3pm PST 
 2. July 18th 2020 5pm PST - July 19th 2020 2pm PST
-3. Aug 5th 2020 6:30am PST - Ongoing
+3. Aug 5th 2020 6:30am PST - Aug 6th 2020
 
 Causes and resolutions for outages.
 
