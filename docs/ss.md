@@ -17,8 +17,15 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 <iframe src="https://player.vimeo.com/video/433185106" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/433185106">BURN ENG FOR SCRT?!?!</a> from <a href="https://vimeo.com/secretnodes">Secret Nodes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+## Swap Guides
+
+1. [Ledger Swap Guide](https://secretnodes.org/#/tutorials/ledger-swap)
+2. [Software Wallet Swap Guide](https://medium.com/@Immassi/swap-enigma-eng-to-secret-network-scrt-full-guide-by-sg-1-validator-131d5e542dd8)
+
+
+
 ## Exchange Support
-Once the swap is active and users can participate, we will be working to support exchanges that are assessing adding exchange support for the token swap. **So far the feedback we've gotten is that time is needed to assess the swap while it's live on mainnet before exchanges can support it**. Please note that before exchange support is live, users will already be able to independently participate in the swap at http://secretswap.io.
+We cannot speak on behalf of any exchange but please note that before exchange support is live, users will already be able to independently participate in the swap at http://secretswap.io.
 
 ## What should I do?
 
@@ -30,13 +37,11 @@ As stated in [The Token Swap Proposal](https://www.puzzle.report/secret/chains/s
 
 ## What will go live on the go live date?
 
-It's already live.
+It's live now! go to https://secretswap.io
 
-<img src="_media/soon.gif" alt="SOON">
+[Secret Network Swap Thread](https://forum.scrt.network/t/token-swap-proposal/1364)
 
-[Enigma Forums Swap Thread](https://forum.enigma.co/t/token-swap-proposal/1364)
-
-To participate in real time discussions around proposals made on the Enigma Blockchain join us in [chat.scrt.network](https://chat.scrt.network), if you prefer telegram you can join [scrtcommunity](https://t.me/scrtcommunity), if you have technical questions and prefer telegram you can join [Secret Nodes](https://t.me/secretnodes)
+To participate in real time discussions around proposals made on the Secret Network, join us in [chat.scrt.network](https://chat.scrt.network), if you prefer telegram you can join [scrtcommunity](https://t.me/scrtcommunity), if you have technical questions and prefer telegram you can join [Secret Nodes](https://t.me/secretnodes)
 
 ## How do I connect my ledger to metamask?
 
