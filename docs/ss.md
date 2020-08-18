@@ -67,10 +67,6 @@ You can store your ENG in metamask for the swap by using [this guide from metama
 
 Yes.
 
-## How to create a SCRT address with the light client.
-
-<iframe src="https://player.vimeo.com/video/433411685" width="640" height="456" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 
 ## ⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️
 
