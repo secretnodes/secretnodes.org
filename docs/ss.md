@@ -35,7 +35,7 @@ If you have ENG you are wishing to burn for SCRT, then please show exchanges you
 
 As stated in [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14), everyone will have until the end of 2020.
 
-## What will go live on the go live date?
+## When will the swap finally go live?
 
 It's live now! go to https://secretswap.io
 
@@ -65,7 +65,7 @@ You can store your ENG in metamask for the swap by using [this guide from metama
 
 ## Is metamask required to burn?
 
-Currently yes.
+Yes.
 
 ## How to create a SCRT address with the light client.
 
