@@ -12,16 +12,15 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 5. [Romulus Upgrade Signal](https://puzzle.report/secret/chains/secret-1/governance/proposals/11)
 6. [The Token Swap Proposal](https://puzzle.report/secret/chains/secret-1/governance/proposals/14)
 
-## How to Burn your ENG for SCRT?!?!?
-
-<iframe src="https://player.vimeo.com/video/433185106" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/433185106">BURN ENG FOR SCRT?!?!</a> from <a href="https://vimeo.com/secretnodes">Secret Nodes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 ## Swap Guides
 
 1. [Ledger Swap Guide](https://secretnodes.org/#/tutorials/ledger-swap)
 2. [Software Wallet Swap Guide](https://medium.com/@Immassi/swap-enigma-eng-to-secret-network-scrt-full-guide-by-sg-1-validator-131d5e542dd8)
 
+## How to Burn your ENG for SCRT?!?!?
+
+<iframe src="https://player.vimeo.com/video/433185106" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/433185106">BURN ENG FOR SCRT?!?!</a> from <a href="https://vimeo.com/secretnodes">Secret Nodes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ## Exchange Support
