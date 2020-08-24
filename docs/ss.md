@@ -24,7 +24,8 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 
 
 ## Exchange Support
-We cannot speak on behalf of any exchange but please note that before exchange support is live, users will already be able to independently participate in the swap at http://secretswap.io.
+
+[As of Aug 24th 2020 Binance has announced support of the $ENG to $SCRT token swap.](https://www.binance.com/en/support/articles/08082b3cbb874a23bd0b21aedae24852?utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial)
 
 ## What should I do?
 
