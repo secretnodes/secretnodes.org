@@ -2,6 +2,8 @@
 
 Hello everyone! It's been a long journey we've had since the [Secret Network launched in Feb 2020](https://blog.enigma.co/the-enigma-mainnet-has-launched-3bd0d40fe80d?source=collection_home---4------0-----------------------). Since then the community has been working tirelessly to achieve a decenteralized token swap from ENG to SCRT. Here is a recap of the chain of events since launch.
 
+To participate in real time discussions around proposals made on the Secret Network, join us in [chat.scrt.network](https://chat.scrt.network), if you prefer telegram you can join [scrtcommunity](https://t.me/scrtcommunity), if you have technical questions and prefer telegram you can join [Secret Nodes](https://t.me/secretnodes)
+
 
 ## Swap Related Proposals
 
@@ -40,8 +42,6 @@ As stated in [The Token Swap Proposal](https://www.puzzle.report/secret/chains/s
 It's live now! go to https://secretswap.io
 
 [Secret Network Swap Thread](https://forum.scrt.network/t/token-swap-proposal/1364)
-
-To participate in real time discussions around proposals made on the Secret Network, join us in [chat.scrt.network](https://chat.scrt.network), if you prefer telegram you can join [scrtcommunity](https://t.me/scrtcommunity), if you have technical questions and prefer telegram you can join [Secret Nodes](https://t.me/secretnodes)
 
 ## How do I connect my ledger to metamask?
 
