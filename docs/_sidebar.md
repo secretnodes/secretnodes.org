@@ -3,7 +3,7 @@
 
   - [Enigma Overview](enigma-quickstart.md "What is Enigma?")
   - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
-  - [Swap](swap.md "When swap?")
+  - [Secret Swap](ss.md "When swap?")
   - [FAQ](faq.md "FAQ")
   - [Governance](https://puzzle.report/secret/chains/secret-1/governance "Proposals on the Enigma Blockhain Mainnet")
   - [Warrant Cannary](secret-warrant-canary.md "Warrant Canary")
