@@ -4,6 +4,11 @@ Hello everyone! It's been a long journey we've had since the [Secret Network lau
 
 To participate in real time discussions around proposals made on the Secret Network, join us in [chat.scrt.network](https://chat.scrt.network), if you prefer telegram you can join [scrtcommunity](https://t.me/scrtcommunity), if you have technical questions and prefer telegram you can join [Secret Nodes](https://t.me/secretnodes)
 
+## Block Explorers
+
+[Puzzle](https://puzzle.report)
+[Cashmaney](https://explorer.cashmaney.com)
+
 
 ## Swap Related Proposals
 
