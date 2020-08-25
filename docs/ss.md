@@ -6,8 +6,8 @@ To participate in real time discussions around proposals made on the Secret Netw
 
 ## Block Explorers
 
-[Puzzle](https://puzzle.report)
-[Cashmaney](https://explorer.cashmaney.com)
+1. [Puzzle](https://puzzle.report)
+2. [Cashmaney](https://explorer.cashmaney.com)
 
 
 ## Swap Related Proposals
