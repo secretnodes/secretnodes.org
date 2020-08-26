@@ -20,4 +20,4 @@ Looking for a telegram price channel? Look no further! [SCRT Community (Unoffici
 
 ## Community
 
-For support on running your Enigma Secret Node please visit the [enigma forums](https://forum.enigma.co/c/enigma-nodes/8).
+For support on running your Secret Node please visit the [Secret Network Forums](https://forum.scrt.network).
