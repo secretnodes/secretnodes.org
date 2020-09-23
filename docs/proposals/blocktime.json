@@ -1,0 +1,17 @@
+{
+    "title": "Put Title Here",
+    "description": "Put description here",
+    "changes": [
+      {
+        "subspace": "mint",
+        "key": "BlocksPerYear",
+        "value": "0.000100000000000000"
+      }
+    ],
+    "deposit": [
+      {
+        "denom": "uscrt",
+        "amount": "1000000"
+      }
+    ]
+  }
