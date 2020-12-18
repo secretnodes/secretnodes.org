@@ -12,12 +12,12 @@ To participate in real time discussions around proposals made on the Secret Netw
 
 ## Swap Related Proposals
 
-1. [Unify The Enigma Community](https://puzzle.report/secret/chains/secret-1/governance/proposals/2)
-2. ["Burn ENG for SCRT!"](https://puzzle.report/secret/chains/secret-1/governance/proposals/4)
-3. [Community Fee Param Change](https://puzzle.report/secret/chains/secret-1/governance/proposals/5)
-4. [Burn ENG for SCRT Budget Allocation](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/6)
-5. [Romulus Upgrade Signal](https://puzzle.report/secret/chains/secret-1/governance/proposals/11)
-6. [The Token Swap Proposal](https://puzzle.report/secret/chains/secret-1/governance/proposals/14)
+1. [Unify The Enigma Community](https://puzzle.report/secret/chains/secret-2/governance/proposals/2)
+2. ["Burn ENG for SCRT!"](https://puzzle.report/secret/chains/secret-2/governance/proposals/4)
+3. [Community Fee Param Change](https://puzzle.report/secret/chains/secret-2/governance/proposals/5)
+4. [Burn ENG for SCRT Budget Allocation](https://www.puzzle.report/secret/chains/secret-2/governance/proposals/6)
+5. [Romulus Upgrade Signal](https://puzzle.report/secret/chains/secret-2/governance/proposals/11)
+6. [The Token Swap Proposal](https://puzzle.report/secret/chains/secret-2/governance/proposals/14)
 
 ## Swap Guides
 
@@ -26,8 +26,7 @@ To participate in real time discussions around proposals made on the Secret Netw
 
 ## How to Burn your ENG for SCRT?!?!?
 
-<iframe src="https://player.vimeo.com/video/433185106" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/433185106">BURN ENG FOR SCRT?!?!</a> from <a href="https://vimeo.com/secretnodes">Secret Nodes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a--ZTAiN2RQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Exchange Support
@@ -40,7 +39,7 @@ If you have ENG you are wishing to burn for SCRT, then please show exchanges you
 
 ## How long do I have to swap?
 
-As stated in [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-1/governance/proposals/14), everyone will have until the end of 2020.
+As stated in [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-2/governance/proposals/14), everyone will have until the end of 2020.
 
 ## When will the swap finally go live?
 
