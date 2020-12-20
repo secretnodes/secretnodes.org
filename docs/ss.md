@@ -1,5 +1,7 @@
 ## secretswap.io
 
+NOTICE: The Community run ENG to SCRT swap is scheduled to close on Jan 1st 2021 11pm PST. After this date it will be impossible to burn your ENG for SCRT.
+
 Hello everyone! It's been a long journey we've had since the [Secret Network launched in Feb 2020](https://blog.enigma.co/the-enigma-mainnet-has-launched-3bd0d40fe80d?source=collection_home---4------0-----------------------). Since then the community has been working tirelessly to achieve a decenteralized token swap from ENG to SCRT. Here is a recap of the chain of events since launch.
 
 To participate in real time discussions around proposals made on the Secret Network, join us in [chat.scrt.network](https://chat.scrt.network), if you prefer telegram you can join [scrtcommunity](https://t.me/scrtcommunity), if you have technical questions and prefer telegram you can join [Secret Nodes](https://t.me/secretnodes)
