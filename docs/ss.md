@@ -4,7 +4,7 @@ NOTICE: T̶h̶e̶ ̶C̶o̶m̶m̶u̶n̶i̶t̶y̶ ̶r̶u̶n̶ ̶E̶N̶G̶ ̶t̶o̶
 
 NOTICE 2: The ENG to SCRT swap has been extended. It will close upon the passing of [proposal 27](https://puzzle.report/secret/chains/secret-2/governance). Since this is a parameter change the only way for it to not close upon passing would be for the votes to change to no or the proposal to otherwise fail.
 
-Final Notice : The swap was extended and ultimately ended on Jan 4th 2021 at 12:05pm PST. As of that time burning ENG for SCRT is no longer possible.
+Final Notice : The swap ultimately ended on Jan 4th 2021 at 12:05pm PST. As of that time burning ENG for SCRT is no longer possible.
 
 Hello everyone! It's been a long journey we've had since the [Secret Network launched in Feb 2020](https://blog.enigma.co/the-enigma-mainnet-has-launched-3bd0d40fe80d?source=collection_home---4------0-----------------------). Since then the community has been working tirelessly to achieve a decenteralized token swap from ENG to SCRT. Here is a recap of the chain of events since launch.
 
