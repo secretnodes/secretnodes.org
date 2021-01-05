@@ -39,7 +39,7 @@ As stated in [The Token Swap Proposal](https://www.puzzle.report/secret/chains/s
 
 ## I missed the swap. What can I do?
 
-The ENG to SCRT burn was a community run optional swap operated between 06-27-2020 and Jan 4th 2021, during this time those who wanted to burn their ENG tokens were minted SCRT at a 1:1 rate. As of 12-28-2020 the community voted to turn off the swap through [the "Disable & Remove ENG to SCRT Burn components"](https://puzzle.report/secret/chains/secret-2/governance/proposals/27) proposal. While we never intended to see anyone in enigma left behind the network has spoken in overwhelming favor to disable and remove the swap components. The Secret Network is a sovereign chain independent of the ENG token, with a different distribution than ENG, and launched by the community.
+The ENG to SCRT burn was a community run optional swap operated between 06-27-2020 and Jan 4th 2021, during this time those who wanted to burn their ENG tokens were minted SCRT at a 1:1 rate. As of 12-28-2020 the community voted to turn off the swap through [the "Disable & Remove ENG to SCRT Burn components"](https://puzzle.report/secret/chains/secret-2/governance/proposals/27) proposal. While we never intended to see anyone in enigma left behind, the network overwhelmingly has spoken overwhelming in favor to disable and remove the swap components. The Secret Network is a sovereign chain independent of the ENG token, with a different distribution than ENG, and launched by the community not a singular central entity.
 
 
 ## ⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️
