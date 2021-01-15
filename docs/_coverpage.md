@@ -8,7 +8,7 @@
 - 📶 Censorship Resistant Node Network
 
 <div class="buttons">
-  <a href="https://puzzle.report"><span>Explore</span></a>
+  <a href="https://secretnodes.com"><span>Explore</span></a>
   <a href="#/readme"><span>Learn</span></a>
   <a href="#/stake"><span>Stake</span></a>
   <a href="#/ss"><span>SWAP?!</span></a>
