@@ -1,11 +1,9 @@
 
 - Main Menu
-
-  - [Enigma Overview](enigma-quickstart.md "What is Enigma?")
-  - [Nodes Explained](nodes-quickstart.md "What are Secret Nodes?")
+  - [Secret Network](https://scrt.network "Secret Network")
   - [Secret Swap](ss.md "When swap?")
   - [FAQ](faq.md "FAQ")
-  - [Governance](https://puzzle.report/secret/chains/secret-1/governance "Proposals on the Enigma Blockhain Mainnet")
+  - [Governance](https://secretnodes.com/secret/chains/secret-2/governance "Proposals on the Secret Network")
   - [Warrant Cannary](secret-warrant-canary.md "Warrant Canary")
 
 - Projects
