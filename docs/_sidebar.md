@@ -9,7 +9,7 @@
   - [Warrant Cannary](secret-warrant-canary.md "Warrant Canary")
 
 - Projects
-  - [Puzzle](https://puzzle.report)
+  - [ 🧩secretnodes](https://secretnodes.com)
 
 - Guides
   - [Ledger Swap Doc](tutorials/ledger-swap.md "Burn ENG for SCRT from your ledger")
