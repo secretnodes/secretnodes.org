@@ -12,7 +12,7 @@ To participate in real time discussions around proposals made on the Secret Netw
 
 ## Block Explorers
 
-1. [Puzzle](https://puzzle.report)
+1. [secretnodes](https://secretnodes.com)
 2. [Cashmaney](https://explorer.cashmaney.com)
 
 
