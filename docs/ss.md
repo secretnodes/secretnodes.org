@@ -2,7 +2,7 @@
 
 NOTICE: T̶h̶e̶ ̶C̶o̶m̶m̶u̶n̶i̶t̶y̶ ̶r̶u̶n̶ ̶E̶N̶G̶ ̶t̶o̶ ̶S̶C̶R̶T̶ ̶s̶w̶a̶p̶ ̶i̶s̶ ̶s̶c̶h̶e̶d̶u̶l̶e̶d̶ ̶t̶o̶ ̶c̶l̶o̶s̶e̶ ̶o̶n̶ ̶J̶a̶n̶ ̶1̶s̶t̶ ̶2̶0̶2̶1̶ ̶1̶1̶p̶m̶ ̶P̶S̶T̶.̶ ̶A̶f̶t̶e̶r̶ ̶t̶h̶i̶s̶ ̶d̶a̶t̶e̶ ̶i̶t̶ ̶w̶i̶l̶l̶ ̶b̶e̶ ̶i̶m̶p̶o̶s̶s̶i̶b̶l̶e̶ ̶t̶o̶ ̶b̶u̶r̶n̶ ̶y̶o̶u̶r̶ ̶E̶N̶G̶ ̶f̶o̶r̶ ̶S̶C̶R̶T̶.̶
 
-NOTICE 2: The ENG to SCRT swap has been extended. It will close upon the passing of [proposal 27](https://puzzle.report/secret/chains/secret-2/governance). Since this is a parameter change the only way for it to not close upon passing would be for the votes to change to no or the proposal to otherwise fail.
+NOTICE 2: The ENG to SCRT swap has been extended. It will close upon the passing of [proposal 27](https://secretnodes.com/secret/chains/secret-2/governance). Since this is a parameter change the only way for it to not close upon passing would be for the votes to change to no or the proposal to otherwise fail.
 
 Final Notice : The swap ultimately ended on Jan 4th 2021 at 12:05pm PST. As of that time burning ENG for SCRT is no longer possible.
 
@@ -18,14 +18,14 @@ To participate in real time discussions around proposals made on the Secret Netw
 
 ## Swap Related Proposals
 
-1. [Unify The Enigma Community](https://puzzle.report/secret/chains/secret-2/governance/proposals/2)
-2. ["Burn ENG for SCRT!"](https://puzzle.report/secret/chains/secret-2/governance/proposals/4)
-3. [Community Fee Param Change](https://puzzle.report/secret/chains/secret-2/governance/proposals/5)
-4. [Burn ENG for SCRT Budget Allocation](https://www.puzzle.report/secret/chains/secret-2/governance/proposals/6)
-5. [Romulus Upgrade Signal](https://puzzle.report/secret/chains/secret-2/governance/proposals/11)
-5. [The Romulus Upgrade Proposal](https://puzzle.report/secret/chains/secret-2/governance/proposals/13)
-6. [The Token Swap Proposal](https://puzzle.report/secret/chains/secret-2/governance/proposals/14)
-7. [Disable & Remove ENG to SCRT Burn components.](https://puzzle.report/secret/chains/secret-2/governance/proposals/27)
+1. [Unify The Enigma Community](https://secretnodes.com/secret/chains/secret-2/governance/proposals/2)
+2. ["Burn ENG for SCRT!"](https://secretnodes.com/secret/chains/secret-2/governance/proposals/4)
+3. [Community Fee Param Change](https://secretnodes.com/secret/chains/secret-2/governance/proposals/5)
+4. [Burn ENG for SCRT Budget Allocation](https://secretnodes.com/secret/chains/secret-2/governance/proposals/6)
+5. [Romulus Upgrade Signal](https://secretnodes.com/secret/chains/secret-2/governance/proposals/11)
+5. [The Romulus Upgrade Proposal](https://secretnodes.com/secret/chains/secret-2/governance/proposals/13)
+6. [The Token Swap Proposal](https://secretnodes.com/secret/chains/secret-2/governance/proposals/14)
+7. [Disable & Remove ENG to SCRT Burn components.](https://secretnodes.com/secret/chains/secret-2/governance/proposals/27)
 
 
 ## Exchange Support
@@ -35,7 +35,7 @@ To participate in real time discussions around proposals made on the Secret Netw
 
 ## How long do I have to swap?
 
-As stated in [The Token Swap Proposal](https://www.puzzle.report/secret/chains/secret-2/governance/proposals/14), everyone had until the end of 2020.
+As stated in [The Token Swap Proposal](https://secretnodes.com/secret/chains/secret-2/governance/proposals/14), everyone had until the end of 2020.
 
 ## I missed the swap. What can I do?
 
