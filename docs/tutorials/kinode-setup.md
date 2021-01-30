@@ -180,7 +180,7 @@ Description=KI Node Daemon
 After=network-online.target
 
 [Service]
-User=ki-nuc
+User=<username>
 WorkingDirectory=/home/<username>/kifolder
 ExecStart=/home/<username>/go/bin/kid start --home /home/<username>/kifolder/.kid/
 Restart=always
