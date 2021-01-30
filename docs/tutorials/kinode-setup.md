@@ -243,7 +243,7 @@ kicli tx staking create-validator \
             --commission-rate=0.05 \
             --min-self-delegation=1 \
             --amount=1000000uxki \
-            --pubkey `kid tendermint show-validator --home kifolder/.kid/` \
+            --pubkey `kid tendermint show-validator --home /home/<username>/kifolder/.kid/` \
             --moniker=<moniker-no-carrots> \
             --chain-id=kichain-1 \
             --gas-prices=0.025uxki \
