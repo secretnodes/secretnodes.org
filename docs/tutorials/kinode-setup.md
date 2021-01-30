@@ -18,9 +18,9 @@ To install Go, visit the Go download page and copy the link of the following Go 
 ```bash
 cd ~
 
-wget https://dl.google.com/go/go1.13.5.linux-amd64.tar.gz
+wget https://golang.org/dl/go1.15.7.linux-amd64.tar.gz
 
-sudo tar -C /usr/local -xzf go1.13.5.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.15.7.linux-amd64.tar.gz
 ```
 
 #### Finally, export the Go paths like so:
