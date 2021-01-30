@@ -134,7 +134,7 @@ kid unsafe-reset-all --home /.kid
 Copy the genesis file to the /.kid/config/ folder:
 
 ```bash
-cd <location of your choice>/.kid/config/
+cd /home/<username>/kifolder/.kid/config/
 
 wget https://raw.githubusercontent.com/KiFoundation/ki-networks/v0.1/Mainnet/kichain-1/genesis.json
 ```
