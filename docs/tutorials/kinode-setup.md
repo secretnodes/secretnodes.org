@@ -151,7 +151,7 @@ Where, IP is the public IP of your node and PORT is your listen address that def
 To allow your node to connect to the network, provide the following seed node address in the seeds field:
 
 ```bash
-seeds="24cbccfa8813accd0ebdb09e7cdb54cff2e8fcd9@51.89.166.197:26656"
+perl -i -pe 's/^seeds = ".*?"/seeds = "24cbccfa8813accd0ebdb09e7cdb54cff2e8fcd9@51.89.166.197:26656"/' /home/<username>/kifolder/.kid/config/config.toml
 ```
 
 Then provide in the field persistent_peers the address of the following persistent peers to ensure that your node is always connected to the network:
