@@ -234,7 +234,7 @@ Note : You will need to wait for the end of the synchronisation process before p
 The previous steps will start the node in a relay mode. That is, it is relaying transactions and blocks, but note validating new blocks. To enable the validation process, you need to create and declare your own validator. Start by create your validator wallet by generating a new key pair as follows (Here we call it wallet-1 but you can call it whatever you want):
 
 ```bash
-kicli keys add wallet-1 --home ./kicli/
+kicli keys add wallet-1 --home ./kifolder/kicli/
 ```
 
 Enter your password twice and then save the generated addresses, keys and passphrase.
@@ -256,7 +256,7 @@ kicli tx staking create-validator \
             --chain-id=kichain-1 \
             --gas-prices=0.025uxki \
             --from=<wallet-name-no-carrots> \
-            --home ./kicli/
+            --home ./kifolder/kicli/
 ```
 
 To know more about the various possible configurations of your validator, please refer to the dedicated documentation. Once this transaction has passed, and if the bonded amount is sufficient to be in the active validator list, your validator will automatically start validating new blocks. You can check the list of active validators and a bunch of details on the blockchain's transactions, blocks and accounts on the Ki Explorer.
