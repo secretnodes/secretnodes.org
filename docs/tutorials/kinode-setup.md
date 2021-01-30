@@ -3,14 +3,6 @@ Run a Full Node
 This document details how to join kichain `mainnet` as a validator.
 
 #### ⚙️ Recommended hardware specs
-To participate in this Mainnet you must have a server with the minimum following specifications:
-
-- Up to date SGX ([Read this](https://learn.scrt.network/sgx.html), [Setup](setup-sgx.md), [Verify](verify-sgx.md))
-- 1GB RAM
-- 100GB HDD
-- 1 dedicated core of any Intel Skylake processor (Intel® 6th generation) or better
-
-#### Recommended requirements
 
 - Ubuntu 18.04 OS
 - 2 CPUs (recommended 4CPUs)
@@ -128,10 +120,10 @@ cd $NODE_ROOT
 Initiate the needed configuration files using the unsafe-reset-allcommand:
 
 ```bash
-kid unsafe-reset-all --home /.kid
+kid unsafe-reset-all --home /home/<username>/.kid
 ```
 
-Copy the genesis file to the /.kid/config/ folder:
+Copy the genesis file to the /home/<username>/.kid/config/ folder:
 
 ```bash
 cd /home/<username>/kifolder/.kid/config/
@@ -139,7 +131,7 @@ cd /home/<username>/kifolder/.kid/config/
 wget https://raw.githubusercontent.com/KiFoundation/ki-networks/v0.1/Mainnet/kichain-1/genesis.json
 ```
 
-Once done, you need to give a name to your node and indicate the seed server to which it should connect to join the network. All of this can be done in the config.toml that can be found in the /.kid/config/ directory. Change the default moniker to whatever you want (the default name is the machine name).
+Once done, you need to give a name to your node and indicate the seed server to which it should connect to join the network. All of this can be done in the config.toml that can be found in the /home/<username>/.kid/config/ directory. Change the default moniker to whatever you want (the default name is the machine name).
 Since the network infrastructures can vary from one node to the other, we recommend that you manually set your external listen address. This can be done by filling in the external_address field as follows:
 
 
@@ -160,7 +152,7 @@ Then provide in the field persistent_peers the address of the following persiste
 persistent_peers="81396d4703a2e3cbd136c7324e4df5686fd48218@35.180.8.214:26656,c597db55d9a609b8b77c3d37ecf1fa9a67117cc0@144.217.82.4:26656,e195adf87e7ee724d21cacc9c59c74fd6d7977c0@54.37.233.162:26656"
 ```
 
-🛑 To protect your node from being spammed by empty transactions, we recommend you to set a minimum gas price. For this, edit the minimum-gas-price parameter in the file /.kid/config/app.toml as follows:
+🛑 To protect your node from being spammed by empty transactions, we recommend you to set a minimum gas price. For this, edit the minimum-gas-price parameter in the file /home/<username>/.kid/config/app.toml as follows:
 
 ```bash
 minimum-gas-price="0.025uxki"
