@@ -120,7 +120,7 @@ cd $NODE_ROOT
 Initiate the needed configuration files using the unsafe-reset-allcommand:
 
 ```bash
-kid unsafe-reset-all --home /home/<username>/.kid
+kid unsafe-reset-all --home /home/<username>/kifolder/.kid
 ```
 
 Copy the genesis file to the /home/<username>/.kid/config/ folder:
