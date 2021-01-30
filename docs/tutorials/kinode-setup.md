@@ -273,3 +273,5 @@ kicli tx staking edit-validator  \
 ```
 
 This will refer to an existing Keybase account and use its associated information (e.g. avatar image) as meta data for you validator.
+
+This guide is based off this article https://medium.com/ki-foundation/how-to-join-the-kichain-mainnet-5ac7160d72e3
