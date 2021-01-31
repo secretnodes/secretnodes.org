@@ -226,7 +226,7 @@ Note : You will need to wait for the end of the synchronisation process before p
 The previous steps will start the node in a relay mode. That is, it is relaying transactions and blocks, but note validating new blocks. To enable the validation process, you need to create and declare your own validator. Start by create your validator wallet by generating a new key pair as follows (Here we call it wallet-1 but you can call it whatever you want):
 
 ```bash
-kicli keys add wallet-1 --home /home/<username>/kifolder/kicli/kicli/
+kicli keys add wallet-1 --home /home/<username>/kifolder/kicli/
 ```
 
 Enter your password twice and then save the generated addresses, keys and passphrase.
