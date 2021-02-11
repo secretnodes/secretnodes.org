@@ -4,7 +4,7 @@
 2. The ENG swap was closed because it could no longer be reasonably supported by the Secret Community.
 3. The ENG swap will not reopen because it was already voted to be disabled and have the functionality removed from the chain. Such a governance decisions on the Secret Network cannot be ignored or otherwise bypassed.
 4. Exchanges with large holdings were reached out to. The only known exchanges who listened and followed through with the swap were binance and bitkub.
-5. The falt for any inaction by an exchange or individual to swap within the 6 month timefame is their sole responsiblity.
+5. The fault for any inaction by an exchange or individual to swap within the 6 month timefame is their sole responsiblity.
 6. Current known options for ENG holders are selling on bittrex or uniswap.
 
 
