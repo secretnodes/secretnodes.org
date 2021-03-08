@@ -1,4 +1,4 @@
-## secretswap.io
+## Burn ENG for SCRT!
 
 NOTICE: T̶h̶e̶ ̶C̶o̶m̶m̶u̶n̶i̶t̶y̶ ̶r̶u̶n̶ ̶E̶N̶G̶ ̶t̶o̶ ̶S̶C̶R̶T̶ ̶s̶w̶a̶p̶ ̶i̶s̶ ̶s̶c̶h̶e̶d̶u̶l̶e̶d̶ ̶t̶o̶ ̶c̶l̶o̶s̶e̶ ̶o̶n̶ ̶J̶a̶n̶ ̶1̶s̶t̶ ̶2̶0̶2̶1̶ ̶1̶1̶p̶m̶ ̶P̶S̶T̶.̶ ̶A̶f̶t̶e̶r̶ ̶t̶h̶i̶s̶ ̶d̶a̶t̶e̶ ̶i̶t̶ ̶w̶i̶l̶l̶ ̶b̶e̶ ̶i̶m̶p̶o̶s̶s̶i̶b̶l̶e̶ ̶t̶o̶ ̶b̶u̶r̶n̶ ̶y̶o̶u̶r̶ ̶E̶N̶G̶ ̶f̶o̶r̶ ̶S̶C̶R̶T̶.̶
 
@@ -42,15 +42,4 @@ As stated in [The Token Swap Proposal](https://secretnodes.com/secret/chains/sec
 The ENG to SCRT burn was a community run optional swap operated between 06-27-2020 and 01-04-2021, during this time those who wanted to burn their ENG tokens were minted SCRT at a 1:1 rate. As of 12-28-2020 the community voted to turn off the swap through [the "Disable & Remove ENG to SCRT Burn components"](https://puzzle.report/secret/chains/secret-2/governance/proposals/27) proposal. While we never intended to see anyone in enigma left behind, the network has overwhelmingly spoken in favor of disabling and removing the swap components. The Secret Network is a sovereign chain independent of the ENG token, with a different distribution than ENG, and launched by the community not a singular central entity.
 
 If you have ENG your options are to try and sell them on an exchange. No further 1:1 swaps are happening any longer.
-
-
-## ⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️
-
-THE ONLY OFFICIAL SITE TO SWAP IS https://secretswap.io NO OTHER SITE SHOULD BE CONSIDERED AS OFFICIAL FOR ANY REASON WHATSOEVER. WE WILL COMMUNICATE OFFICIAL EXCHANGE SUPPORT FOR ANY EXCHANGES WHO ANNOUNCE THEIR SUPPORT PUBLICLY.
-
-THE TOKEN SWAP IS AND WAS PROVIDED BY CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF RELIABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
-
-IN NO EVENT SHALL THE CONTRIBUTORS TO SECRET SWAP OR MAINTAINERS OF SECRETSWAP.IO BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES 
-
-INCLUDING LOST PROFITS, ARISING OUT OF THE USE OR THE FAILURE TO USE THIS SOFTWARE AND ITS DOCUMENTATION DURING THE SWAP WINDOW, THOSE WHO SWAP OR USE SECRETSWAP.IO ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
