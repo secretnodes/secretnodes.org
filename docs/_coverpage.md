@@ -5,7 +5,7 @@
 - 🚀 Nodes & Staking
 - 🌐 Programmable Privacy
 - 🔒 Compute over encrypted data
-- 📶 Censorship Resistant Node Network
+- 📶 Decentralized Node Network
 
 <div class="buttons">
   <a href="https://secretnodes.com"><span>Explore</span></a>
