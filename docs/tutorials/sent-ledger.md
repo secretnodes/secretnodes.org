@@ -30,7 +30,7 @@ _Ref: https://github.com/cosmos/ledger-cosmos_
 3) On the validators page you choose, click "Stake" button near the top right of the page. 
   ![](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/wallet%20type.png)
 4) Now you can decide the amount of DVPN you want to delegate to the node.
-  ![](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/new%20delegation.png
+  ![](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/new%20delegation.png)
 5) Once you decide how much you'd like to stake from your available balance, you should proceed to sign the transaction on your ledger.
 
 ## More guides coming ™
