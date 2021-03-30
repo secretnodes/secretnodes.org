@@ -26,6 +26,12 @@ _Ref: https://github.com/cosmos/ledger-cosmos_
 ## Delegate to a Sentinel Validator
 
 1) Select a validator you'd like to stake with from the following page [Sentinel Validator List](https://secretnodes.com/sentinel/chains/sentinelhub-1/validators)
-2) On the validators page you choose, you will be presented with the option to "Stake". 
-  ![](https://raw.githubusercontent.com/cosmos/ledger-cosmos/master/docs/img/cosmos_app1.png)
+[](https://raw.githubusercontent.com/secretnodes/secretnodes.org/34df610ca65a8c752a29e9e5df0dc7df26d1477b/docs/_media/validator%20page.png)
+3) On the validators page you choose, click "Stake" button near the top right of the page. 
+  ![](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/wallet%20type.png)
+4) Now you can decide the amount of DVPN you want to delegate to the node.
+  ![](https://raw.githubusercontent.com/secretnodes/secretnodes.org/master/docs/_media/new%20delegation.png
+5) Once you decide how much you'd like to stake from your available balance, you should proceed to sign the transaction on your ledger.
+
+## More guides coming ™
 
