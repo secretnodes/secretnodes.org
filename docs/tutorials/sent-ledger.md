@@ -36,5 +36,5 @@ _Ref: https://github.com/cosmos/ledger-cosmos_
   
 5) Once you decide how much you'd like to stake from your available balance, you should proceed to sign the transaction on your ledger.
 
-## More guides coming ™
+## More guides coming soon ™
 
