@@ -6,6 +6,7 @@
 
 - Projects
   - [ 🧩secretnodes](https://secretnodes.com)
+  - [ 🧩secretnodes Sentinel](https://secretnodes.com/sentinel)
 
 - Other
   - [Privacy Policy](privacy-policy.md)
