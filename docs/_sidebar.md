@@ -8,5 +8,4 @@
   - [ 🧩secretnodes](https://secretnodes.com)
 
 - Other
-  - [Community Rules](rules.md)
   - [Privacy Policy](privacy-policy.md)
