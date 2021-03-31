@@ -7,9 +7,6 @@
 
 Established in 2018, we're a grassroots organization that believes society is facing a fork in the road in regards to privacy, security, data rights and their trend towards further degradation. We aim to be a refuge at this impasse, and are committed to supporting the [Secret Network](https://scrt.network) by helping to empower its stakeholders.
 
-## Notable Achievements
-Since the launch of the Secret Network in Feb 2020, Secretnodes.org has achieved some notable things such as, being a genesis signer on the network, proposing and leading the Secret Swap, and authoring the first 3 community spend proposals: [Burn ENG for SCRT](https://secretnodes.com/secret/chains/secret-1/governance/proposals/6), [The Puzzle Proposal](https://secretnodes.com/secret/chains/secret-1/governance/proposals/8), and [The Testnet Proposal](https://secretnodes.com/secret/chains/secret-1/governance/proposals/9).
-
 Interested in staking your SCRT with us? [Stake!](https://secretnodes.org/#/stake).
 
 [Jump right in and start learning!](https://secretnodes.org/#/enigma-quickstart).
